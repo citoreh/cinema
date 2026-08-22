@@ -1,0 +1,13 @@
+Scene 238
+Frame timestamp: 2199.640s (00:36:39.640) — roughly 46% through the video
+Scene span: 2194.44s → 2204.84s (duration ~10.40s)
+
+What's in the frame: there is a man that is riding a motorcycle down the street
+Additional detail: a detailed photo of a person riding a motorcycle on a city street
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (35.0%), brown (33.5%), black (31.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 37.1)

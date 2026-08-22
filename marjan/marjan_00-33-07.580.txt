@@ -1,0 +1,13 @@
+Scene 214
+Frame timestamp: 1987.580s (00:33:07.580) — roughly 41% through the video
+Scene span: 1985.84s → 1989.32s (duration ~3.48s)
+
+What's in the frame: there is a man with a beard standing behind bars in a jail cell
+Additional detail: a detailed photo of a man with a beard standing in a jail cell
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 35.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (39.8%), brown (31.0%), black (29.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 7.9)

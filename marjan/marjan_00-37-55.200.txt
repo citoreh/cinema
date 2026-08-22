@@ -1,0 +1,13 @@
+Scene 259
+Frame timestamp: 2275.200s (00:37:55.200) — roughly 47% through the video
+Scene span: 2274.12s → 2276.28s (duration ~2.16s)
+
+What's in the frame: there are two men standing next to each other in a park
+Additional detail: a detailed photo of two men standing next to each other in a park
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (39.5%), black (33.8%), gray (26.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 63.7)

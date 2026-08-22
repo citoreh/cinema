@@ -1,0 +1,13 @@
+Scene 226
+Frame timestamp: 2016.140s (00:33:36.140) — roughly 42% through the video
+Scene span: 2014.88s → 2017.40s (duration ~2.52s)
+
+What's in the frame: there is a man in a suit looking down at his cell phone
+Additional detail: a detailed photo of a man in a suit looking down
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 32.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (53.2%), black (27.5%), brown (19.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.2)

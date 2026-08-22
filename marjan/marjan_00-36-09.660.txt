@@ -1,0 +1,13 @@
+Scene 236
+Frame timestamp: 2169.660s (00:36:09.660) — roughly 45% through the video
+Scene span: 2160.56s → 2178.76s (duration ~18.20s)
+
+What's in the frame: there is a man and a woman standing in front of a mirror
+Additional detail: a detailed photo of a man signing a woman ' s name on a piece of paper
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.3/255)
+  - Color palette: muted colors — dominant colors: navy (39.8%), black (36.5%), gray (23.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.0)

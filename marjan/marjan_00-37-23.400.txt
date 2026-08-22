@@ -1,0 +1,13 @@
+Scene 249
+Frame timestamp: 2243.400s (00:37:23.400) — roughly 47% through the video
+Scene span: 2242.88s → 2243.92s (duration ~1.04s)
+
+What's in the frame: there is a man that is standing in a store looking at something
+Additional detail: a detailed photo of an older man in a grocery store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.2/255)
+  - Color palette: muted colors — dominant colors: gray (35.9%), brown (33.2%), black (30.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.0)

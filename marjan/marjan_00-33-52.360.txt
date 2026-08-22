@@ -1,0 +1,13 @@
+Scene 229
+Frame timestamp: 2032.360s (00:33:52.360) — roughly 42% through the video
+Scene span: 2029.32s → 2035.40s (duration ~6.08s)
+
+What's in the frame: there is a man and a woman that are looking at each other
+Additional detail: a detailed photo of a man and a woman standing next to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (47.5%), black (38.0%), brown (14.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 8.8)

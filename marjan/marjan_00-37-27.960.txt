@@ -1,0 +1,13 @@
+Scene 251
+Frame timestamp: 2247.960s (00:37:27.960) — roughly 47% through the video
+Scene span: 2245.68s → 2250.24s (duration ~4.56s)
+
+What's in the frame: there is a man that is standing next to a man in a store
+Additional detail: a detailed photo of two men in a store talking to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 60.6/255)
+  - Color palette: muted colors — dominant colors: brown (36.8%), gray (32.4%), black (30.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 40.6)

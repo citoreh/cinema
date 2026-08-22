@@ -1,0 +1,13 @@
+Scene 242
+Frame timestamp: 2225.380s (00:37:05.380) — roughly 46% through the video
+Scene span: 2224.48s → 2226.28s (duration ~1.80s)
+
+What's in the frame: there is a man that is standing in a store looking at something
+Additional detail: a detailed photo of a man with a beard in a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 66.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (34.6%), black (33.0%), brown (32.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 27.7)

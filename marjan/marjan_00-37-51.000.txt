@@ -1,0 +1,13 @@
+Scene 257
+Frame timestamp: 2271.000s (00:37:51.000) — roughly 47% through the video
+Scene span: 2269.60s → 2272.40s (duration ~2.80s)
+
+What's in the frame: there is a man that is talking to another man on the street
+Additional detail: a detailed photo of a man talking to another man on the street
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (40.3%), black (36.3%), brown (23.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 33.6)

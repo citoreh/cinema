@@ -1,0 +1,13 @@
+Scene 235
+Frame timestamp: 2154.640s (00:35:54.640) — roughly 45% through the video
+Scene span: 2148.72s → 2160.56s (duration ~11.84s)
+
+What's in the frame: there is a man that is standing in front of a mirror
+Additional detail: a detailed photo of a man in a white coat and a woman in a black jacket
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (60.2%), brown (20.8%), gray (19.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 40.6)

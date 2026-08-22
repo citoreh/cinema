@@ -1,0 +1,13 @@
+Scene 216
+Frame timestamp: 1993.640s (00:33:13.640) — roughly 41% through the video
+Scene span: 1993.20s → 1994.08s (duration ~0.88s)
+
+What's in the frame: there is a man with a beard standing in a jail cell
+Additional detail: a detailed photo of a man with a beard in a jail cell
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (40.3%), brown (31.4%), black (28.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.5)

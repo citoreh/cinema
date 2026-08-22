@@ -1,0 +1,13 @@
+Scene 218
+Frame timestamp: 1997.620s (00:33:17.620) — roughly 41% through the video
+Scene span: 1996.48s → 1998.76s (duration ~2.28s)
+
+What's in the frame: there is a man with a beard standing behind bars in a jail cell
+Additional detail: a detailed photo of a man with a beard in a jail cell
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (38.6%), black (30.8%), brown (30.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 7.4)

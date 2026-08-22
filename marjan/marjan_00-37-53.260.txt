@@ -1,0 +1,13 @@
+Scene 258
+Frame timestamp: 2273.260s (00:37:53.260) — roughly 47% through the video
+Scene span: 2272.40s → 2274.12s (duration ~1.72s)
+
+What's in the frame: there are two men standing next to each other and one is adjusting his tie
+Additional detail: a detailed photo of an older man adjusting his tie while another man looks on
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (45.3%), black (31.5%), brown (23.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 28.9)

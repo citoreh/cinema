@@ -1,0 +1,13 @@
+Scene 252
+Frame timestamp: 2252.580s (00:37:32.580) — roughly 47% through the video
+Scene span: 2250.24s → 2254.92s (duration ~4.68s)
+
+What's in the frame: there are two men standing outside of a store talking on their cell phones
+Additional detail: a detailed photo of a man talking on a cell phone in front of a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (37.7%), black (34.5%), gray (27.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 46.6)

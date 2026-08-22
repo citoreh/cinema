@@ -1,0 +1,13 @@
+Scene 234
+Frame timestamp: 2123.920s (00:35:23.920) — roughly 44% through the video
+Scene span: 2099.12s → 2148.72s (duration ~49.60s)
+
+What's in the frame: there is a car parked in front of a building with people standing on the side of it
+Additional detail: a detailed photo of a group of people standing in front of a car
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (45.7%), black (30.3%), gray (23.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 43.5)

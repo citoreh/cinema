@@ -1,0 +1,13 @@
+Scene 233
+Frame timestamp: 2089.100s (00:34:49.100) — roughly 43% through the video
+Scene span: 2079.08s → 2099.12s (duration ~20.04s)
+
+What's in the frame: there is a woman in a hijab talking on a cell phone
+Additional detail: a detailed photo of a woman in a hijab talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.5/255)
+  - Color palette: muted colors — dominant colors: brown (52.7%), black (35.9%), gray (11.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.4)

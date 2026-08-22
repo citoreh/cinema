@@ -1,0 +1,13 @@
+Scene 227
+Frame timestamp: 2019.420s (00:33:39.420) — roughly 42% through the video
+Scene span: 2017.40s → 2021.44s (duration ~4.04s)
+
+What's in the frame: there is a man that is standing in front of a brick wall
+Additional detail: a detailed photo of a man standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 22.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (53.1%), black (32.5%), black (14.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 2.6)

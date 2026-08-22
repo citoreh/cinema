@@ -1,0 +1,13 @@
+Scene 230
+Frame timestamp: 2045.440s (00:34:05.440) — roughly 42% through the video
+Scene span: 2035.40s → 2055.48s (duration ~20.08s)
+
+What's in the frame: there is a man that is walking down the stairs of a building
+Additional detail: a detailed photo of a group of people walking down a hallway
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 33.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (47.6%), navy (42.0%), brown (10.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 12.6)

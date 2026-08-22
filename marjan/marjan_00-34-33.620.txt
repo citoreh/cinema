@@ -1,0 +1,13 @@
+Scene 232
+Frame timestamp: 2073.620s (00:34:33.620) — roughly 43% through the video
+Scene span: 2068.16s → 2079.08s (duration ~10.92s)
+
+What's in the frame: there is a car that is driving down the street at night
+Additional detail: a detailed photo of a city street at night with cars parked on the sidewalk
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (63.3%), navy (25.7%), brown (11.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 26.5)

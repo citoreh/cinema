@@ -1,0 +1,13 @@
+Scene 247
+Frame timestamp: 2238.000s (00:37:18.000) — roughly 46% through the video
+Scene span: 2236.68s → 2239.32s (duration ~2.64s)
+
+What's in the frame: there is a man that is standing in front of a shelf with candy
+Additional detail: a detailed photo of an older man in a grocery store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.7/255)
+  - Color palette: muted colors — dominant colors: gray (35.7%), brown (32.9%), black (31.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.1)

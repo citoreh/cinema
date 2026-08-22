@@ -1,0 +1,13 @@
+Scene 220
+Frame timestamp: 2003.400s (00:33:23.400) — roughly 42% through the video
+Scene span: 2002.56s → 2004.24s (duration ~1.68s)
+
+What's in the frame: there is a woman that is standing in a room with headphones on
+Additional detail: a detailed photo of a woman wearing a headset in a dark room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 44.5/255)
+  - Color palette: muted colors — dominant colors: black (40.2%), brown (38.4%), brown (21.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.3)

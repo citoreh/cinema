@@ -1,0 +1,13 @@
+Scene 246
+Frame timestamp: 2235.320s (00:37:15.320) — roughly 46% through the video
+Scene span: 2233.96s → 2236.68s (duration ~2.72s)
+
+What's in the frame: there is a man that is standing in a store looking at his cell phone
+Additional detail: a detailed photo of a man in a store looking at his cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (34.5%), black (32.9%), brown (32.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 29.9)

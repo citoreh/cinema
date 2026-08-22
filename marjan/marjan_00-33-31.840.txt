@@ -1,0 +1,13 @@
+Scene 224
+Frame timestamp: 2011.840s (00:33:31.840) — roughly 42% through the video
+Scene span: 2010.96s → 2012.72s (duration ~1.76s)
+
+What's in the frame: there is a woman that is sitting on a swing in the dark
+Additional detail: a detailed photo of a woman wrapped in a blanket sitting on a porch
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.8/255)
+  - Color palette: muted colors — dominant colors: black (42.6%), brown (36.2%), brown (21.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.1)

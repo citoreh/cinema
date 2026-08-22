@@ -1,0 +1,13 @@
+Scene 228
+Frame timestamp: 2025.380s (00:33:45.380) — roughly 42% through the video
+Scene span: 2021.44s → 2029.32s (duration ~7.88s)
+
+What's in the frame: there is a group of people that are standing outside of a building
+Additional detail: a detailed photo of a group of people standing and sitting in front of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 35.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: navy (49.8%), black (40.4%), brown (9.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 14.0)

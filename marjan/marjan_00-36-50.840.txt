@@ -1,0 +1,13 @@
+Scene 239
+Frame timestamp: 2210.840s (00:36:50.840) — roughly 46% through the video
+Scene span: 2204.84s → 2216.84s (duration ~12.00s)
+
+What's in the frame: there is a man and a woman standing in a store looking at items
+Additional detail: a detailed photo of a man and a woman in a grocery store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (37.3%), black (32.9%), gray (29.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 46.9)

@@ -1,0 +1,13 @@
+Scene 256
+Frame timestamp: 2266.860s (00:37:46.860) — roughly 47% through the video
+Scene span: 2264.12s → 2269.60s (duration ~5.48s)
+
+What's in the frame: there is a man and woman talking to each other in front of a store
+Additional detail: a detailed photo of a group of people standing in front of a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 60.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (36.5%), brown (35.7%), gray (27.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.6)

@@ -1,0 +1,13 @@
+Scene 222
+Frame timestamp: 2006.520s (00:33:26.520) — roughly 42% through the video
+Scene span: 2005.52s → 2007.52s (duration ~2.00s)
+
+What's in the frame: there is a woman that is sitting on a swing in the dark
+Additional detail: a detailed photo of a woman wearing a scarf in a dark room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 44.0/255)
+  - Color palette: muted colors — dominant colors: black (40.5%), brown (37.3%), brown (22.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.3)

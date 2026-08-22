@@ -1,0 +1,13 @@
+Scene 237
+Frame timestamp: 2186.600s (00:36:26.600) — roughly 45% through the video
+Scene span: 2178.76s → 2194.44s (duration ~15.68s)
+
+What's in the frame: there are two men standing next to each other in a room
+Additional detail: a detailed photo of two men standing next to each other in a room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 66.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (59.1%), gray (23.0%), gray (17.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 33.6)

@@ -1,0 +1,13 @@
+Scene 219
+Frame timestamp: 2000.660s (00:33:20.660) — roughly 42% through the video
+Scene span: 1998.76s → 2002.56s (duration ~3.80s)
+
+What's in the frame: there is a man standing in front of a brick wall talking on a cell phone
+Additional detail: a detailed photo of a man standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 23.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (50.6%), black (32.1%), black (17.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 2.5)

@@ -1,0 +1,13 @@
+Scene 231
+Frame timestamp: 2061.820s (00:34:21.820) — roughly 43% through the video
+Scene span: 2055.48s → 2068.16s (duration ~12.68s)
+
+What's in the frame: there is a man that is standing in the street with a cell phone
+Additional detail: a detailed photo of a man standing in the middle of a street at night
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 28.9/255)
+  - Color palette: muted colors — dominant colors: black (81.0%), navy (16.1%), gray (2.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.8)

@@ -1,0 +1,13 @@
+Scene 241
+Frame timestamp: 2223.340s (00:37:03.340) — roughly 46% through the video
+Scene span: 2222.20s → 2224.48s (duration ~2.28s)
+
+What's in the frame: there is a man that is standing in front of a shelf with food
+Additional detail: a detailed photo of an older man shopping in a grocery store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.6/255)
+  - Color palette: muted colors — dominant colors: brown (36.6%), gray (34.2%), black (29.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 31.1)

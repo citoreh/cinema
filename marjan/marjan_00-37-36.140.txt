@@ -1,0 +1,13 @@
+Scene 253
+Frame timestamp: 2256.140s (00:37:36.140) — roughly 47% through the video
+Scene span: 2254.92s → 2257.36s (duration ~2.44s)
+
+What's in the frame: there is a man with a beard and a hoodie standing next to another man
+Additional detail: a detailed photo of a man with a beard standing next to another man
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (35.6%), brown (32.5%), black (31.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 28.2)

@@ -1,0 +1,13 @@
+Scene 217
+Frame timestamp: 1995.280s (00:33:15.280) — roughly 41% through the video
+Scene span: 1994.08s → 1996.48s (duration ~2.40s)
+
+What's in the frame: there is a man in a black shirt standing in front of a brick wall
+Additional detail: a detailed photo of a man standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 23.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (52.8%), black (32.1%), black (15.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 2.5)

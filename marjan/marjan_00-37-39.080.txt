@@ -1,0 +1,13 @@
+Scene 254
+Frame timestamp: 2259.080s (00:37:39.080) — roughly 47% through the video
+Scene span: 2257.36s → 2260.80s (duration ~3.44s)
+
+What's in the frame: there are two men standing in front of a store talking to each other
+Additional detail: a detailed photo of a group of men standing in front of a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (35.0%), black (33.7%), gray (31.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 48.5)
