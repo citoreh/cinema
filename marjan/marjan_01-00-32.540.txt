@@ -1,0 +1,13 @@
+Scene 363
+Frame timestamp: 3632.540s (01:00:32.540) — roughly 75% through the video
+Scene span: 3630.52s → 3634.56s (duration ~4.04s)
+
+What's in the frame: there are two women sitting in a kitchen talking to each other
+Additional detail: a detailed photo of two women in hijab talking to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (63.4%), brown (21.6%), gray (15.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.2)

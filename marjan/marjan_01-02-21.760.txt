@@ -1,0 +1,13 @@
+Scene 372
+Frame timestamp: 3741.760s (01:02:21.760) — roughly 78% through the video
+Scene span: 3719.60s → 3763.92s (duration ~44.32s)
+
+What's in the frame: there is a man standing in front of a tv talking to a group of people
+Additional detail: a detailed photo of a group of people sitting in front of a tv
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 44.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (54.4%), brown (26.1%), navy (19.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.1)

@@ -1,0 +1,13 @@
+Scene 389
+Frame timestamp: 3850.000s (01:04:10.000) — roughly 80% through the video
+Scene span: 3849.28s → 3850.72s (duration ~1.44s)
+
+What's in the frame: there is a man that is standing in front of a wall talking on a cell phone
+Additional detail: a detailed photo of a man in a black jacket looking away from the camera
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 87.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (44.8%), black (32.3%), brown (22.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 37.7)

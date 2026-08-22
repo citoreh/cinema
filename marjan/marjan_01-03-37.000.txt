@@ -1,0 +1,13 @@
+Scene 385
+Frame timestamp: 3817.000s (01:03:37.000) — roughly 79% through the video
+Scene span: 3816.36s → 3817.64s (duration ~1.28s)
+
+What's in the frame: there is a man that is looking at himself in the mirror
+Additional detail: a detailed photo of a man looking at himself in the mirror
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 36.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (47.6%), navy (38.9%), brown (13.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 12.7)

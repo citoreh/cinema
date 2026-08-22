@@ -1,0 +1,13 @@
+Scene 350
+Frame timestamp: 3577.860s (00:59:37.860) — roughly 74% through the video
+Scene span: 3567.12s → 3588.60s (duration ~21.48s)
+
+What's in the frame: there is a man and a woman sitting in the back seat of a car
+Additional detail: a detailed photo of a man and a woman sitting in the back seat of a car
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 42.6/255)
+  - Color palette: muted colors — dominant colors: navy (54.9%), black (40.1%), gray (5.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 8.6)

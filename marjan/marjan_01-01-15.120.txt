@@ -1,0 +1,13 @@
+Scene 369
+Frame timestamp: 3675.120s (01:01:15.120) — roughly 76% through the video
+Scene span: 3655.92s → 3694.32s (duration ~38.40s)
+
+What's in the frame: there are two men sitting on the steps of a building looking at their cell phones
+Additional detail: a detailed photo of two men sitting on the steps of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 60.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (34.7%), black (33.3%), brown (32.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.7)

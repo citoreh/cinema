@@ -1,0 +1,13 @@
+Scene 387
+Frame timestamp: 3838.020s (01:03:58.020) — roughly 80% through the video
+Scene span: 3828.16s → 3847.88s (duration ~19.72s)
+
+What's in the frame: there is a man and a woman that are sitting on a bench
+Additional detail: a detailed photo of a woman sitting on a bench next to a man
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 76.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (36.5%), gray (32.4%), black (31.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 60.8)

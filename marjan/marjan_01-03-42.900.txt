@@ -1,0 +1,13 @@
+Scene 386
+Frame timestamp: 3822.900s (01:03:42.900) — roughly 79% through the video
+Scene span: 3817.64s → 3828.16s (duration ~10.52s)
+
+What's in the frame: there is a man that is standing in front of a pile of boxes
+Additional detail: a detailed photo of a man standing in front of a pile of boxes
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 42.3/255)
+  - Color palette: muted colors — dominant colors: black (52.4%), navy (32.4%), brown (15.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.4)

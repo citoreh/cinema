@@ -1,0 +1,13 @@
+Scene 353
+Frame timestamp: 3599.380s (00:59:59.380) — roughly 75% through the video
+Scene span: 3597.80s → 3600.96s (duration ~3.16s)
+
+What's in the frame: there are two women sitting next to each other in a room
+Additional detail: a detailed photo of a group of women sitting next to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 44.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (63.8%), brown (22.0%), gray (14.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.6)

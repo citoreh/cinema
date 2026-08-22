@@ -1,0 +1,13 @@
+Scene 392
+Frame timestamp: 3859.920s (01:04:19.920) — roughly 80% through the video
+Scene span: 3857.60s → 3862.24s (duration ~4.64s)
+
+What's in the frame: this is an image of a woman with a scarf on her head
+Additional detail: a detailed photo of a woman wearing a headscarf in a park
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 82.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (47.3%), black (30.4%), brown (22.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 40.1)

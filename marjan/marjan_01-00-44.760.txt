@@ -1,0 +1,13 @@
+Scene 367
+Frame timestamp: 3644.760s (01:00:44.760) — roughly 76% through the video
+Scene span: 3643.08s → 3646.44s (duration ~3.36s)
+
+What's in the frame: there are two women sitting next to each other holding a baby
+Additional detail: a detailed photo of a woman holding a baby in her arms
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 47.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (57.6%), brown (23.9%), gray (18.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.4)

@@ -1,0 +1,13 @@
+Scene 355
+Frame timestamp: 3605.200s (01:00:05.200) — roughly 75% through the video
+Scene span: 3603.28s → 3607.12s (duration ~3.84s)
+
+What's in the frame: there is a woman in a hijab standing next to a telephone
+Additional detail: a detailed photo of a woman in a hijab standing next to a telephone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (44.4%), gray (35.9%), brown (19.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.3)

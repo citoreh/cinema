@@ -1,0 +1,13 @@
+Scene 376
+Frame timestamp: 3790.680s (01:03:10.680) — roughly 79% through the video
+Scene span: 3789.36s → 3792.00s (duration ~2.64s)
+
+What's in the frame: this is an image of a man in a store with a bird on his shoulder
+Additional detail: a detailed photo of a man standing in front of a pile of boxes
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 39.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (54.1%), navy (29.4%), brown (16.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 10.0)

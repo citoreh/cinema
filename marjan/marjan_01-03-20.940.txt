@@ -1,0 +1,13 @@
+Scene 380
+Frame timestamp: 3800.940s (01:03:20.940) — roughly 79% through the video
+Scene span: 3799.40s → 3802.48s (duration ~3.08s)
+
+What's in the frame: this is an image of a man talking to another man in a store
+Additional detail: a detailed photo of a man talking to another man in a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 41.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (49.6%), navy (33.2%), brown (17.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 10.9)

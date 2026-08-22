@@ -1,0 +1,13 @@
+Scene 374
+Frame timestamp: 3780.340s (01:03:00.340) — roughly 79% through the video
+Scene span: 3773.00s → 3787.68s (duration ~14.68s)
+
+What's in the frame: there is a man that is sitting at a table in a store
+Additional detail: a detailed photo of a man sitting at a counter in a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 48.2/255)
+  - Color palette: muted colors — dominant colors: black (44.6%), navy (32.8%), brown (22.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.6)

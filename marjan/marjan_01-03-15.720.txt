@@ -1,0 +1,13 @@
+Scene 378
+Frame timestamp: 3795.720s (01:03:15.720) — roughly 79% through the video
+Scene span: 3794.96s → 3796.48s (duration ~1.52s)
+
+What's in the frame: there is a man that is standing in front of a pile of shoes
+Additional detail: a detailed photo of a man in a shoe store talking to another man
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 41.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (49.8%), navy (32.4%), brown (17.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.2)

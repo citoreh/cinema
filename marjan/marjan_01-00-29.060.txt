@@ -1,0 +1,13 @@
+Scene 362
+Frame timestamp: 3629.060s (01:00:29.060) — roughly 75% through the video
+Scene span: 3627.60s → 3630.52s (duration ~2.92s)
+
+What's in the frame: there is a woman wearing a hoodie standing in front of a door
+Additional detail: a detailed photo of a woman wearing a hoodie and a scarf
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (54.0%), black (35.5%), brown (10.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 30.2)

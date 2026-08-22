@@ -1,0 +1,13 @@
+Scene 352
+Frame timestamp: 3596.580s (00:59:56.580) — roughly 75% through the video
+Scene span: 3595.36s → 3597.80s (duration ~2.44s)
+
+What's in the frame: there is a woman in a hoodie leaning against a wall with her eyes closed
+Additional detail: a detailed photo of a woman in a hoodie leaning against a wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (52.6%), black (36.7%), brown (10.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 30.1)

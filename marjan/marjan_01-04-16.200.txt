@@ -1,0 +1,13 @@
+Scene 391
+Frame timestamp: 3856.200s (01:04:16.200) — roughly 80% through the video
+Scene span: 3854.80s → 3857.60s (duration ~2.80s)
+
+What's in the frame: there is a man that is looking down at his cell phone
+Additional detail: a detailed photo of a man looking down at his cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 86.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (42.0%), black (32.7%), brown (25.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 38.7)

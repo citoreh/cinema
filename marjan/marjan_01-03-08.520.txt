@@ -1,0 +1,13 @@
+Scene 375
+Frame timestamp: 3788.520s (01:03:08.520) — roughly 79% through the video
+Scene span: 3787.68s → 3789.36s (duration ~1.68s)
+
+What's in the frame: there is a man with a beard standing in front of a mirror
+Additional detail: a detailed photo of a man standing in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 44.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: navy (43.2%), black (34.6%), brown (22.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.3)

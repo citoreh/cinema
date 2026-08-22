@@ -1,0 +1,13 @@
+Scene 359
+Frame timestamp: 3619.960s (01:00:19.960) — roughly 75% through the video
+Scene span: 3619.16s → 3620.76s (duration ~1.60s)
+
+What's in the frame: there are two men standing next to each other in a living room
+Additional detail: a detailed photo of two men standing next to each other in a living room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (40.8%), black (29.9%), navy (29.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 30.9)

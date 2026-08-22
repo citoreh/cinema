@@ -1,0 +1,13 @@
+Scene 360
+Frame timestamp: 3621.620s (01:00:21.620) — roughly 75% through the video
+Scene span: 3620.76s → 3622.48s (duration ~1.72s)
+
+What's in the frame: this is an image of a woman wearing a hoodie and a scarf
+Additional detail: a detailed photo of a woman in a black coat and scarf
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (53.4%), black (36.2%), brown (10.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 29.8)

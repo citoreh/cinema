@@ -1,0 +1,13 @@
+Scene 365
+Frame timestamp: 3638.540s (01:00:38.540) — roughly 76% through the video
+Scene span: 3636.72s → 3640.36s (duration ~3.64s)
+
+What's in the frame: there is a woman that is looking down at her cell phone
+Additional detail: a detailed photo of a woman in a hoodie looking down at her cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (53.9%), black (35.8%), brown (10.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 28.6)

@@ -1,0 +1,13 @@
+Scene 384
+Frame timestamp: 3814.840s (01:03:34.840) — roughly 79% through the video
+Scene span: 3813.32s → 3816.36s (duration ~3.04s)
+
+What's in the frame: there is a man that is looking at something in a box
+Additional detail: a detailed photo of a man working at a counter in a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 40.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (50.6%), navy (34.8%), brown (14.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 10.7)

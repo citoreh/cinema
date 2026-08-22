@@ -1,0 +1,13 @@
+Scene 390
+Frame timestamp: 3852.760s (01:04:12.760) — roughly 80% through the video
+Scene span: 3850.72s → 3854.80s (duration ~4.08s)
+
+What's in the frame: this is an image of a woman wearing a scarf in a park
+Additional detail: a detailed photo of a woman wearing a scarf in a park
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (41.9%), black (33.0%), brown (25.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 28.9)

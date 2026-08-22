@@ -1,0 +1,13 @@
+Scene 351
+Frame timestamp: 3591.980s (00:59:51.980) — roughly 75% through the video
+Scene span: 3588.60s → 3595.36s (duration ~6.76s)
+
+What's in the frame: there are people sitting on the floor in a room together
+Additional detail: a detailed photo of a group of women sitting on the floor in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (44.6%), gray (33.8%), brown (21.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.2)

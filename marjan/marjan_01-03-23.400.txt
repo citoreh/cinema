@@ -1,0 +1,13 @@
+Scene 381
+Frame timestamp: 3803.400s (01:03:23.400) — roughly 79% through the video
+Scene span: 3802.48s → 3804.32s (duration ~1.84s)
+
+What's in the frame: there is a man with a beard talking to another man in a store
+Additional detail: a detailed photo of a man talking to another man in a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 44.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: navy (44.2%), black (33.7%), brown (22.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 24.7)

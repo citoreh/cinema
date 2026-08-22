@@ -1,0 +1,13 @@
+Scene 373
+Frame timestamp: 3768.460s (01:02:48.460) — roughly 78% through the video
+Scene span: 3763.92s → 3773.00s (duration ~9.08s)
+
+What's in the frame: there is a man that is standing in the doorway of a building
+Additional detail: a detailed photo of a man standing in the doorway of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.3/255)
+  - Color palette: muted colors — dominant colors: black (51.0%), brown (24.8%), gray (24.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.9)
