@@ -1,0 +1,13 @@
+Scene 150
+Frame timestamp: 4883.300s (01:21:23.300) — roughly 84% through the video
+Scene span: 4872.92s → 4893.68s (duration ~20.76s)
+
+What's in the frame: this is an image of a person standing in the doorway of a house
+Additional detail: a detailed photo of a person standing in an open doorway
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 41.4/255)
+  - Color palette: muted colors — dominant colors: black (74.3%), gray (13.5%), brown (12.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 38.4)

@@ -1,0 +1,13 @@
+Scene 112
+Frame timestamp: 4279.560s (01:11:19.560) — roughly 73% through the video
+Scene span: 4276.64s → 4282.48s (duration ~5.84s)
+
+What's in the frame: there are people walking down the street with umbrellas in the rain
+Additional detail: a detailed photo of a group of people walking down a street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 39.1/255)
+  - Color palette: muted colors — dominant colors: black (52.5%), navy (39.3%), gray (8.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.6)

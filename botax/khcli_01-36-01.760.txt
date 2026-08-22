@@ -1,0 +1,13 @@
+Scene 160
+Frame timestamp: 5761.760s (01:36:01.760) — roughly 99% through the video
+Scene span: 5692.08s → 5831.44s (duration ~139.36s)
+
+What's in the frame: there is a black and white photo with a quote on it
+Additional detail: a detailed photo of a black and white photograph with a quote on it
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 0.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (98.2%), black (0.9%), navy (0.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 248.8)

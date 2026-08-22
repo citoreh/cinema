@@ -1,0 +1,13 @@
+Scene 20
+Frame timestamp: 859.780s (00:14:19.780) — roughly 15% through the video
+Scene span: 851.80s → 867.76s (duration ~15.96s)
+
+What's in the frame: this is an image of a woman sitting on a bed reading a book
+Additional detail: a detailed photo of a woman sitting on a bed in a dark room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 24.6/255)
+  - Color palette: muted colors — dominant colors: black (47.4%), black (31.6%), navy (20.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 37.2)

@@ -1,0 +1,13 @@
+Scene 121
+Frame timestamp: 4312.120s (01:11:52.120) — roughly 74% through the video
+Scene span: 4311.48s → 4312.76s (duration ~1.28s)
+
+What's in the frame: there is a blurry image of the sun through the trees
+Additional detail: a detailed photo of a blurry image of the sun in the sky
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 121.7/255)
+  - Color palette: muted colors — dominant colors: beige (39.4%), gray (35.5%), black (25.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 53.9)

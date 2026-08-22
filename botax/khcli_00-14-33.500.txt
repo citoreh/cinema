@@ -1,0 +1,13 @@
+Scene 21
+Frame timestamp: 873.500s (00:14:33.500) — roughly 15% through the video
+Scene span: 867.76s → 879.24s (duration ~11.48s)
+
+What's in the frame: there is a man that is sitting on a couch with a cell phone
+Additional detail: a detailed photo of a person sitting on a couch in front of a television
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 23.4/255)
+  - Color palette: muted colors — dominant colors: black (61.5%), black (31.0%), brown (7.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.4)

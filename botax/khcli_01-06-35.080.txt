@@ -1,0 +1,13 @@
+Scene 91
+Frame timestamp: 3995.080s (01:06:35.080) — roughly 69% through the video
+Scene span: 3988.92s → 4001.24s (duration ~12.32s)
+
+What's in the frame: there is a car that is parked on the side of the road at night
+Additional detail: a detailed photo of a car parked on the side of the road at night
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 10.9/255)
+  - Color palette: muted colors — dominant colors: black (63.5%), black (34.4%), navy (2.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 7.9)

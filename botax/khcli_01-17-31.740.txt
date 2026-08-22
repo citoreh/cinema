@@ -1,0 +1,13 @@
+Scene 138
+Frame timestamp: 4651.740s (01:17:31.740) — roughly 80% through the video
+Scene span: 4647.40s → 4656.08s (duration ~8.68s)
+
+What's in the frame: there are two women standing next to each other in a room
+Additional detail: a detailed photo of a woman in a hijab talking to another woman
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 125.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: beige (50.9%), black (25.5%), gray (23.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 95.4)

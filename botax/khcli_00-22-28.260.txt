@@ -1,0 +1,13 @@
+Scene 28
+Frame timestamp: 1348.260s (00:22:28.260) — roughly 23% through the video
+Scene span: 1290.88s → 1405.64s (duration ~114.76s)
+
+What's in the frame: there is a man standing next to a dead body in the woods
+Additional detail: a detailed photo of a man standing next to another man laying on the ground
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (45.4%), black (29.9%), gray (24.7%)
+  - Composition: busy / detailed composition with lots of edges and texture
+  - Focus/motion: sharp / in focus (sharpness score 212.8)

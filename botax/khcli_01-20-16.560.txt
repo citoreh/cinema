@@ -1,0 +1,13 @@
+Scene 144
+Frame timestamp: 4816.560s (01:20:16.560) — roughly 83% through the video
+Scene span: 4813.08s → 4820.04s (duration ~6.96s)
+
+What's in the frame: there are two people that are standing in a room with neon lights
+Additional detail: a detailed photo of a man and a woman standing in a dark room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.7/255)
+  - Color palette: muted colors — dominant colors: black (53.6%), navy (38.0%), gray (8.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 224.9)

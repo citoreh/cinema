@@ -1,0 +1,13 @@
+Scene 11
+Frame timestamp: 679.740s (00:11:19.740) — roughly 12% through the video
+Scene span: 652.56s → 706.92s (duration ~54.36s)
+
+What's in the frame: there is a green car that is parked on the side of the road
+Additional detail: a detailed photo of a green station wagon parked in a parking lot
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 23.1/255)
+  - Color palette: muted colors — dominant colors: black (65.9%), navy (33.0%), gray (1.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 38.0)

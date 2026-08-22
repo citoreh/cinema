@@ -1,0 +1,13 @@
+Scene 71
+Frame timestamp: 3316.200s (00:55:16.200) — roughly 57% through the video
+Scene span: 3311.84s → 3320.56s (duration ~8.72s)
+
+What's in the frame: there is a man sitting on the ground in front of a parked car
+Additional detail: a detailed photo of a man sitting on the ground in front of a parked car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.0/255)
+  - Color palette: muted colors — dominant colors: navy (38.0%), black (37.0%), gray (25.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.0)

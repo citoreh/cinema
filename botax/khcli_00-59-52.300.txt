@@ -1,0 +1,13 @@
+Scene 80
+Frame timestamp: 3592.300s (00:59:52.300) — roughly 62% through the video
+Scene span: 3501.52s → 3683.08s (duration ~181.56s)
+
+What's in the frame: there are two women standing next to each other in an old building
+Additional detail: a detailed photo of a couple of women standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.1/255)
+  - Color palette: muted colors — dominant colors: navy (41.8%), black (41.3%), gray (17.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 60.7)

@@ -1,0 +1,13 @@
+Scene 22
+Frame timestamp: 884.480s (00:14:44.480) — roughly 15% through the video
+Scene span: 879.24s → 889.72s (duration ~10.48s)
+
+What's in the frame: there is a woman that is sitting on a bed in a room
+Additional detail: a detailed photo of a woman sitting on a bed in a dark room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 25.0/255)
+  - Color palette: muted colors — dominant colors: black (48.2%), black (30.9%), brown (20.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 39.1)

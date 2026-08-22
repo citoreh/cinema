@@ -1,0 +1,13 @@
+Scene 124
+Frame timestamp: 4319.000s (01:11:59.000) — roughly 74% through the video
+Scene span: 4315.76s → 4322.24s (duration ~6.48s)
+
+What's in the frame: there is a blurry image of a man walking down the street talking on a cell phone
+Additional detail: a detailed photo of a blurry image of a man in a suit and tie
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 71.3/255)
+  - Color palette: muted colors — dominant colors: navy (42.5%), gray (29.4%), black (28.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 15.0)

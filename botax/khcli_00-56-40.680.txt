@@ -1,0 +1,13 @@
+Scene 76
+Frame timestamp: 3400.680s (00:56:40.680) — roughly 58% through the video
+Scene span: 3374.28s → 3427.08s (duration ~52.80s)
+
+What's in the frame: there is a fire hydrant sitting on the side of a hill next to a fire hydrant
+Additional detail: a detailed photo of a fire hydrant in the snow with a man standing next to it
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 92.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (36.7%), brown (34.0%), black (29.3%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 194.9)

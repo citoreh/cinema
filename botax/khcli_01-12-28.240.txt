@@ -1,0 +1,13 @@
+Scene 128
+Frame timestamp: 4348.240s (01:12:28.240) — roughly 75% through the video
+Scene span: 4347.04s → 4349.44s (duration ~2.40s)
+
+What's in the frame: there is a woman that is standing in the middle of a market
+Additional detail: a detailed photo of a woman standing in front of a market
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 40.9/255)
+  - Color palette: muted colors — dominant colors: black (56.6%), navy (25.3%), gray (18.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 28.0)

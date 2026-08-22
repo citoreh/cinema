@@ -1,0 +1,13 @@
+Scene 129
+Frame timestamp: 4351.880s (01:12:31.880) — roughly 75% through the video
+Scene span: 4349.44s → 4354.32s (duration ~4.88s)
+
+What's in the frame: there is a woman that is standing in front of a bunch of clothes
+Additional detail: a detailed photo of a woman standing in front of a clothes rack
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.9/255)
+  - Color palette: muted colors — dominant colors: black (65.4%), navy (30.8%), gray (3.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 31.5)

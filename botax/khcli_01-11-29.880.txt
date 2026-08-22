@@ -1,0 +1,13 @@
+Scene 114
+Frame timestamp: 4289.880s (01:11:29.880) — roughly 74% through the video
+Scene span: 4286.44s → 4293.32s (duration ~6.88s)
+
+What's in the frame: there is a woman that is walking down the street with a cell phone
+Additional detail: a detailed photo of a woman walking down a crowded street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 46.8/255)
+  - Color palette: muted colors — dominant colors: navy (61.1%), black (31.4%), gray (7.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 13.7)

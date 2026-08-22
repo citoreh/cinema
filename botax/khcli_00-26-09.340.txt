@@ -1,0 +1,13 @@
+Scene 32
+Frame timestamp: 1569.340s (00:26:09.340) — roughly 27% through the video
+Scene span: 1541.84s → 1596.84s (duration ~55.00s)
+
+What's in the frame: there is a woman laying on the floor next to a refrigerator in a kitchen
+Additional detail: a detailed photo of a person laying on the floor in a dark room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.2/255)
+  - Color palette: muted colors — dominant colors: black (56.5%), navy (39.1%), gray (4.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 55.1)

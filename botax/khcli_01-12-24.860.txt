@@ -1,0 +1,13 @@
+Scene 126
+Frame timestamp: 4344.860s (01:12:24.860) — roughly 75% through the video
+Scene span: 4343.32s → 4346.40s (duration ~3.08s)
+
+What's in the frame: there is a woman wearing a hijab in a crowd of people
+Additional detail: a detailed photo of a group of people standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 38.3/255)
+  - Color palette: muted colors — dominant colors: navy (52.6%), black (42.9%), gray (4.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 12.5)

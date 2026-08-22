@@ -1,0 +1,13 @@
+Scene 142
+Frame timestamp: 4740.480s (01:19:00.480) — roughly 81% through the video
+Scene span: 4687.24s → 4793.72s (duration ~106.48s)
+
+What's in the frame: there are two women standing on the roof of a building
+Additional detail: a detailed photo of two women standing on a rooftop with buildings in the background
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 76.4/255)
+  - Color palette: muted colors — dominant colors: gray (38.0%), black (32.2%), navy (29.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 68.5)

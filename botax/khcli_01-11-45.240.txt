@@ -1,0 +1,13 @@
+Scene 117
+Frame timestamp: 4305.240s (01:11:45.240) — roughly 74% through the video
+Scene span: 4304.12s → 4306.36s (duration ~2.24s)
+
+What's in the frame: there are people walking down the street in the city
+Additional detail: a detailed photo of a group of people walking down a street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.3/255)
+  - Color palette: muted colors — dominant colors: black (40.2%), navy (37.5%), gray (22.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 35.7)

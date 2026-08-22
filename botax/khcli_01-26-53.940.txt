@@ -1,0 +1,13 @@
+Scene 153
+Frame timestamp: 5213.940s (01:26:53.940) — roughly 89% through the video
+Scene span: 5212.64s → 5215.24s (duration ~2.60s)
+
+What's in the frame: this is an image of a close up shot of a wooden fence
+Additional detail: a detailed photo of a tree trunk leaning against a wooden fence
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 33.1/255)
+  - Color palette: muted colors — dominant colors: black (66.5%), brown (23.9%), gray (9.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.0)

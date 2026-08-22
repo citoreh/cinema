@@ -1,0 +1,13 @@
+Scene 123
+Frame timestamp: 4314.820s (01:11:54.820) — roughly 74% through the video
+Scene span: 4313.88s → 4315.76s (duration ~1.88s)
+
+What's in the frame: blurry image of a man standing in front of a crowd of people
+Additional detail: a detailed photo of a man standing in front of a crowd of people
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 96.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (37.1%), beige (32.2%), gray (30.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 35.1)

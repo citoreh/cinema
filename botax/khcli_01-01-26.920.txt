@@ -1,0 +1,13 @@
+Scene 81
+Frame timestamp: 3686.920s (01:01:26.920) — roughly 63% through the video
+Scene span: 3683.08s → 3690.76s (duration ~7.68s)
+
+What's in the frame: there are many cars that are traveling down the highway together
+Additional detail: a detailed photo of a highway filled with lots of traffic
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 93.7/255)
+  - Color palette: muted colors — dominant colors: gray (36.2%), gray (32.0%), black (31.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 55.6)

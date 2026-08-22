@@ -1,0 +1,13 @@
+Scene 34
+Frame timestamp: 1696.000s (00:28:16.000) — roughly 29% through the video
+Scene span: 1676.96s → 1715.04s (duration ~38.08s)
+
+What's in the frame: there is a woman that is standing in the kitchen by the refrigerator
+Additional detail: a detailed photo of a woman standing in a kitchen next to a refrigerator
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 51.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (52.9%), black (38.8%), gray (8.3%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 94.6)

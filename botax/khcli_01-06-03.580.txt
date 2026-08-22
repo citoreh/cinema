@@ -1,0 +1,13 @@
+Scene 90
+Frame timestamp: 3963.580s (01:06:03.580) — roughly 68% through the video
+Scene span: 3938.24s → 3988.92s (duration ~50.68s)
+
+What's in the frame: there are two people sitting in the back seat of a car
+Additional detail: a detailed photo of two people sitting in the back seat of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 18.4/255)
+  - Color palette: muted colors — dominant colors: black (59.5%), black (35.1%), navy (5.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 14.8)

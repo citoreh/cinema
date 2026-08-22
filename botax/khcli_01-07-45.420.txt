@@ -1,0 +1,13 @@
+Scene 93
+Frame timestamp: 4065.420s (01:07:45.420) — roughly 70% through the video
+Scene span: 4020.88s → 4109.96s (duration ~89.08s)
+
+What's in the frame: there are two men standing next to each other in front of a stone wall
+Additional detail: a detailed photo of a man and a woman standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (43.2%), black (31.2%), gray (25.6%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 113.9)

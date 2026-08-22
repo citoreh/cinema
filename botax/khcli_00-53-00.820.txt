@@ -1,0 +1,13 @@
+Scene 67
+Frame timestamp: 3180.820s (00:53:00.820) — roughly 55% through the video
+Scene span: 3178.12s → 3183.52s (duration ~5.40s)
+
+What's in the frame: there is a woman that is sitting at a table in the snow
+Additional detail: a detailed photo of a woman sitting at a table in the snow
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (50.3%), black (31.4%), gray (18.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 62.1)

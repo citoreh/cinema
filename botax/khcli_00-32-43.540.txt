@@ -1,0 +1,13 @@
+Scene 45
+Frame timestamp: 1963.540s (00:32:43.540) — roughly 34% through the video
+Scene span: 1885.20s → 2041.88s (duration ~156.68s)
+
+What's in the frame: there is a man that is sitting in the doorway of a house
+Additional detail: a detailed photo of a person sitting on a chair in a dark room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.8/255)
+  - Color palette: muted colors — dominant colors: black (62.8%), brown (26.3%), beige (10.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 85.6)

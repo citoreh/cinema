@@ -1,0 +1,13 @@
+Scene 152
+Frame timestamp: 5101.800s (01:25:01.800) — roughly 87% through the video
+Scene span: 4990.96s → 5212.64s (duration ~221.68s)
+
+What's in the frame: there is a man that is standing outside of a building in the dark
+Additional detail: a detailed photo of a person sitting on a ledge in the dark
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 23.9/255)
+  - Color palette: muted colors — dominant colors: black (54.9%), black (36.3%), gray (8.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.1)

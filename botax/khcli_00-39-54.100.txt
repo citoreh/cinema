@@ -1,0 +1,13 @@
+Scene 51
+Frame timestamp: 2394.100s (00:39:54.100) — roughly 41% through the video
+Scene span: 2326.52s → 2461.68s (duration ~135.16s)
+
+What's in the frame: there is a man standing next to a green car in the middle of the desert
+Additional detail: a detailed photo of a person standing in the snow next to a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: bright / well-lit (avg brightness 133.3/255)
+  - Color palette: muted colors — dominant colors: beige (58.6%), black (25.2%), gray (16.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 120.0)

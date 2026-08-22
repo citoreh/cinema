@@ -1,0 +1,13 @@
+Scene 141
+Frame timestamp: 4683.360s (01:18:03.360) — roughly 80% through the video
+Scene span: 4679.48s → 4687.24s (duration ~7.76s)
+
+What's in the frame: there is a woman standing in front of a television holding a drink
+Additional detail: a detailed photo of a woman in a hijab standing in front of a tv
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 121.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: beige (39.5%), black (30.4%), gray (30.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 73.5)

@@ -1,0 +1,13 @@
+Scene 65
+Frame timestamp: 3133.000s (00:52:13.000) — roughly 54% through the video
+Scene span: 3126.56s → 3139.44s (duration ~12.88s)
+
+What's in the frame: there are many people that are standing in front of a car
+Additional detail: a detailed photo of a group of people standing in front of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.2/255)
+  - Color palette: muted colors — dominant colors: navy (46.3%), black (31.0%), gray (22.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 138.3)

@@ -1,0 +1,13 @@
+Scene 62
+Frame timestamp: 3089.580s (00:51:29.580) — roughly 53% through the video
+Scene span: 3078.76s → 3100.40s (duration ~21.64s)
+
+What's in the frame: this is an image of a person standing on a hill in the woods
+Additional detail: a detailed photo of a person standing on a hill with trees in the background
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 33.9/255)
+  - Color palette: muted colors — dominant colors: navy (39.9%), black (30.8%), black (29.3%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 119.2)

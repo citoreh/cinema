@@ -1,0 +1,13 @@
+Scene 84
+Frame timestamp: 3765.420s (01:02:45.420) — roughly 65% through the video
+Scene span: 3729.52s → 3801.32s (duration ~71.80s)
+
+What's in the frame: there is a green van that is driving through the water
+Additional detail: a detailed photo of a green van driving through a body of water
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: bright / well-lit (avg brightness 141.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: beige (70.9%), black (25.4%), gray (3.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 140.4)

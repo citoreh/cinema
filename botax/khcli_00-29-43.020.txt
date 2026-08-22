@@ -1,0 +1,13 @@
+Scene 37
+Frame timestamp: 1783.020s (00:29:43.020) — roughly 31% through the video
+Scene span: 1773.96s → 1792.08s (duration ~18.12s)
+
+What's in the frame: there is a woman standing in a kitchen talking on a cell phone
+Additional detail: a detailed photo of a woman talking on a cell phone in a kitchen
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.5/255)
+  - Color palette: muted colors — dominant colors: brown (46.7%), black (33.8%), gray (19.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 55.5)

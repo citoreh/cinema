@@ -1,0 +1,13 @@
+Scene 155
+Frame timestamp: 5329.180s (01:28:49.180) — roughly 91% through the video
+Scene span: 5301.56s → 5356.80s (duration ~55.24s)
+
+What's in the frame: this is an image of a woman sitting in a pile of garbage
+Additional detail: a detailed photo of a woman sitting in a pile of garbage
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 18.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (48.2%), black (46.8%), brown (5.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.8)

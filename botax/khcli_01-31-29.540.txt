@@ -1,0 +1,13 @@
+Scene 158
+Frame timestamp: 5489.540s (01:31:29.540) — roughly 94% through the video
+Scene span: 5447.48s → 5531.60s (duration ~84.12s)
+
+What's in the frame: there is a tea pot sitting on top of a stove in a dark room
+Additional detail: a detailed photo of an old stove in a dark room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 25.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (44.5%), black (41.2%), navy (14.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.9)

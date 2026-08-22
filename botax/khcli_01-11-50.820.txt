@@ -1,0 +1,13 @@
+Scene 120
+Frame timestamp: 4310.820s (01:11:50.820) — roughly 74% through the video
+Scene span: 4310.16s → 4311.48s (duration ~1.32s)
+
+What's in the frame: there is a blurry photo of a green object with a blurry background
+Additional detail: a detailed photo of a blurry image of a green object
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 91.8/255)
+  - Color palette: muted colors — dominant colors: gray (43.8%), brown (29.5%), black (26.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.0)

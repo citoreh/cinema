@@ -1,0 +1,13 @@
+Scene 137
+Frame timestamp: 4612.540s (01:16:52.540) — roughly 79% through the video
+Scene span: 4577.68s → 4647.40s (duration ~69.72s)
+
+What's in the frame: there is a man standing in a waiting room with three people wearing masks
+Additional detail: a detailed photo of a group of people sitting in a waiting room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.9/255)
+  - Color palette: muted colors — dominant colors: brown (51.2%), black (33.5%), gray (15.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 101.8)

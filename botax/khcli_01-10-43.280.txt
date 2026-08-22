@@ -1,0 +1,13 @@
+Scene 105
+Frame timestamp: 4243.280s (01:10:43.280) — roughly 73% through the video
+Scene span: 4241.68s → 4244.88s (duration ~3.20s)
+
+What's in the frame: there is a woman that is standing in front of a curtain
+Additional detail: a detailed photo of a woman standing in front of a curtain
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (37.9%), brown (31.8%), gray (30.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.7)

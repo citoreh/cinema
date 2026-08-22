@@ -1,0 +1,13 @@
+Scene 78
+Frame timestamp: 3473.180s (00:57:53.180) — roughly 60% through the video
+Scene span: 3452.28s → 3494.08s (duration ~41.80s)
+
+What's in the frame: there is a man and a woman shaking hands in front of a building
+Additional detail: a detailed photo of a man and woman shaking hands in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 50.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: navy (53.3%), black (33.8%), gray (12.8%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 96.2)

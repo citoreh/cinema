@@ -1,0 +1,13 @@
+Scene 111
+Frame timestamp: 4272.440s (01:11:12.440) — roughly 73% through the video
+Scene span: 4268.24s → 4276.64s (duration ~8.40s)
+
+What's in the frame: there is a group of people that are standing together in the street
+Additional detail: a detailed photo of a crowd of people walking on a city street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 40.2/255)
+  - Color palette: muted colors — dominant colors: black (55.5%), navy (36.9%), gray (7.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.4)

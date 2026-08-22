@@ -1,0 +1,13 @@
+Scene 50
+Frame timestamp: 2319.400s (00:38:39.400) — roughly 40% through the video
+Scene span: 2312.28s → 2326.52s (duration ~14.24s)
+
+What's in the frame: there are two people standing in the back of a camper on the beach
+Additional detail: a detailed photo of a couple of people standing in front of a bed
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 100.2/255)
+  - Color palette: muted colors — dominant colors: brown (39.0%), beige (32.8%), black (28.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.4)

@@ -1,0 +1,13 @@
+Scene 24
+Frame timestamp: 904.640s (00:15:04.640) — roughly 16% through the video
+Scene span: 897.68s → 911.60s (duration ~13.92s)
+
+What's in the frame: there is a woman that is sitting on the floor reading a book
+Additional detail: a detailed photo of a woman sitting on a bed in a dark room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 24.8/255)
+  - Color palette: muted colors — dominant colors: black (46.2%), black (31.5%), navy (22.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 37.6)

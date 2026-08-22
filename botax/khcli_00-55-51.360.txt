@@ -1,0 +1,13 @@
+Scene 73
+Frame timestamp: 3351.360s (00:55:51.360) — roughly 57% through the video
+Scene span: 3347.16s → 3355.56s (duration ~8.40s)
+
+What's in the frame: there is a woman sitting in the driver ' s seat of a car at night
+Additional detail: a detailed photo of a woman driving a car at night
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 18.1/255)
+  - Color palette: muted colors — dominant colors: black (41.4%), black (35.8%), black (22.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 7.8)

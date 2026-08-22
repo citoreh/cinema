@@ -1,0 +1,13 @@
+Scene 156
+Frame timestamp: 5363.660s (01:29:23.660) — roughly 92% through the video
+Scene span: 5356.80s → 5370.52s (duration ~13.72s)
+
+What's in the frame: there is a laptop computer sitting on a table in front of a window
+Additional detail: a detailed photo of a laptop computer sitting in front of a window
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 41.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (51.1%), brown (43.1%), gray (5.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 42.3)

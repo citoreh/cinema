@@ -1,0 +1,13 @@
+Scene 103
+Frame timestamp: 4237.860s (01:10:37.860) — roughly 73% through the video
+Scene span: 4236.92s → 4238.80s (duration ~1.88s)
+
+What's in the frame: there is a man that is standing in the street with a hood over his head
+Additional detail: a detailed photo of a man wearing a hoodie and a scarf
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 91.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (45.1%), black (29.8%), brown (25.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 50.8)

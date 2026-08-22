@@ -1,0 +1,13 @@
+Scene 101
+Frame timestamp: 4226.020s (01:10:26.020) — roughly 72% through the video
+Scene span: 4221.48s → 4230.56s (duration ~9.08s)
+
+What's in the frame: there is a blurry image of a woman in a white dress behind a chain link fence
+Additional detail: a detailed photo of a blurry image of a woman in a white dress
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 88.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (38.8%), brown (31.8%), black (29.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.4)

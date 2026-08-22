@@ -1,0 +1,13 @@
+Scene 40
+Frame timestamp: 1811.820s (00:30:11.820) — roughly 31% through the video
+Scene span: 1809.12s → 1814.52s (duration ~5.40s)
+
+What's in the frame: there is a woman sitting at a table in front of a man
+Additional detail: a detailed photo of a woman sitting at a table in a kitchen
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.7/255)
+  - Color palette: muted colors — dominant colors: black (46.1%), brown (31.8%), beige (22.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 84.5)

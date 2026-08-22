@@ -1,0 +1,13 @@
+Scene 145
+Frame timestamp: 4820.380s (01:20:20.380) — roughly 83% through the video
+Scene span: 4820.04s → 4820.72s (duration ~0.68s)
+
+What's in the frame: there are two men standing in a dark room with neon lights
+Additional detail: a detailed photo of two men standing in a dimly lit room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 27.3/255)
+  - Color palette: muted colors — dominant colors: black (72.0%), navy (23.4%), gray (4.6%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 149.8)

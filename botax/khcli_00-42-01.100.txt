@@ -1,0 +1,13 @@
+Scene 53
+Frame timestamp: 2521.100s (00:42:01.100) — roughly 43% through the video
+Scene span: 2498.44s → 2543.76s (duration ~45.32s)
+
+What's in the frame: there is a man that is standing outside of a building at night
+Additional detail: a detailed photo of a person standing in front of a building at night
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 13.9/255)
+  - Color palette: muted colors — dominant colors: black (62.8%), black (33.6%), brown (3.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 24.7)

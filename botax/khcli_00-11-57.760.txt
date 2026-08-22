@@ -1,0 +1,13 @@
+Scene 13
+Frame timestamp: 717.760s (00:11:57.760) — roughly 12% through the video
+Scene span: 715.20s → 720.32s (duration ~5.12s)
+
+What's in the frame: there is a man that is walking down the street with a skateboard
+Additional detail: a detailed photo of a man walking down a street with a city in the background
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.8/255)
+  - Color palette: muted colors — dominant colors: black (43.1%), navy (40.7%), beige (16.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 314.3)

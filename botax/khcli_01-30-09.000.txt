@@ -1,0 +1,13 @@
+Scene 157
+Frame timestamp: 5409.000s (01:30:09.000) — roughly 93% through the video
+Scene span: 5370.52s → 5447.48s (duration ~76.96s)
+
+What's in the frame: there is a woman that is standing in front of a tv
+Additional detail: a detailed photo of a woman standing in front of a tv
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (37.1%), brown (31.5%), black (31.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 101.0)

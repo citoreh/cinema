@@ -1,0 +1,13 @@
+Scene 118
+Frame timestamp: 4307.500s (01:11:47.500) — roughly 74% through the video
+Scene span: 4306.36s → 4308.64s (duration ~2.28s)
+
+What's in the frame: this is an image of a statue on top of a building
+Additional detail: a detailed photo of a statue on top of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 97.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (41.6%), gray (32.3%), black (26.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 50.5)

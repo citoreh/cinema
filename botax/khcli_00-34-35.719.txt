@@ -1,0 +1,13 @@
+Scene 46
+Frame timestamp: 2075.720s (00:34:35.719) — roughly 36% through the video
+Scene span: 2041.88s → 2109.56s (duration ~67.68s)
+
+What's in the frame: there are two people sitting in the driver ' s seat of a car
+Additional detail: a detailed photo of two women sitting in the drivers seat of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.9/255)
+  - Color palette: muted colors — dominant colors: navy (38.8%), gray (31.0%), black (30.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 74.1)

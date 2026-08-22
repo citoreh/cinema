@@ -1,0 +1,13 @@
+Scene 66
+Frame timestamp: 3158.780s (00:52:38.780) — roughly 54% through the video
+Scene span: 3139.44s → 3178.12s (duration ~38.68s)
+
+What's in the frame: there is a group of people that are standing outside in the snow
+Additional detail: a detailed photo of a group of people standing in front of a stone wall
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.6/255)
+  - Color palette: muted colors — dominant colors: navy (43.0%), black (32.4%), gray (24.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.5)

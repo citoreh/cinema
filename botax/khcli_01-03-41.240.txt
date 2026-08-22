@@ -1,0 +1,13 @@
+Scene 85
+Frame timestamp: 3821.240s (01:03:41.240) — roughly 66% through the video
+Scene span: 3801.32s → 3841.16s (duration ~39.84s)
+
+What's in the frame: there is a man standing in front of a car with a scarf over his head
+Additional detail: a detailed photo of a person standing in front of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 120.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: beige (53.2%), black (35.9%), green (10.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 106.1)

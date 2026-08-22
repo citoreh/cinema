@@ -1,0 +1,13 @@
+Scene 151
+Frame timestamp: 4942.320s (01:22:22.320) — roughly 85% through the video
+Scene span: 4893.68s → 4990.96s (duration ~97.28s)
+
+What's in the frame: there is a woman that is sitting on a couch in front of a tv
+Additional detail: a detailed photo of a woman sitting on a couch in front of a tv
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 44.1/255)
+  - Color palette: muted colors — dominant colors: black (43.1%), navy (36.0%), green (21.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.0)

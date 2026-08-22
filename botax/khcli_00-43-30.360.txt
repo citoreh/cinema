@@ -1,0 +1,13 @@
+Scene 56
+Frame timestamp: 2610.360s (00:43:30.360) — roughly 45% through the video
+Scene span: 2551.12s → 2669.60s (duration ~118.48s)
+
+What's in the frame: there is a woman sitting on a blue couch in a room
+Additional detail: a detailed photo of a woman sitting on a blue couch
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 96.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (37.6%), brown (33.6%), black (28.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 66.0)

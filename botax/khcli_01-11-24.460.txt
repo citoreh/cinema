@@ -1,0 +1,13 @@
+Scene 113
+Frame timestamp: 4284.460s (01:11:24.460) — roughly 73% through the video
+Scene span: 4282.48s → 4286.44s (duration ~3.96s)
+
+What's in the frame: there is a bike parked in front of a tent with a baby in it
+Additional detail: a detailed photo of a bicycle parked in front of a tent
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.4/255)
+  - Color palette: muted colors — dominant colors: black (51.5%), navy (33.5%), gray (15.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.0)

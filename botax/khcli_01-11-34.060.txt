@@ -1,0 +1,13 @@
+Scene 115
+Frame timestamp: 4294.060s (01:11:34.060) — roughly 74% through the video
+Scene span: 4293.32s → 4294.80s (duration ~1.48s)
+
+What's in the frame: there are two people that are standing in front of the sun
+Additional detail: a detailed photo of the shadow of two people standing in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.7/255)
+  - Color palette: muted colors — dominant colors: green (49.1%), black (31.3%), gray (19.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.0)

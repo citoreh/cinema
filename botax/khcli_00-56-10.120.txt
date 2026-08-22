@@ -1,0 +1,13 @@
+Scene 75
+Frame timestamp: 3370.120s (00:56:10.120) — roughly 58% through the video
+Scene span: 3365.96s → 3374.28s (duration ~8.32s)
+
+What's in the frame: there is a blurry image of a person riding a motorcycle on the road
+Additional detail: a detailed photo of a person riding a skateboard down a street at night
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 66.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (59.1%), beige (21.3%), brown (19.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 8.3)

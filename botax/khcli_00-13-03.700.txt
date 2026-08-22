@@ -1,0 +1,13 @@
+Scene 16
+Frame timestamp: 783.700s (00:13:03.700) — roughly 13% through the video
+Scene span: 750.88s → 816.52s (duration ~65.64s)
+
+What's in the frame: there is a car that is parked on the side of the road
+Additional detail: a detailed photo of a vehicle parked on the side of a dirt road
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (50.6%), black (25.8%), gray (23.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 200.8)

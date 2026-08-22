@@ -1,0 +1,13 @@
+Scene 54
+Frame timestamp: 2545.640s (00:42:25.640) — roughly 44% through the video
+Scene span: 2543.76s → 2547.52s (duration ~3.76s)
+
+What's in the frame: this is a picture of a woman ' s face with lines drawn on it
+Additional detail: a detailed photo of a woman ' s face with lines drawn on it
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (37.7%), brown (35.5%), black (26.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.8)

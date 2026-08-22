@@ -1,0 +1,13 @@
+Scene 63
+Frame timestamp: 3105.300s (00:51:45.300) — roughly 53% through the video
+Scene span: 3100.40s → 3110.20s (duration ~9.80s)
+
+What's in the frame: there are a lot of people that are standing together in the street
+Additional detail: a detailed photo of a group of women wearing headscarves
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.9/255)
+  - Color palette: muted colors — dominant colors: navy (49.1%), black (28.2%), gray (22.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 48.5)

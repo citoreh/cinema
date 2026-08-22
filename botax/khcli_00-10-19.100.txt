@@ -1,0 +1,13 @@
+Scene 10
+Frame timestamp: 619.100s (00:10:19.100) — roughly 11% through the video
+Scene span: 585.64s → 652.56s (duration ~66.92s)
+
+What's in the frame: there is a woman standing at a table with a plate in her hand
+Additional detail: a detailed photo of a woman standing at a table with a plate in her hand
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (40.5%), black (33.2%), gray (26.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 39.7)

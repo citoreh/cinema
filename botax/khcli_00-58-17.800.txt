@@ -1,0 +1,13 @@
+Scene 79
+Frame timestamp: 3497.800s (00:58:17.800) — roughly 60% through the video
+Scene span: 3494.08s → 3501.52s (duration ~7.44s)
+
+What's in the frame: there is a woman that is standing in front of a building
+Additional detail: a detailed photo of a woman standing in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 47.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: navy (59.3%), black (30.7%), gray (10.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 91.7)

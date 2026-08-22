@@ -1,0 +1,13 @@
+Scene 15
+Frame timestamp: 741.960s (00:12:21.960) — roughly 13% through the video
+Scene span: 733.04s → 750.88s (duration ~17.84s)
+
+What's in the frame: there is a woman that is sitting at a table in front of a window
+Additional detail: a detailed photo of a woman sitting at a table in front of a window
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.7/255)
+  - Color palette: muted colors — dominant colors: black (48.2%), brown (29.8%), gray (22.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 88.2)

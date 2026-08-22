@@ -1,0 +1,13 @@
+Scene 119
+Frame timestamp: 4309.400s (01:11:49.400) — roughly 74% through the video
+Scene span: 4308.64s → 4310.16s (duration ~1.52s)
+
+What's in the frame: there is a man that is walking down the street with a backpack
+Additional detail: a detailed photo of a man walking down a busy city street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.6/255)
+  - Color palette: muted colors — dominant colors: navy (45.2%), gray (27.5%), black (27.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 48.2)

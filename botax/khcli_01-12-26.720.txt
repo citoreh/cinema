@@ -1,0 +1,13 @@
+Scene 127
+Frame timestamp: 4346.720s (01:12:26.720) — roughly 75% through the video
+Scene span: 4346.40s → 4347.04s (duration ~0.64s)
+
+What's in the frame: there is a man that is standing in front of a window
+Additional detail: a detailed photo of a man standing in front of a blurry background
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 101.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (47.3%), black (30.4%), brown (22.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 53.7)

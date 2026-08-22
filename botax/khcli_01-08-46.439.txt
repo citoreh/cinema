@@ -1,0 +1,13 @@
+Scene 95
+Frame timestamp: 4126.440s (01:08:46.439) — roughly 71% through the video
+Scene span: 4123.28s → 4129.60s (duration ~6.32s)
+
+What's in the frame: there are two women standing in front of a window wearing scarves
+Additional detail: a detailed photo of a group of women standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.8/255)
+  - Color palette: muted colors — dominant colors: black (53.3%), green (34.3%), gray (12.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 45.3)

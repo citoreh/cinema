@@ -1,0 +1,13 @@
+Scene 68
+Frame timestamp: 3228.040s (00:53:48.040) — roughly 55% through the video
+Scene span: 3183.52s → 3272.56s (duration ~89.04s)
+
+What's in the frame: there are many people that are standing together in the snow
+Additional detail: a detailed photo of a group of people standing around each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 87.0/255)
+  - Color palette: muted colors — dominant colors: green (50.0%), black (30.6%), beige (19.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 38.2)

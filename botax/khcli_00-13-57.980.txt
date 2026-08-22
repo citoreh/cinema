@@ -1,0 +1,13 @@
+Scene 18
+Frame timestamp: 837.980s (00:13:57.980) — roughly 14% through the video
+Scene span: 831.80s → 844.16s (duration ~12.36s)
+
+What's in the frame: there is a woman that is sitting on the floor with a suitcase
+Additional detail: a detailed photo of a woman sitting on the floor in a dark room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 38.6/255)
+  - Color palette: muted colors — dominant colors: black (47.8%), black (30.8%), gray (21.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.6)

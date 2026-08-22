@@ -1,0 +1,13 @@
+Scene 35
+Frame timestamp: 1739.440s (00:28:59.440) — roughly 30% through the video
+Scene span: 1715.04s → 1763.84s (duration ~48.80s)
+
+What's in the frame: there is a man standing in a living room holding a nintendo wii game controller
+Additional detail: a detailed photo of a man standing in a living room holding a video game controller
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 71.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (48.4%), brown (35.2%), gray (16.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.6)

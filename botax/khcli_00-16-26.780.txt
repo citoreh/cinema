@@ -1,0 +1,13 @@
+Scene 26
+Frame timestamp: 986.780s (00:16:26.780) — roughly 17% through the video
+Scene span: 920.48s → 1053.08s (duration ~132.60s)
+
+What's in the frame: there is a woman standing in a kitchen with a blender in her hand
+Additional detail: a detailed photo of a woman in a hoodie pouring something into a blender
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (42.1%), brown (33.6%), gray (24.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 49.7)

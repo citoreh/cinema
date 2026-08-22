@@ -1,0 +1,13 @@
+Scene 74
+Frame timestamp: 3360.760s (00:56:00.760) — roughly 58% through the video
+Scene span: 3355.56s → 3365.96s (duration ~10.40s)
+
+What's in the frame: there is a woman sitting in a car with a hood on
+Additional detail: a detailed photo of a woman sitting in the passenger seat of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 17.3/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (45.6%), black (41.3%), navy (13.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 9.3)

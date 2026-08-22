@@ -1,0 +1,13 @@
+Scene 38
+Frame timestamp: 1796.240s (00:29:56.240) — roughly 31% through the video
+Scene span: 1792.08s → 1800.40s (duration ~8.32s)
+
+What's in the frame: there is a man sitting on a couch wearing a hat and scarf
+Additional detail: a detailed photo of a man sitting on a couch in a living room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (37.5%), brown (31.6%), gray (31.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 40.9)

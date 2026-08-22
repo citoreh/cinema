@@ -1,0 +1,13 @@
+Scene 130
+Frame timestamp: 4356.240s (01:12:36.240) — roughly 75% through the video
+Scene span: 4354.32s → 4358.16s (duration ~3.84s)
+
+What's in the frame: there is a woman that is standing in the street with a scarf on
+Additional detail: a detailed photo of a woman standing in front of a market
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.7/255)
+  - Color palette: muted colors — dominant colors: black (52.9%), navy (28.2%), gray (18.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.1)

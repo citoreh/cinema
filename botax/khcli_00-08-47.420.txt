@@ -1,0 +1,13 @@
+Scene 9
+Frame timestamp: 527.420s (00:08:47.420) — roughly 9% through the video
+Scene span: 469.20s → 585.64s (duration ~116.44s)
+
+What's in the frame: there is a group of people sitting in the back seat of a car
+Additional detail: a detailed photo of a group of people sitting in the back seat of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 15.3/255)
+  - Color palette: muted colors — dominant colors: black (50.0%), black (43.2%), navy (6.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.9)

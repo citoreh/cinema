@@ -1,0 +1,13 @@
+Scene 43
+Frame timestamp: 1823.740s (00:30:23.740) — roughly 31% through the video
+Scene span: 1821.68s → 1825.80s (duration ~4.12s)
+
+What's in the frame: there is a woman in a hijab standing in a kitchen
+Additional detail: a detailed photo of a woman in a hijab standing in a kitchen
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (46.4%), black (34.0%), gray (19.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 63.3)

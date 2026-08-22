@@ -1,0 +1,13 @@
+Scene 122
+Frame timestamp: 4313.320s (01:11:53.320) — roughly 74% through the video
+Scene span: 4312.76s → 4313.88s (duration ~1.12s)
+
+What's in the frame: there is a blurry image of a plane flying in the sky
+Additional detail: a detailed photo of a plane flying through a cloudy sky
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.5/255)
+  - Color palette: muted colors — dominant colors: navy (37.5%), teal (34.4%), black (28.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 8.8)

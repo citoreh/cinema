@@ -1,0 +1,13 @@
+Scene 72
+Frame timestamp: 3333.860s (00:55:33.860) — roughly 57% through the video
+Scene span: 3320.56s → 3347.16s (duration ~26.60s)
+
+What's in the frame: there are three people sitting at a table talking to each other
+Additional detail: a detailed photo of a group of people sitting around a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.7/255)
+  - Color palette: muted colors — dominant colors: black (68.8%), brown (28.4%), gray (2.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.1)

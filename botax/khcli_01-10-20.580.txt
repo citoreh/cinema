@@ -1,0 +1,13 @@
+Scene 100
+Frame timestamp: 4220.580s (01:10:20.580) — roughly 72% through the video
+Scene span: 4219.68s → 4221.48s (duration ~1.80s)
+
+What's in the frame: there are many people that are standing in a room together
+Additional detail: a detailed photo of a group of people in a clothing store
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 50.5/255)
+  - Color palette: muted colors — dominant colors: black (47.9%), navy (35.5%), gray (16.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.5)

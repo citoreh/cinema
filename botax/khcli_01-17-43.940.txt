@@ -1,0 +1,13 @@
+Scene 139
+Frame timestamp: 4663.940s (01:17:43.940) — roughly 80% through the video
+Scene span: 4656.08s → 4671.80s (duration ~15.72s)
+
+What's in the frame: there is a woman sitting on a blue couch next to two mannequins
+Additional detail: a detailed photo of a woman sitting on a blue couch next to a man in a suit
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.5/255)
+  - Color palette: muted colors — dominant colors: brown (39.8%), black (33.4%), gray (26.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 66.3)

@@ -1,0 +1,13 @@
+Scene 94
+Frame timestamp: 4116.620s (01:08:36.620) — roughly 71% through the video
+Scene span: 4109.96s → 4123.28s (duration ~13.32s)
+
+What's in the frame: there are many people standing in front of a store on the street
+Additional detail: a detailed photo of a group of people standing in front of a store
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 56.1/255)
+  - Color palette: muted colors — dominant colors: navy (39.7%), black (35.2%), gray (25.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 119.5)

@@ -1,0 +1,13 @@
+Scene 69
+Frame timestamp: 3274.180s (00:54:34.180) — roughly 56% through the video
+Scene span: 3272.56s → 3275.80s (duration ~3.24s)
+
+What's in the frame: there is a little boy that is brushing his teeth in the street
+Additional detail: a detailed photo of a young boy brushing his teeth in front of a woman
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 88.0/255)
+  - Color palette: muted colors — dominant colors: brown (35.6%), gray (32.5%), black (31.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 67.0)

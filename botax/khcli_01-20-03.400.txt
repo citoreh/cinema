@@ -1,0 +1,13 @@
+Scene 143
+Frame timestamp: 4803.400s (01:20:03.400) — roughly 82% through the video
+Scene span: 4793.72s → 4813.08s (duration ~19.36s)
+
+What's in the frame: there is a man that is standing in the woods talking on a cell phone
+Additional detail: a detailed photo of a man standing in the woods smoking a cigarette
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 47.6/255)
+  - Color palette: muted colors — dominant colors: navy (50.7%), black (41.9%), gray (7.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.2)

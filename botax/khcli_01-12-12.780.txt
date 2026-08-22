@@ -1,0 +1,13 @@
+Scene 125
+Frame timestamp: 4332.780s (01:12:12.780) — roughly 74% through the video
+Scene span: 4322.24s → 4343.32s (duration ~21.08s)
+
+What's in the frame: there are two men standing next to each other looking at their cell phones
+Additional detail: a detailed photo of a group of people walking down a street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 35.9/255)
+  - Color palette: muted colors — dominant colors: navy (36.1%), black (34.8%), black (29.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.8)

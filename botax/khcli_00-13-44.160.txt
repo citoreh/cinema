@@ -1,0 +1,13 @@
+Scene 17
+Frame timestamp: 824.160s (00:13:44.160) — roughly 14% through the video
+Scene span: 816.52s → 831.80s (duration ~15.28s)
+
+What's in the frame: there is a woman wearing a hijab standing in front of a mirror
+Additional detail: a detailed photo of a woman standing in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 45.7/255)
+  - Color palette: muted colors — dominant colors: black (65.0%), brown (28.3%), beige (6.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.2)

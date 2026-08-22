@@ -1,0 +1,13 @@
+Scene 107
+Frame timestamp: 4250.100s (01:10:50.100) — roughly 73% through the video
+Scene span: 4246.44s → 4253.76s (duration ~7.32s)
+
+What's in the frame: this is a blurry photo of a person in a raincoat
+Additional detail: a detailed photo of a man standing in front of a pile of garbage
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (37.3%), brown (31.8%), gray (30.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 39.5)

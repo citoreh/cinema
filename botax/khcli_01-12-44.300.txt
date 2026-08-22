@@ -1,0 +1,13 @@
+Scene 132
+Frame timestamp: 4364.300s (01:12:44.300) — roughly 75% through the video
+Scene span: 4359.32s → 4369.28s (duration ~9.96s)
+
+What's in the frame: there is a group of people that are standing under a tent
+Additional detail: a detailed photo of a group of people standing under a tent
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 22.7/255)
+  - Color palette: muted colors — dominant colors: black (69.2%), navy (18.3%), brown (12.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.8)

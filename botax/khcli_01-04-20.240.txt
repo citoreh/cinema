@@ -1,0 +1,13 @@
+Scene 87
+Frame timestamp: 3860.240s (01:04:20.240) — roughly 66% through the video
+Scene span: 3851.76s → 3868.72s (duration ~16.96s)
+
+What's in the frame: there is a man that is sitting in the driver ' s seat of a truck
+Additional detail: a detailed photo of a man sitting in the driver ' s seat of a truck
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.2/255)
+  - Color palette: muted colors — dominant colors: black (49.1%), beige (34.4%), brown (16.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.3)

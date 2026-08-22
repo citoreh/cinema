@@ -1,0 +1,13 @@
+Scene 154
+Frame timestamp: 5258.400s (01:27:38.400) — roughly 90% through the video
+Scene span: 5215.24s → 5301.56s (duration ~86.32s)
+
+What's in the frame: there is a person that is sitting on the ground next to a pile of bags
+Additional detail: a detailed photo of a person sitting on a pile of bags
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 20.6/255)
+  - Color palette: muted colors — dominant colors: black (52.8%), black (25.7%), navy (21.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 10.3)

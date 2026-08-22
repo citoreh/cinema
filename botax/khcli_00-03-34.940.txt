@@ -1,0 +1,13 @@
+Scene 7
+Frame timestamp: 214.940s (00:03:34.940) — roughly 4% through the video
+Scene span: 209.40s → 220.48s (duration ~11.08s)
+
+What's in the frame: an image of a black and white photo of a person in the dark
+Additional detail: a detailed photo of arabic calligraphy on a black background
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 0.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (99.4%), brown (0.5%), beige (0.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 66.7)

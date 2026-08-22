@@ -1,0 +1,13 @@
+Scene 136
+Frame timestamp: 4563.560s (01:16:03.560) — roughly 78% through the video
+Scene span: 4549.44s → 4577.68s (duration ~28.24s)
+
+What's in the frame: there is a woman sitting in a hospital bed next to another woman
+Additional detail: a detailed photo of a woman in a hospital bed talking to another woman
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.3/255)
+  - Color palette: muted colors — dominant colors: green (38.9%), black (37.6%), gray (23.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 129.0)

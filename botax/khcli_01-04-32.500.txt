@@ -1,0 +1,13 @@
+Scene 88
+Frame timestamp: 3872.500s (01:04:32.500) — roughly 66% through the video
+Scene span: 3868.72s → 3876.28s (duration ~7.56s)
+
+What's in the frame: there are two dogs sitting in the back seat of a green car
+Additional detail: a detailed photo of a green car with two dogs in the back
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 108.1/255)
+  - Color palette: muted colors — dominant colors: gray (50.2%), black (32.7%), green (17.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 149.9)

@@ -1,0 +1,13 @@
+Scene 55
+Frame timestamp: 2549.320s (00:42:29.320) — roughly 44% through the video
+Scene span: 2547.52s → 2551.12s (duration ~3.60s)
+
+What's in the frame: there is a close up of a man with a beard and a white shirt
+Additional detail: a detailed photo of a close up of a man with a beard
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (34.0%), black (33.4%), brown (32.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 37.1)

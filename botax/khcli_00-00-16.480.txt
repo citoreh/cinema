@@ -1,0 +1,13 @@
+Scene 1
+Frame timestamp: 16.480s (00:00:16.480) — roughly 0% through the video
+Scene span: 0.00s → 32.96s (duration ~32.96s)
+
+What's in the frame: this is an image of a black and white photo of a man on a skateboard
+Additional detail: a detailed photo of an airplane flying in the night sky
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 0.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (100.0%), black (0.0%), black (0.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 0.0)

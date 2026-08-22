@@ -1,0 +1,13 @@
+Scene 104
+Frame timestamp: 4240.240s (01:10:40.240) — roughly 73% through the video
+Scene span: 4238.80s → 4241.68s (duration ~2.88s)
+
+What's in the frame: this is an image of a person standing in front of a wall of clothes
+Additional detail: a detailed photo of a person standing in front of a wall of clothes
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 85.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (36.7%), brown (32.8%), black (30.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.8)

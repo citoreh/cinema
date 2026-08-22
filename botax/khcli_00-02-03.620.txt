@@ -1,0 +1,13 @@
+Scene 4
+Frame timestamp: 123.620s (00:02:03.620) — roughly 2% through the video
+Scene span: 106.28s → 140.96s (duration ~34.68s)
+
+What's in the frame: there is a truck that is driving down the road in the rain
+Additional detail: a detailed photo of a truck driving through a forest at night
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.3/255)
+  - Color palette: muted colors — dominant colors: navy (50.4%), black (29.1%), gray (20.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.6)

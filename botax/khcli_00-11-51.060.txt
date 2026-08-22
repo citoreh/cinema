@@ -1,0 +1,13 @@
+Scene 12
+Frame timestamp: 711.060s (00:11:51.060) — roughly 12% through the video
+Scene span: 706.92s → 715.20s (duration ~8.28s)
+
+What's in the frame: there is a man that is standing in front of a green door
+Additional detail: a detailed photo of a man standing in front of a green door
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 31.7/255)
+  - Color palette: muted colors — dominant colors: black (39.1%), navy (30.5%), black (30.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 141.0)

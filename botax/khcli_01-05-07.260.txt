@@ -1,0 +1,13 @@
+Scene 89
+Frame timestamp: 3907.260s (01:05:07.260) — roughly 67% through the video
+Scene span: 3876.28s → 3938.24s (duration ~61.96s)
+
+What's in the frame: there is a truck that is sitting in the middle of the water
+Additional detail: a detailed photo of a pick up truck in the middle of a body of water
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.8/255)
+  - Color palette: muted colors — dominant colors: gray (48.4%), black (27.5%), brown (24.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 45.5)

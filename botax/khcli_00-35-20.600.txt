@@ -1,0 +1,13 @@
+Scene 47
+Frame timestamp: 2120.600s (00:35:20.600) — roughly 36% through the video
+Scene span: 2109.56s → 2131.64s (duration ~22.08s)
+
+What's in the frame: there are two people that are sitting in the back of a car
+Additional detail: a detailed photo of two people sitting in the back seat of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.0/255)
+  - Color palette: muted colors — dominant colors: black (61.3%), brown (22.7%), gray (16.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 104.5)

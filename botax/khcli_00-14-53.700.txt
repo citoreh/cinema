@@ -1,0 +1,13 @@
+Scene 23
+Frame timestamp: 893.700s (00:14:53.700) — roughly 15% through the video
+Scene span: 889.72s → 897.68s (duration ~7.96s)
+
+What's in the frame: there is a man that is sitting on a couch with a remote in his hand
+Additional detail: a detailed photo of a man sitting on a couch in front of a television
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 23.0/255)
+  - Color palette: muted colors — dominant colors: black (59.7%), black (31.5%), brown (8.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.2)

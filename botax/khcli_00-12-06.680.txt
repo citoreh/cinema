@@ -1,0 +1,13 @@
+Scene 14
+Frame timestamp: 726.680s (00:12:06.680) — roughly 12% through the video
+Scene span: 720.32s → 733.04s (duration ~12.72s)
+
+What's in the frame: there is a man and woman standing in front of a store
+Additional detail: a detailed photo of a couple of people standing in front of a store
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.5/255)
+  - Color palette: muted colors — dominant colors: brown (39.5%), black (36.7%), gray (23.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 90.7)

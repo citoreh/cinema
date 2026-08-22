@@ -1,0 +1,13 @@
+Scene 82
+Frame timestamp: 3695.180s (01:01:35.180) — roughly 63% through the video
+Scene span: 3690.76s → 3699.60s (duration ~8.84s)
+
+What's in the frame: there is a car that is parked under a bridge in the dirt
+Additional detail: a detailed photo of a car parked under a concrete bridge
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.6/255)
+  - Color palette: muted colors — dominant colors: black (43.7%), gray (31.0%), brown (25.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 90.6)

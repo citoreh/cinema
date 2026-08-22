@@ -1,0 +1,13 @@
+Scene 106
+Frame timestamp: 4245.660s (01:10:45.660) — roughly 73% through the video
+Scene span: 4244.88s → 4246.44s (duration ~1.56s)
+
+What's in the frame: there is a close up of a cell phone with a blurry background
+Additional detail: a detailed photo of a close up of a toothbrush with a blurry background
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 40.2/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (36.6%), black (35.0%), navy (28.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.7)

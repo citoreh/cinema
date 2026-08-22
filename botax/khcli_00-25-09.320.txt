@@ -1,0 +1,13 @@
+Scene 31
+Frame timestamp: 1509.320s (00:25:09.320) — roughly 26% through the video
+Scene span: 1476.80s → 1541.84s (duration ~65.04s)
+
+What's in the frame: there is a man laying on the floor next to a woman in a living room
+Additional detail: a detailed photo of a man laying on the ground next to a woman
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 41.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: navy (38.3%), black (31.5%), brown (30.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 62.8)

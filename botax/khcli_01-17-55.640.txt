@@ -1,0 +1,13 @@
+Scene 140
+Frame timestamp: 4675.640s (01:17:55.640) — roughly 80% through the video
+Scene span: 4671.80s → 4679.48s (duration ~7.68s)
+
+What's in the frame: there are two people sitting on a blue couch with masks on their faces
+Additional detail: a detailed photo of a couple of people sitting on a blue couch
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.2/255)
+  - Color palette: muted colors — dominant colors: brown (39.9%), black (33.5%), gray (26.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 64.3)

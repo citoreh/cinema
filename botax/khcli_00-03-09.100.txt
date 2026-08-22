@@ -1,0 +1,13 @@
+Scene 6
+Frame timestamp: 189.100s (00:03:09.100) — roughly 3% through the video
+Scene span: 168.80s → 209.40s (duration ~40.60s)
+
+What's in the frame: there is a man that is sitting at a table in the kitchen
+Additional detail: a detailed photo of a man sitting at a table in a kitchen
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (35.5%), black (32.5%), brown (32.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 53.8)

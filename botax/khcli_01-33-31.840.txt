@@ -1,0 +1,13 @@
+Scene 159
+Frame timestamp: 5611.840s (01:33:31.840) — roughly 96% through the video
+Scene span: 5531.60s → 5692.08s (duration ~160.48s)
+
+What's in the frame: this is an image of a man in a hoodie standing in front of a stone wall
+Additional detail: a detailed photo of a man in a hoodie standing in front of a stone wall
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 48.2/255)
+  - Color palette: muted colors — dominant colors: navy (52.1%), black (28.0%), gray (19.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.5)

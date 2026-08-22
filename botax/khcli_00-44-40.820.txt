@@ -1,0 +1,13 @@
+Scene 57
+Frame timestamp: 2680.820s (00:44:40.820) — roughly 46% through the video
+Scene span: 2669.60s → 2692.04s (duration ~22.44s)
+
+What's in the frame: there is a group of people that are walking through a building
+Additional detail: a detailed photo of a group of people walking through a lobby
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.9/255)
+  - Color palette: muted colors — dominant colors: black (46.9%), brown (29.2%), beige (23.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 126.5)

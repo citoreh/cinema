@@ -1,0 +1,13 @@
+Scene 133
+Frame timestamp: 4394.980s (01:13:14.980) — roughly 75% through the video
+Scene span: 4369.28s → 4420.68s (duration ~51.40s)
+
+What's in the frame: there are two men in the back seat of a car with smoke coming out of the window
+Additional detail: a detailed photo of a group of men sitting in the back seat of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.0/255)
+  - Color palette: muted colors — dominant colors: black (67.2%), navy (30.1%), beige (2.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.3)

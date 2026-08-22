@@ -1,0 +1,13 @@
+Scene 49
+Frame timestamp: 2233.060s (00:37:13.060) — roughly 38% through the video
+Scene span: 2153.84s → 2312.28s (duration ~158.44s)
+
+What's in the frame: there is a man standing next to a green car on the side of the road
+Additional detail: a detailed photo of a man holding a baseball bat in front of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: bright / well-lit (avg brightness 135.9/255)
+  - Color palette: muted colors — dominant colors: cyan (51.8%), black (25.7%), gray (22.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 239.2)

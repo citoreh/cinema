@@ -1,0 +1,13 @@
+Scene 3
+Frame timestamp: 98.920s (00:01:38.920) — roughly 2% through the video
+Scene span: 91.56s → 106.28s (duration ~14.72s)
+
+What's in the frame: there is no image here to provide a caption for
+Additional detail: a detailed photo of an airplane flying in the night sky
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 0.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (99.7%), black (0.2%), brown (0.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.4)

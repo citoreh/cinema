@@ -1,0 +1,13 @@
+Scene 27
+Frame timestamp: 1171.980s (00:19:31.980) — roughly 20% through the video
+Scene span: 1053.08s → 1290.88s (duration ~237.80s)
+
+What's in the frame: there is a man that is standing on the roof of a building
+Additional detail: a detailed photo of a man standing on top of a roof
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 92.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (44.3%), black (30.7%), beige (25.0%)
+  - Composition: busy / detailed composition with lots of edges and texture
+  - Focus/motion: sharp / in focus (sharpness score 443.7)

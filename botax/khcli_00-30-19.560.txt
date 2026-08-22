@@ -1,0 +1,13 @@
+Scene 42
+Frame timestamp: 1819.560s (00:30:19.560) — roughly 31% through the video
+Scene span: 1817.44s → 1821.68s (duration ~4.24s)
+
+What's in the frame: there is a man that is sitting on a couch in a living room
+Additional detail: a detailed photo of a man sitting on a couch in a living room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (38.6%), brown (31.6%), gray (29.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.7)

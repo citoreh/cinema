@@ -1,0 +1,13 @@
+Scene 60
+Frame timestamp: 2892.920s (00:48:12.920) — roughly 50% through the video
+Scene span: 2842.44s → 2943.40s (duration ~100.96s)
+
+What's in the frame: there is a man and a woman that are walking in the snow
+Additional detail: a detailed photo of a man and a woman walking in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.5/255)
+  - Color palette: muted colors — dominant colors: gray (40.0%), navy (30.6%), black (29.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 47.2)

@@ -1,0 +1,13 @@
+Scene 110
+Frame timestamp: 4261.800s (01:11:01.800) — roughly 73% through the video
+Scene span: 4255.36s → 4268.24s (duration ~12.88s)
+
+What's in the frame: there are a lot of people that are walking around in the street
+Additional detail: a detailed photo of a crowd of people walking down a street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 42.7/255)
+  - Color palette: muted colors — dominant colors: black (52.6%), navy (32.9%), gray (14.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 15.6)

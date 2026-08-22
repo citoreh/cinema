@@ -1,0 +1,13 @@
+Scene 61
+Frame timestamp: 3011.080s (00:50:11.080) — roughly 52% through the video
+Scene span: 2943.40s → 3078.76s (duration ~135.36s)
+
+What's in the frame: this is an image of a person walking in the woods
+Additional detail: a detailed photo of a person walking through a forest at night
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 23.7/255)
+  - Color palette: muted colors — dominant colors: black (59.1%), black (28.7%), navy (12.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.7)

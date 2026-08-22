@@ -1,0 +1,13 @@
+Scene 134
+Frame timestamp: 4426.980s (01:13:46.980) — roughly 76% through the video
+Scene span: 4420.68s → 4433.28s (duration ~12.60s)
+
+What's in the frame: there are two men sitting in the back seat of a car
+Additional detail: a detailed photo of a man and a woman in the back seat of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 16.6/255)
+  - Color palette: muted colors — dominant colors: black (69.5%), black (19.3%), navy (11.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.8)

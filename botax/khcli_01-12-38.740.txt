@@ -1,0 +1,13 @@
+Scene 131
+Frame timestamp: 4358.740s (01:12:38.740) — roughly 75% through the video
+Scene span: 4358.16s → 4359.32s (duration ~1.16s)
+
+What's in the frame: there is a woman that is standing in the dark with a scarf around her head
+Additional detail: a detailed photo of a person wearing a scarf and a hood
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 16.8/255)
+  - Color palette: muted colors — dominant colors: black (77.4%), navy (15.1%), brown (7.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.6)

@@ -1,0 +1,13 @@
+Scene 59
+Frame timestamp: 2794.820s (00:46:34.820) — roughly 48% through the video
+Scene span: 2747.20s → 2842.44s (duration ~95.24s)
+
+What's in the frame: there is a man that is standing on a shelf in the corner of a room
+Additional detail: a detailed photo of a person standing in front of a tv
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 40.2/255)
+  - Color palette: muted colors — dominant colors: navy (51.7%), black (41.4%), gray (6.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.2)

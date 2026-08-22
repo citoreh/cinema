@@ -1,0 +1,13 @@
+Scene 5
+Frame timestamp: 154.880s (00:02:34.880) — roughly 3% through the video
+Scene span: 140.96s → 168.80s (duration ~27.84s)
+
+What's in the frame: this is an image of a black and white photo of a clock
+Additional detail: a detailed photo of a black background with white writing on it
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 0.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (98.3%), brown (0.9%), black (0.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 263.6)

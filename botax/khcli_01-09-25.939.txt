@@ -1,0 +1,13 @@
+Scene 96
+Frame timestamp: 4165.940s (01:09:25.939) — roughly 71% through the video
+Scene span: 4129.60s → 4202.28s (duration ~72.68s)
+
+What's in the frame: there is a man that is walking down the street with a skateboard
+Additional detail: a detailed photo of a man riding a skateboard down a street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.3/255)
+  - Color palette: muted colors — dominant colors: gray (40.8%), green (33.9%), black (25.3%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 76.9)

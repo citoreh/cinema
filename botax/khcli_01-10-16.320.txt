@@ -1,0 +1,13 @@
+Scene 99
+Frame timestamp: 4216.320s (01:10:16.320) — roughly 72% through the video
+Scene span: 4212.96s → 4219.68s (duration ~6.72s)
+
+What's in the frame: there is a man that is standing in front of a bunch of clothes
+Additional detail: a detailed photo of a man standing in front of a bunch of clothes
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 99.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (37.3%), beige (33.7%), gray (29.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 82.0)

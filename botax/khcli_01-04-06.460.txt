@@ -1,0 +1,13 @@
+Scene 86
+Frame timestamp: 3846.460s (01:04:06.460) — roughly 66% through the video
+Scene span: 3841.16s → 3851.76s (duration ~10.60s)
+
+What's in the frame: there is a man sitting in the driver ' s seat of a car in the snow
+Additional detail: a detailed photo of a man sitting in the driver ' s seat of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 100.7/255)
+  - Color palette: muted colors — dominant colors: gray (38.7%), black (38.4%), beige (23.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 83.4)
