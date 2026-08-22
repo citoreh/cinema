@@ -1,0 +1,13 @@
+Scene 146
+Frame timestamp: 1388.360s (00:23:08.360) — roughly 29% through the video
+Scene span: 1386.28s → 1390.44s (duration ~4.16s)
+
+What's in the frame: there is a man with a beard standing in front of a red background
+Additional detail: a detailed photo of a man with a beard in a red room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (55.4%), black (35.3%), black (9.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.1)

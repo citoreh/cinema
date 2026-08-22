@@ -1,0 +1,13 @@
+Scene 151
+Frame timestamp: 1537.740s (00:25:37.740) — roughly 32% through the video
+Scene span: 1527.32s → 1548.16s (duration ~20.84s)
+
+What's in the frame: several people sitting around a table in a living room talking to each other
+Additional detail: a detailed photo of a group of people sitting around a table
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.7/255)
+  - Color palette: muted colors — dominant colors: black (36.3%), brown (32.4%), brown (31.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 39.1)

@@ -1,0 +1,13 @@
+Scene 124
+Frame timestamp: 1057.340s (00:17:37.340) — roughly 22% through the video
+Scene span: 1056.40s → 1058.28s (duration ~1.88s)
+
+What's in the frame: there is a man that is talking to someone in the kitchen
+Additional detail: a detailed photo of a man in a kitchen with a lot of condiments
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.7/255)
+  - Color palette: muted colors — dominant colors: brown (38.7%), black (32.2%), gray (29.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 27.6)

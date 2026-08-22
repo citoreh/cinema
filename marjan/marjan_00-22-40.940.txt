@@ -1,0 +1,13 @@
+Scene 145
+Frame timestamp: 1360.940s (00:22:40.940) — roughly 28% through the video
+Scene span: 1335.60s → 1386.28s (duration ~50.68s)
+
+What's in the frame: there is a man that is standing in the doorway of a building
+Additional detail: a detailed photo of a man in a black jacket and a woman in a pink hijab
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (45.9%), black (35.8%), gray (18.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.9)

@@ -1,0 +1,13 @@
+Scene 142
+Frame timestamp: 1286.140s (00:21:26.140) — roughly 27% through the video
+Scene span: 1262.96s → 1309.32s (duration ~46.36s)
+
+What's in the frame: there is a man that is standing in the doorway of a house
+Additional detail: a detailed photo of a man standing in the doorway of a house
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 39.8/255)
+  - Color palette: muted colors — dominant colors: black (48.7%), black (36.1%), brown (15.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.0)

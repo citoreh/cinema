@@ -1,0 +1,13 @@
+Scene 139
+Frame timestamp: 1122.820s (00:18:42.820) — roughly 23% through the video
+Scene span: 1120.52s → 1125.12s (duration ~4.60s)
+
+What's in the frame: there are two men standing next to each other in a boxing ring
+Additional detail: a detailed photo of two men standing next to each other in a boxing ring
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.9/255)
+  - Color palette: muted colors — dominant colors: black (48.0%), brown (31.6%), brown (20.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.5)

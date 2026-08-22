@@ -1,0 +1,13 @@
+Scene 129
+Frame timestamp: 1069.420s (00:17:49.420) — roughly 22% through the video
+Scene span: 1067.44s → 1071.40s (duration ~3.96s)
+
+What's in the frame: there is a man standing in a store looking at his cell phone
+Additional detail: a detailed photo of a man in a grocery store looking at his cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 62.3/255)
+  - Color palette: muted colors — dominant colors: brown (37.9%), black (35.9%), gray (26.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.7)

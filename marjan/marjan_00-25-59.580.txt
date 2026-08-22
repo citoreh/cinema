@@ -1,0 +1,13 @@
+Scene 156
+Frame timestamp: 1559.580s (00:25:59.580) — roughly 32% through the video
+Scene span: 1557.96s → 1561.20s (duration ~3.24s)
+
+What's in the frame: there are two people standing in a kitchen preparing food together
+Additional detail: a detailed photo of a group of people in a kitchen preparing food
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.4/255)
+  - Color palette: muted colors — dominant colors: black (43.5%), brown (31.5%), brown (25.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.2)

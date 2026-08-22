@@ -1,0 +1,13 @@
+Scene 135
+Frame timestamp: 1096.240s (00:18:16.240) — roughly 23% through the video
+Scene span: 1086.68s → 1105.80s (duration ~19.12s)
+
+What's in the frame: there are two men fighting in a boxing ring with each other
+Additional detail: a detailed photo of a group of men in a boxing ring
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 44.5/255)
+  - Color palette: muted colors — dominant colors: black (50.4%), brown (31.2%), brown (18.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.3)

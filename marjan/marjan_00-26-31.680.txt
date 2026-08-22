@@ -1,0 +1,13 @@
+Scene 160
+Frame timestamp: 1591.680s (00:26:31.680) — roughly 33% through the video
+Scene span: 1589.76s → 1593.60s (duration ~3.84s)
+
+What's in the frame: there are three people standing in a kitchen looking at something on the counter
+Additional detail: a detailed photo of a group of people standing in a kitchen
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 42.2/255)
+  - Color palette: muted colors — dominant colors: black (42.8%), brown (29.9%), brown (27.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.8)

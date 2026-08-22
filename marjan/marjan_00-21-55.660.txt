@@ -1,0 +1,13 @@
+Scene 143
+Frame timestamp: 1315.660s (00:21:55.660) — roughly 27% through the video
+Scene span: 1309.32s → 1322.00s (duration ~12.68s)
+
+What's in the frame: there is a man that is standing in front of a refrigerator
+Additional detail: a detailed photo of a man standing in front of a refrigerator
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (40.2%), gray (38.0%), brown (21.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.8)

@@ -1,0 +1,13 @@
+Scene 161
+Frame timestamp: 1594.340s (00:26:34.340) — roughly 33% through the video
+Scene span: 1593.60s → 1595.08s (duration ~1.48s)
+
+What's in the frame: there is a man that is standing in a kitchen next to a refrigerator
+Additional detail: a detailed photo of a man with a beard in a kitchen
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 48.9/255)
+  - Color palette: muted colors — dominant colors: black (41.2%), brown (40.9%), brown (17.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 14.4)

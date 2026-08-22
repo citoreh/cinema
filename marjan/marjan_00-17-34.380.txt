@@ -1,0 +1,13 @@
+Scene 123
+Frame timestamp: 1054.380s (00:17:34.380) — roughly 22% through the video
+Scene span: 1052.36s → 1056.40s (duration ~4.04s)
+
+What's in the frame: there is a man that is standing in front of a microwave
+Additional detail: a detailed photo of a man in a grocery store looking at the camera
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 62.4/255)
+  - Color palette: muted colors — dominant colors: brown (36.8%), black (34.4%), gray (28.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 24.9)

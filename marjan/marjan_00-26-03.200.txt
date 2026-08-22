@@ -1,0 +1,13 @@
+Scene 157
+Frame timestamp: 1563.200s (00:26:03.200) — roughly 32% through the video
+Scene span: 1561.20s → 1565.20s (duration ~4.00s)
+
+What's in the frame: there is a man standing in a kitchen next to a woman
+Additional detail: a detailed photo of a man standing in a kitchen next to a woman
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 50.4/255)
+  - Color palette: muted colors — dominant colors: black (39.9%), brown (36.3%), brown (23.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.0)

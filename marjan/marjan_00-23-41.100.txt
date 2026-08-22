@@ -1,0 +1,13 @@
+Scene 147
+Frame timestamp: 1421.100s (00:23:41.100) — roughly 30% through the video
+Scene span: 1390.44s → 1451.76s (duration ~61.32s)
+
+What's in the frame: there are two men sitting on a bench in front of a red wall
+Additional detail: a detailed photo of a group of people sitting on a bench
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.7/255)
+  - Color palette: muted colors — dominant colors: black (39.0%), black (32.8%), brown (28.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 8.5)

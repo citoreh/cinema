@@ -1,0 +1,13 @@
+Scene 126
+Frame timestamp: 1062.140s (00:17:42.140) — roughly 22% through the video
+Scene span: 1060.96s → 1063.32s (duration ~2.36s)
+
+What's in the frame: there is a man that is standing in front of a counter
+Additional detail: a detailed photo of a man standing in front of a shelf filled with bottles
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.8/255)
+  - Color palette: muted colors — dominant colors: brown (35.7%), gray (32.2%), black (32.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.8)

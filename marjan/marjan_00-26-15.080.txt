@@ -1,0 +1,13 @@
+Scene 158
+Frame timestamp: 1575.080s (00:26:15.080) — roughly 33% through the video
+Scene span: 1565.20s → 1584.96s (duration ~19.76s)
+
+What's in the frame: there is a woman that is standing in the kitchen preparing food
+Additional detail: a detailed photo of a woman standing in a kitchen preparing food
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 48.7/255)
+  - Color palette: muted colors — dominant colors: brown (40.2%), black (33.8%), brown (25.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.1)

@@ -1,0 +1,13 @@
+Scene 152
+Frame timestamp: 1548.880s (00:25:48.880) — roughly 32% through the video
+Scene span: 1548.16s → 1549.60s (duration ~1.44s)
+
+What's in the frame: this is an image of a man staring at the camera
+Additional detail: a detailed photo of a man staring intently into the camera
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 66.0/255)
+  - Color palette: muted colors — dominant colors: black (34.2%), brown (33.7%), gray (32.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.3)

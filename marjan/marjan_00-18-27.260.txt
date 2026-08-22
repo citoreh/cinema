@@ -1,0 +1,13 @@
+Scene 136
+Frame timestamp: 1107.260s (00:18:27.260) — roughly 23% through the video
+Scene span: 1105.80s → 1108.72s (duration ~2.92s)
+
+What's in the frame: there are two men standing next to each other in front of a wall
+Additional detail: a detailed photo of two men talking in front of a wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 49.4/255)
+  - Color palette: muted colors — dominant colors: black (47.5%), brown (36.8%), brown (15.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 14.4)

@@ -1,0 +1,13 @@
+Scene 130
+Frame timestamp: 1073.740s (00:17:53.740) — roughly 22% through the video
+Scene span: 1071.40s → 1076.08s (duration ~4.68s)
+
+What's in the frame: there is a man that is looking up at something in the distance
+Additional detail: a detailed photo of a man in a store looking up at the sky
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.8/255)
+  - Color palette: muted colors — dominant colors: brown (35.9%), black (32.3%), gray (31.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 33.8)

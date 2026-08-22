@@ -1,0 +1,13 @@
+Scene 153
+Frame timestamp: 1550.000s (00:25:50.000) — roughly 32% through the video
+Scene span: 1549.60s → 1550.40s (duration ~0.80s)
+
+What's in the frame: this is an image of a man in a suit and tie staring at the camera
+Additional detail: a detailed photo of a man in a suit and tie staring at the camera
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 60.2/255)
+  - Color palette: muted colors — dominant colors: brown (41.7%), black (32.5%), brown (25.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.6)

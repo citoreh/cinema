@@ -1,0 +1,13 @@
+Scene 131
+Frame timestamp: 1077.120s (00:17:57.120) — roughly 22% through the video
+Scene span: 1076.08s → 1078.16s (duration ~2.08s)
+
+What's in the frame: there is a man that is standing in front of a microwave
+Additional detail: a detailed photo of a man standing in front of a microwave
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 62.5/255)
+  - Color palette: muted colors — dominant colors: brown (36.3%), black (35.6%), gray (28.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.2)

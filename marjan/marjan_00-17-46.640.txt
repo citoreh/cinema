@@ -1,0 +1,13 @@
+Scene 128
+Frame timestamp: 1066.640s (00:17:46.640) — roughly 22% through the video
+Scene span: 1065.84s → 1067.44s (duration ~1.60s)
+
+What's in the frame: there is a man that is standing in front of a glass jar
+Additional detail: a detailed photo of a man sitting in front of a soda machine
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.8/255)
+  - Color palette: muted colors — dominant colors: brown (36.5%), black (32.5%), gray (31.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 30.6)

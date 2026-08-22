@@ -1,0 +1,13 @@
+Scene 141
+Frame timestamp: 1195.400s (00:19:55.400) — roughly 25% through the video
+Scene span: 1127.84s → 1262.96s (duration ~135.12s)
+
+What's in the frame: there is a man and a woman sitting in front of a window
+Additional detail: a detailed photo of a man and a woman sitting in front of a window
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.0/255)
+  - Color palette: muted colors — dominant colors: brown (42.1%), black (33.2%), brown (24.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.6)

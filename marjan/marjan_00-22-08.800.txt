@@ -1,0 +1,13 @@
+Scene 144
+Frame timestamp: 1328.800s (00:22:08.800) — roughly 28% through the video
+Scene span: 1322.00s → 1335.60s (duration ~13.60s)
+
+What's in the frame: there is a person that is holding a cell phone in front of a keyboard
+Additional detail: a detailed photo of a person holding a cell phone in front of a keyboard
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (52.1%), navy (28.6%), gray (19.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.9)

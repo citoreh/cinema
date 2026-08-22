@@ -1,0 +1,13 @@
+Scene 149
+Frame timestamp: 1489.080s (00:24:49.080) — roughly 31% through the video
+Scene span: 1463.36s → 1514.80s (duration ~51.44s)
+
+What's in the frame: there is a man that is looking out of a window
+Additional detail: a detailed photo of a man standing in front of a window
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.7/255)
+  - Color palette: muted colors — dominant colors: brown (42.7%), black (33.6%), brown (23.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 15.1)

@@ -1,0 +1,13 @@
+Scene 132
+Frame timestamp: 1079.700s (00:17:59.700) — roughly 22% through the video
+Scene span: 1078.16s → 1081.24s (duration ~3.08s)
+
+What's in the frame: there is a man that is standing in front of a counter
+Additional detail: a detailed photo of a man standing in front of a counter
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.6/255)
+  - Color palette: muted colors — dominant colors: brown (35.6%), gray (32.3%), black (32.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.4)

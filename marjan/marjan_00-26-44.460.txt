@@ -1,0 +1,13 @@
+Scene 163
+Frame timestamp: 1604.460s (00:26:44.460) — roughly 33% through the video
+Scene span: 1601.16s → 1607.76s (duration ~6.60s)
+
+What's in the frame: there are many people sitting around a table in a living room
+Additional detail: a detailed photo of a group of people sitting around a table
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.5/255)
+  - Color palette: muted colors — dominant colors: brown (34.3%), brown (33.5%), black (32.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 46.0)
