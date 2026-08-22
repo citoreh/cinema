@@ -1,0 +1,13 @@
+Scene 304
+Frame timestamp: 2754.760s (00:45:54.760) — roughly 57% through the video
+Scene span: 2752.68s → 2756.84s (duration ~4.16s)
+
+What's in the frame: there are three people standing outside of a house talking on their cell phones
+Additional detail: a detailed photo of three people standing outside of a house talking on their cell phones
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 50.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (41.5%), navy (35.1%), gray (23.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.4)

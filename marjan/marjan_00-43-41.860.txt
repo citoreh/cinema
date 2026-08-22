@@ -1,0 +1,13 @@
+Scene 277
+Frame timestamp: 2621.860s (00:43:41.860) — roughly 54% through the video
+Scene span: 2608.56s → 2635.16s (duration ~26.60s)
+
+What's in the frame: there are two women sitting on a couch talking to each other
+Additional detail: a detailed photo of a group of people sitting on a couch
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (58.5%), brown (22.4%), brown (19.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 24.0)

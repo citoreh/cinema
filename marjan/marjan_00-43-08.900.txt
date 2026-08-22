@@ -1,0 +1,13 @@
+Scene 275
+Frame timestamp: 2588.900s (00:43:08.900) — roughly 54% through the video
+Scene span: 2575.56s → 2602.24s (duration ~26.68s)
+
+What's in the frame: there is a man and a woman standing in front of a brick building
+Additional detail: a detailed photo of a man and a woman standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (37.5%), brown (33.4%), brown (29.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 45.3)

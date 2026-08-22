@@ -1,0 +1,13 @@
+Scene 261
+Frame timestamp: 2278.900s (00:37:58.900) — roughly 47% through the video
+Scene span: 2278.08s → 2279.72s (duration ~1.64s)
+
+What's in the frame: there are two men standing next to each other in a park
+Additional detail: a detailed photo of two men standing next to each other in a park
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (36.8%), black (33.6%), gray (29.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 50.6)

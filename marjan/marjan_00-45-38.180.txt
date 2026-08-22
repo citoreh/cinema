@@ -1,0 +1,13 @@
+Scene 297
+Frame timestamp: 2738.180s (00:45:38.180) — roughly 57% through the video
+Scene span: 2737.64s → 2738.72s (duration ~1.08s)
+
+What's in the frame: there is a man sitting against a brick wall with a toothbrush in his hand
+Additional detail: a detailed photo of a bearded man sitting against a brick wall brushing his teeth
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (40.4%), black (30.6%), brown (29.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 49.6)

@@ -1,0 +1,13 @@
+Scene 270
+Frame timestamp: 2515.800s (00:41:55.800) — roughly 52% through the video
+Scene span: 2508.12s → 2523.48s (duration ~15.36s)
+
+What's in the frame: this is an image of a man in a suit and tie looking at something
+Additional detail: a detailed photo of a man in a black jacket looking at the camera
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (45.3%), black (42.1%), brown (12.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.4)

@@ -1,0 +1,13 @@
+Scene 274
+Frame timestamp: 2562.380s (00:42:42.380) — roughly 53% through the video
+Scene span: 2549.20s → 2575.56s (duration ~26.36s)
+
+What's in the frame: there is a man that is sitting in a car with a cigarette in his mouth
+Additional detail: a detailed photo of a man sitting in a car smoking a cigarette
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (40.3%), gray (31.7%), navy (28.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.6)

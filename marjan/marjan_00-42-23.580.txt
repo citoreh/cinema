@@ -1,0 +1,13 @@
+Scene 273
+Frame timestamp: 2543.580s (00:42:23.580) — roughly 53% through the video
+Scene span: 2537.96s → 2549.20s (duration ~11.24s)
+
+What's in the frame: this is an image of a man walking down a hallway with a fire extinguisher in the background
+Additional detail: a detailed photo of a man walking down a hallway next to a fire extinguisher
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 45.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (67.3%), brown (20.7%), gray (12.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 14.5)

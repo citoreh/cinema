@@ -1,0 +1,13 @@
+Scene 262
+Frame timestamp: 2282.640s (00:38:02.640) — roughly 47% through the video
+Scene span: 2279.72s → 2285.56s (duration ~5.84s)
+
+What's in the frame: there is a man that is riding on the back of a motorcycle
+Additional detail: a detailed photo of a man riding a motorcycle on a city street
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (37.8%), brown (35.9%), gray (26.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 30.6)

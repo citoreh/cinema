@@ -1,0 +1,13 @@
+Scene 279
+Frame timestamp: 2641.560s (00:44:01.560) — roughly 55% through the video
+Scene span: 2639.36s → 2643.76s (duration ~4.40s)
+
+What's in the frame: there is a man with a beard standing next to a brick wall
+Additional detail: a detailed photo of a bearded man leaning against a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (45.8%), black (28.6%), navy (25.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 31.4)

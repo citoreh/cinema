@@ -1,0 +1,13 @@
+Scene 272
+Frame timestamp: 2537.260s (00:42:17.260) — roughly 53% through the video
+Scene span: 2536.56s → 2537.96s (duration ~1.40s)
+
+What's in the frame: there is a man and a woman that are walking down the hallway
+Additional detail: a detailed photo of a man and a woman walking down a hallway
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 51.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (61.2%), brown (23.6%), gray (15.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.4)

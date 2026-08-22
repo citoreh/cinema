@@ -1,0 +1,13 @@
+Scene 268
+Frame timestamp: 2476.700s (00:41:16.700) — roughly 51% through the video
+Scene span: 2463.72s → 2489.68s (duration ~25.96s)
+
+What's in the frame: there is a woman talking on the phone while wearing a headscarf
+Additional detail: a detailed photo of a woman talking on a telephone while wearing a headscarf
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (49.6%), black (38.7%), brown (11.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 31.6)

@@ -1,0 +1,13 @@
+Scene 266
+Frame timestamp: 2392.080s (00:39:52.080) — roughly 50% through the video
+Scene span: 2351.08s → 2433.08s (duration ~82.00s)
+
+What's in the frame: there is a man and a woman standing next to each other
+Additional detail: a detailed photo of a man and a woman standing next to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 90.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (42.0%), black (38.5%), gray (19.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 49.5)

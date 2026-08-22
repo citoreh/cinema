@@ -1,0 +1,13 @@
+Scene 264
+Frame timestamp: 2295.340s (00:38:15.340) — roughly 48% through the video
+Scene span: 2290.08s → 2300.60s (duration ~10.52s)
+
+What's in the frame: there is a man that is riding a motorcycle in a tunnel
+Additional detail: a detailed photo of a man riding a motorcycle in a tunnel
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 40.0/255)
+  - Color palette: muted colors — dominant colors: black (61.1%), black (28.8%), brown (10.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 8.9)

@@ -1,0 +1,13 @@
+Scene 281
+Frame timestamp: 2660.300s (00:44:20.300) — roughly 55% through the video
+Scene span: 2653.44s → 2667.16s (duration ~13.72s)
+
+What's in the frame: there is a man with a beard holding a cell phone in front of a brick wall
+Additional detail: a detailed photo of a man looking at his cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (42.6%), black (30.0%), navy (27.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 29.3)

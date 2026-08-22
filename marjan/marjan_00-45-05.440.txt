@@ -1,0 +1,13 @@
+Scene 287
+Frame timestamp: 2705.440s (00:45:05.440) — roughly 56% through the video
+Scene span: 2703.56s → 2707.32s (duration ~3.76s)
+
+What's in the frame: there are two women standing next to each other outside of a building
+Additional detail: a detailed photo of two women standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 48.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (43.8%), navy (38.0%), gray (18.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.2)

@@ -1,0 +1,13 @@
+Scene 271
+Frame timestamp: 2530.020s (00:42:10.020) — roughly 53% through the video
+Scene span: 2523.48s → 2536.56s (duration ~13.08s)
+
+What's in the frame: there are two men and a woman standing next to each other in a hallway
+Additional detail: a detailed photo of a group of people standing and sitting in a hallway
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 41.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (62.5%), navy (22.9%), gray (14.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.4)

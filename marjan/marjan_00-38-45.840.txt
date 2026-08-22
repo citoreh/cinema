@@ -1,0 +1,13 @@
+Scene 265
+Frame timestamp: 2325.840s (00:38:45.840) — roughly 48% through the video
+Scene span: 2300.60s → 2351.08s (duration ~50.48s)
+
+What's in the frame: there is a man and a woman walking down a bridge at night
+Additional detail: a detailed photo of a man and a woman walking down a bridge
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (37.2%), black (35.9%), brown (26.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.2)

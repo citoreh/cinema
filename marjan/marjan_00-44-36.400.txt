@@ -1,0 +1,13 @@
+Scene 283
+Frame timestamp: 2676.400s (00:44:36.400) — roughly 56% through the video
+Scene span: 2673.00s → 2679.80s (duration ~6.80s)
+
+What's in the frame: there is a man that is smoking a cigarette in front of a brick wall
+Additional detail: a detailed photo of a man smoking a cigarette in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 71.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (41.4%), black (31.5%), brown (27.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.9)

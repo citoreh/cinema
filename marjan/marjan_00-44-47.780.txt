@@ -1,0 +1,13 @@
+Scene 284
+Frame timestamp: 2687.780s (00:44:47.780) — roughly 56% through the video
+Scene span: 2679.80s → 2695.76s (duration ~15.96s)
+
+What's in the frame: there is a man that is looking at his reflection in the mirror
+Additional detail: a detailed photo of a man looking at his reflection in a mirror
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 47.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (44.5%), navy (31.3%), brown (24.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.2)

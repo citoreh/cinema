@@ -1,0 +1,13 @@
+Scene 303
+Frame timestamp: 2750.500s (00:45:50.500) — roughly 57% through the video
+Scene span: 2748.32s → 2752.68s (duration ~4.36s)
+
+What's in the frame: there is a man sitting against a brick wall with a knife in his hand
+Additional detail: a detailed photo of a bearded man sitting against a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 62.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (39.6%), black (31.0%), brown (29.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.8)

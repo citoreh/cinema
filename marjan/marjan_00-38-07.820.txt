@@ -1,0 +1,13 @@
+Scene 263
+Frame timestamp: 2287.820s (00:38:07.820) — roughly 48% through the video
+Scene span: 2285.56s → 2290.08s (duration ~4.52s)
+
+What's in the frame: there is a man that is sitting down with his hands on his chest
+Additional detail: a detailed photo of an old man sitting in a chair with his hands on his chest
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (44.3%), gray (27.9%), navy (27.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.3)

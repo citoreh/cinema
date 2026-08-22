@@ -1,0 +1,13 @@
+Scene 276
+Frame timestamp: 2605.400s (00:43:25.400) — roughly 54% through the video
+Scene span: 2602.24s → 2608.56s (duration ~6.32s)
+
+What's in the frame: there is a woman that is standing in front of a window
+Additional detail: a detailed photo of a woman in a black hoodie holding an umbrella
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (42.3%), brown (32.0%), gray (25.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.6)

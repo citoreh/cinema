@@ -1,0 +1,13 @@
+Scene 305
+Frame timestamp: 2758.040s (00:45:58.040) — roughly 57% through the video
+Scene span: 2756.84s → 2759.24s (duration ~2.40s)
+
+What's in the frame: there is a man sitting against a brick wall with a cigarette in his hand
+Additional detail: a detailed photo of a bearded man sitting against a brick wall with a cigarette in his hand
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (39.4%), black (30.8%), brown (29.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.9)

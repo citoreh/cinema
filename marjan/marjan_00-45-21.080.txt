@@ -1,0 +1,13 @@
+Scene 292
+Frame timestamp: 2721.080s (00:45:21.080) — roughly 57% through the video
+Scene span: 2719.92s → 2722.24s (duration ~2.32s)
+
+What's in the frame: there are three women standing in front of a brick building
+Additional detail: a detailed photo of a group of women standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 50.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (40.3%), navy (36.5%), gray (23.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.7)

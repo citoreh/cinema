@@ -1,0 +1,13 @@
+Scene 294
+Frame timestamp: 2731.500s (00:45:31.500) — roughly 57% through the video
+Scene span: 2730.20s → 2732.80s (duration ~2.60s)
+
+What's in the frame: there are three people that are standing outside of a building
+Additional detail: a detailed photo of a group of people standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 51.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (39.0%), navy (37.0%), gray (24.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.7)

@@ -1,0 +1,13 @@
+Scene 300
+Frame timestamp: 2743.940s (00:45:43.940) — roughly 57% through the video
+Scene span: 2743.12s → 2744.76s (duration ~1.64s)
+
+What's in the frame: there are two women standing in front of a brick building
+Additional detail: a detailed photo of two women standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 50.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (40.5%), navy (35.8%), gray (23.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.2)

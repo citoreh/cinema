@@ -1,0 +1,13 @@
+Scene 288
+Frame timestamp: 2708.660s (00:45:08.660) — roughly 56% through the video
+Scene span: 2707.32s → 2710.00s (duration ~2.68s)
+
+What's in the frame: there are two men sitting on the steps of a brick building
+Additional detail: a detailed photo of two men sitting on the steps of a brick building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (42.6%), brown (30.2%), gray (27.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 27.1)

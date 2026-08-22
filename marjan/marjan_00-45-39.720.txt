@@ -1,0 +1,13 @@
+Scene 298
+Frame timestamp: 2739.720s (00:45:39.720) — roughly 57% through the video
+Scene span: 2738.72s → 2740.72s (duration ~2.00s)
+
+What's in the frame: there are two women standing on the porch of a house
+Additional detail: a detailed photo of two women in hijabs standing on a porch
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 50.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (39.4%), navy (38.0%), gray (22.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.6)

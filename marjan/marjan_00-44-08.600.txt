@@ -1,0 +1,13 @@
+Scene 280
+Frame timestamp: 2648.600s (00:44:08.600) — roughly 55% through the video
+Scene span: 2643.76s → 2653.44s (duration ~9.68s)
+
+What's in the frame: there are two men sitting next to each other in front of a brick wall
+Additional detail: a detailed photo of two men sitting next to each other in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (43.4%), gray (33.3%), brown (23.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 29.5)

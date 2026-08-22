@@ -1,0 +1,13 @@
+Scene 267
+Frame timestamp: 2448.400s (00:40:48.400) — roughly 51% through the video
+Scene span: 2433.08s → 2463.72s (duration ~30.64s)
+
+What's in the frame: there is a man that is hugging another man in a boxing ring
+Additional detail: a detailed photo of a man and a woman in a boxing ring
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 33.6/255)
+  - Color palette: muted colors — dominant colors: black (43.9%), black (43.5%), brown (12.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 8.2)
