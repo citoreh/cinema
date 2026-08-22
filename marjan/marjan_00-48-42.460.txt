@@ -1,0 +1,13 @@
+Scene 319
+Frame timestamp: 2922.460s (00:48:42.460) — roughly 61% through the video
+Scene span: 2915.08s → 2929.84s (duration ~14.76s)
+
+What's in the frame: there is a man in a military uniform standing next to a man in a blue jacket
+Additional detail: a detailed photo of a man in a military uniform looking at himself in the mirror
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 60.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: navy (40.8%), black (32.4%), gray (26.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.2)

@@ -1,0 +1,13 @@
+Scene 315
+Frame timestamp: 2834.280s (00:47:14.280) — roughly 59% through the video
+Scene span: 2830.96s → 2837.60s (duration ~6.64s)
+
+What's in the frame: this is an image of a person standing outside of a house looking out the window
+Additional detail: a detailed photo of a person standing outside of a house looking out a window
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 56.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (45.2%), black (33.8%), gray (20.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.2)

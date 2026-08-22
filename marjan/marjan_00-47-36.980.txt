@@ -1,0 +1,13 @@
+Scene 316
+Frame timestamp: 2856.980s (00:47:36.980) — roughly 59% through the video
+Scene span: 2837.60s → 2876.36s (duration ~38.76s)
+
+What's in the frame: there is a man and a woman sitting next to each other on the stairs
+Additional detail: a detailed photo of a man and a woman sitting on the steps of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (47.6%), gray (28.6%), brown (23.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.1)

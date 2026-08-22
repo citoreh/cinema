@@ -1,0 +1,13 @@
+Scene 348
+Frame timestamp: 3529.360s (00:58:49.360) — roughly 73% through the video
+Scene span: 3526.48s → 3532.24s (duration ~5.76s)
+
+What's in the frame: there are two women sitting on a rug in a room
+Additional detail: a detailed photo of two women dressed in black sitting on a rug
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 42.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (43.9%), brown (30.8%), navy (25.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.8)

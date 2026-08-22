@@ -1,0 +1,13 @@
+Scene 341
+Frame timestamp: 3496.120s (00:58:16.120) — roughly 73% through the video
+Scene span: 3493.08s → 3499.16s (duration ~6.08s)
+
+What's in the frame: this is an image of a man standing in front of a microwave
+Additional detail: a detailed photo of a man in a green jacket leaning on a bed
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (36.4%), navy (35.6%), gray (28.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.2)

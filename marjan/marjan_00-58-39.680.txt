@@ -1,0 +1,13 @@
+Scene 345
+Frame timestamp: 3519.680s (00:58:39.680) — roughly 73% through the video
+Scene span: 3517.56s → 3521.80s (duration ~4.24s)
+
+What's in the frame: there is a man that is standing in a room with a jacket on
+Additional detail: a detailed photo of a man with a beard standing in a room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (52.7%), black (28.8%), navy (18.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 27.5)

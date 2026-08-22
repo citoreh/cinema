@@ -1,0 +1,13 @@
+Scene 342
+Frame timestamp: 3502.660s (00:58:22.660) — roughly 73% through the video
+Scene span: 3499.16s → 3506.16s (duration ~7.00s)
+
+What's in the frame: there are two women sitting on the floor talking to each other
+Additional detail: a detailed photo of two women in hijab sitting on the floor
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (62.9%), brown (29.1%), gray (8.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.5)

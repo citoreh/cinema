@@ -1,0 +1,13 @@
+Scene 346
+Frame timestamp: 3523.120s (00:58:43.120) — roughly 73% through the video
+Scene span: 3521.80s → 3524.44s (duration ~2.64s)
+
+What's in the frame: there are two women sitting on the floor in front of a mirror
+Additional detail: a detailed photo of two women sitting on the floor in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 45.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (60.2%), brown (27.9%), gray (11.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.9)

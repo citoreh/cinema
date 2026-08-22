@@ -1,0 +1,13 @@
+Scene 336
+Frame timestamp: 3479.960s (00:57:59.960) — roughly 72% through the video
+Scene span: 3479.08s → 3480.84s (duration ~1.76s)
+
+What's in the frame: there is a woman in a black hijab talking on a cell phone
+Additional detail: a detailed photo of a woman in a black hijab looking at the camera
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 51.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (39.9%), brown (36.3%), gray (23.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.3)

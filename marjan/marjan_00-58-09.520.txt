@@ -1,0 +1,13 @@
+Scene 338
+Frame timestamp: 3489.520s (00:58:09.520) — roughly 72% through the video
+Scene span: 3488.96s → 3490.08s (duration ~1.12s)
+
+What's in the frame: there are two women sitting on the floor talking to each other
+Additional detail: a detailed photo of two women sitting on a rug in a room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (47.5%), brown (30.1%), navy (22.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.5)

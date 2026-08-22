@@ -1,0 +1,13 @@
+Scene 347
+Frame timestamp: 3525.460s (00:58:45.460) — roughly 73% through the video
+Scene span: 3524.44s → 3526.48s (duration ~2.04s)
+
+What's in the frame: this is an image of a man with a beard standing in front of a curtain
+Additional detail: a detailed photo of a man standing in front of a curtain
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (47.1%), black (28.2%), navy (24.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.0)

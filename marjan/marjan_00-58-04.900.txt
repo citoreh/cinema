@@ -1,0 +1,13 @@
+Scene 337
+Frame timestamp: 3484.900s (00:58:04.900) — roughly 72% through the video
+Scene span: 3480.84s → 3488.96s (duration ~8.12s)
+
+What's in the frame: there is a man that is looking at something on the floor
+Additional detail: a detailed photo of a man bending over to look at something
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 51.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (43.5%), navy (33.8%), gray (22.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.1)

@@ -1,0 +1,13 @@
+Scene 344
+Frame timestamp: 3515.400s (00:58:35.400) — roughly 73% through the video
+Scene span: 3513.24s → 3517.56s (duration ~4.32s)
+
+What's in the frame: there are two women sitting on the floor looking at their cell phones
+Additional detail: a detailed photo of two women sitting on a rug in a room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (41.6%), brown (31.5%), navy (26.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.7)

@@ -1,0 +1,13 @@
+Scene 330
+Frame timestamp: 3341.520s (00:55:41.520) — roughly 69% through the video
+Scene span: 3330.20s → 3352.84s (duration ~22.64s)
+
+What's in the frame: there is a man that is brushing his hair in front of a mirror
+Additional detail: a detailed photo of a man combing his hair in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 49.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (42.1%), navy (30.0%), brown (28.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 13.5)

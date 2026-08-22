@@ -1,0 +1,13 @@
+Scene 331
+Frame timestamp: 3400.240s (00:56:40.240) — roughly 71% through the video
+Scene span: 3352.84s → 3447.64s (duration ~94.80s)
+
+What's in the frame: there is a group of people sitting around a table in a living room
+Additional detail: a detailed photo of a group of people sitting around a table
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (46.4%), gray (35.1%), navy (18.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.3)

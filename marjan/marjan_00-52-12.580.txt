@@ -1,0 +1,13 @@
+Scene 324
+Frame timestamp: 3132.580s (00:52:12.580) — roughly 65% through the video
+Scene span: 3123.96s → 3141.20s (duration ~17.24s)
+
+What's in the frame: there are two men standing next to each other in front of a brick wall
+Additional detail: a detailed photo of two men standing next to each other in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (48.4%), black (29.2%), navy (22.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.6)

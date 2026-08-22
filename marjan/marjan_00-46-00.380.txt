@@ -1,0 +1,13 @@
+Scene 306
+Frame timestamp: 2760.380s (00:46:00.380) — roughly 57% through the video
+Scene span: 2759.24s → 2761.52s (duration ~2.28s)
+
+What's in the frame: there are three people standing outside of a house wearing scarves
+Additional detail: a detailed photo of a group of people standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 49.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (39.4%), navy (35.9%), gray (24.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.2)

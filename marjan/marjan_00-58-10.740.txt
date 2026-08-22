@@ -1,0 +1,13 @@
+Scene 339
+Frame timestamp: 3490.740s (00:58:10.740) — roughly 73% through the video
+Scene span: 3490.08s → 3491.40s (duration ~1.32s)
+
+What's in the frame: this is an image of a man putting something in the oven
+Additional detail: a detailed photo of a man putting something in the oven
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (40.8%), navy (33.5%), gray (25.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 15.9)

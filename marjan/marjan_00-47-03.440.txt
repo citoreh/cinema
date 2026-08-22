@@ -1,0 +1,13 @@
+Scene 314
+Frame timestamp: 2823.440s (00:47:03.440) — roughly 59% through the video
+Scene span: 2815.92s → 2830.96s (duration ~15.04s)
+
+What's in the frame: there is a man sitting against a brick wall talking on a cell phone
+Additional detail: a detailed photo of a man sitting against a brick wall talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (42.0%), black (31.2%), brown (26.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.5)

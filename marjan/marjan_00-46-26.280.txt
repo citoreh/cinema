@@ -1,0 +1,13 @@
+Scene 312
+Frame timestamp: 2786.280s (00:46:26.280) — roughly 58% through the video
+Scene span: 2784.64s → 2787.92s (duration ~3.28s)
+
+What's in the frame: there are two people that are standing in front of a building
+Additional detail: a detailed photo of two women and a man standing in front of a house
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 45.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: navy (41.1%), black (39.9%), brown (19.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.7)

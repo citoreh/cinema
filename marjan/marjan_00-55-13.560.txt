@@ -1,0 +1,13 @@
+Scene 329
+Frame timestamp: 3313.560s (00:55:13.560) — roughly 69% through the video
+Scene span: 3296.92s → 3330.20s (duration ~33.28s)
+
+What's in the frame: there is a man that is sitting down with his hand on his face
+Additional detail: a detailed photo of a young man in a dark room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 25.3/255)
+  - Color palette: muted colors — dominant colors: black (41.2%), black (39.6%), black (19.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.4)

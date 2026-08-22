@@ -1,0 +1,13 @@
+Scene 313
+Frame timestamp: 2801.920s (00:46:41.920) — roughly 58% through the video
+Scene span: 2787.92s → 2815.92s (duration ~28.00s)
+
+What's in the frame: there is a man and a woman standing outside of a house
+Additional detail: a detailed photo of a man and a woman standing in front of a door
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (43.3%), brown (30.2%), gray (26.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 27.0)

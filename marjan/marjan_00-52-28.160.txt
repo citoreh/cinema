@@ -1,0 +1,13 @@
+Scene 325
+Frame timestamp: 3148.160s (00:52:28.160) — roughly 65% through the video
+Scene span: 3141.20s → 3155.12s (duration ~13.92s)
+
+What's in the frame: there is a man and a woman that are kissing in front of a building
+Additional detail: a detailed photo of a man and woman kissing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (45.4%), black (30.6%), gray (24.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 33.5)

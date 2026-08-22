@@ -1,0 +1,13 @@
+Scene 317
+Frame timestamp: 2885.140s (00:48:05.140) — roughly 60% through the video
+Scene span: 2876.36s → 2893.92s (duration ~17.56s)
+
+What's in the frame: there are two men standing outside of a house looking at each other
+Additional detail: a detailed photo of a man standing in front of a door talking to another man
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.5/255)
+  - Color palette: muted colors — dominant colors: black (47.4%), brown (35.9%), gray (16.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.2)

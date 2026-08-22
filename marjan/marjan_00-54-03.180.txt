@@ -1,0 +1,13 @@
+Scene 328
+Frame timestamp: 3243.180s (00:54:03.180) — roughly 67% through the video
+Scene span: 3189.44s → 3296.92s (duration ~107.48s)
+
+What's in the frame: there are two people that are sitting next to each other
+Additional detail: a detailed photo of a couple of people sitting next to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 25.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (52.3%), black (39.6%), brown (8.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.7)

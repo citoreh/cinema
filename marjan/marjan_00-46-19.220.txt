@@ -1,0 +1,13 @@
+Scene 311
+Frame timestamp: 2779.220s (00:46:19.220) — roughly 58% through the video
+Scene span: 2773.80s → 2784.64s (duration ~10.84s)
+
+What's in the frame: there is a man that is sitting down with a cell phone in his hand
+Additional detail: a detailed photo of an old man sitting on the steps of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 42.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (43.5%), navy (31.0%), brown (25.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 10.3)

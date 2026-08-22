@@ -1,0 +1,13 @@
+Scene 323
+Frame timestamp: 3110.740s (00:51:50.740) — roughly 65% through the video
+Scene span: 3097.52s → 3123.96s (duration ~26.44s)
+
+What's in the frame: there is a man that is standing outside of a building talking on a cell phone
+Additional detail: a detailed photo of a man talking on a cell phone in front of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (35.0%), brown (33.2%), black (31.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.8)

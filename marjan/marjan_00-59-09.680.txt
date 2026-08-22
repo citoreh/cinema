@@ -1,0 +1,13 @@
+Scene 349
+Frame timestamp: 3549.680s (00:59:09.680) — roughly 74% through the video
+Scene span: 3532.24s → 3567.12s (duration ~34.88s)
+
+What's in the frame: there are three men standing in a hallway talking to each other
+Additional detail: a detailed photo of a group of men standing in a hallway
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 42.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (56.6%), brown (29.0%), navy (14.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 14.5)

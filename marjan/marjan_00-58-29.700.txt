@@ -1,0 +1,13 @@
+Scene 343
+Frame timestamp: 3509.700s (00:58:29.700) — roughly 73% through the video
+Scene span: 3506.16s → 3513.24s (duration ~7.08s)
+
+What's in the frame: there is a man that is kneeling down with a bag on his back
+Additional detail: a detailed photo of a man kneeling on a bed in a room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (46.6%), navy (27.8%), gray (25.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.5)

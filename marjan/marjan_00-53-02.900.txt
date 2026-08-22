@@ -1,0 +1,13 @@
+Scene 327
+Frame timestamp: 3182.900s (00:53:02.900) — roughly 66% through the video
+Scene span: 3176.36s → 3189.44s (duration ~13.08s)
+
+What's in the frame: there is a man in a hoodie looking out of a window
+Additional detail: a detailed photo of a man in a hoodie looking out a window
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 32.2/255)
+  - Color palette: muted colors — dominant colors: black (47.5%), black (37.6%), brown (15.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.9)

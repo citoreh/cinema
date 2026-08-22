@@ -1,0 +1,13 @@
+Scene 320
+Frame timestamp: 2983.220s (00:49:43.220) — roughly 62% through the video
+Scene span: 2929.84s → 3036.60s (duration ~106.76s)
+
+What's in the frame: there is a man that is standing in front of a tv
+Additional detail: a detailed photo of a man standing in front of a television
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 46.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (46.1%), brown (31.0%), navy (22.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.1)

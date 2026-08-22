@@ -1,0 +1,13 @@
+Scene 332
+Frame timestamp: 3454.820s (00:57:34.820) — roughly 72% through the video
+Scene span: 3447.64s → 3462.00s (duration ~14.36s)
+
+What's in the frame: there are two people talking to a little girl in a pink coat
+Additional detail: a detailed photo of a group of people standing in front of a car
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 66.4/255)
+  - Color palette: muted colors — dominant colors: brown (41.6%), black (35.7%), gray (22.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.8)

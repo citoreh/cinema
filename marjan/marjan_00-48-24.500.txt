@@ -1,0 +1,13 @@
+Scene 318
+Frame timestamp: 2904.500s (00:48:24.500) — roughly 60% through the video
+Scene span: 2893.92s → 2915.08s (duration ~21.16s)
+
+What's in the frame: there are two people standing outside of a building talking to each other
+Additional detail: a detailed photo of a man and a woman standing in front of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 60.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (39.5%), black (31.2%), gray (29.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 29.8)

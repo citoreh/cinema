@@ -1,0 +1,13 @@
+Scene 322
+Frame timestamp: 3094.840s (00:51:34.840) — roughly 64% through the video
+Scene span: 3092.16s → 3097.52s (duration ~5.36s)
+
+What's in the frame: there are two men standing next to each other in front of a building
+Additional detail: a detailed photo of a man standing next to an older man
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 54.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (48.5%), black (34.7%), gray (16.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.9)

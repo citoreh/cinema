@@ -1,0 +1,13 @@
+Scene 335
+Frame timestamp: 3477.860s (00:57:57.860) — roughly 72% through the video
+Scene span: 3476.64s → 3479.08s (duration ~2.44s)
+
+What's in the frame: there is a woman in a black hijab looking at her cell phone
+Additional detail: a detailed photo of a woman in a black hijab looking at her cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 48.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (39.5%), brown (37.2%), brown (23.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 9.6)

@@ -1,0 +1,13 @@
+Scene 321
+Frame timestamp: 3064.380s (00:51:04.380) — roughly 64% through the video
+Scene span: 3036.60s → 3092.16s (duration ~55.56s)
+
+What's in the frame: there is a man in uniform smoking a cigarette next to a brick wall
+Additional detail: a detailed photo of a man smoking a cigarette in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (35.8%), brown (33.1%), black (31.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.2)
