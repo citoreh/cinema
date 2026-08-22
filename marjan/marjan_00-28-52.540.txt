@@ -1,0 +1,13 @@
+Scene 170
+Frame timestamp: 1732.540s (00:28:52.540) — roughly 36% through the video
+Scene span: 1711.76s → 1753.32s (duration ~41.56s)
+
+What's in the frame: there is a man that is standing in the doorway of a building
+Additional detail: a detailed photo of a man standing next to a motorcycle in front of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 32.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (54.1%), black (28.2%), brown (17.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 14.4)

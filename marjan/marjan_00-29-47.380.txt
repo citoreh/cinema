@@ -1,0 +1,13 @@
+Scene 173
+Frame timestamp: 1787.380s (00:29:47.380) — roughly 37% through the video
+Scene span: 1781.48s → 1793.28s (duration ~11.80s)
+
+What's in the frame: there is a woman in a hijab standing next to a man in a room
+Additional detail: a detailed photo of a woman in a hijab talking to another woman
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (36.1%), black (33.4%), brown (30.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.0)

@@ -1,0 +1,13 @@
+Scene 198
+Frame timestamp: 1916.960s (00:31:56.960) — roughly 40% through the video
+Scene span: 1914.72s → 1919.20s (duration ~4.48s)
+
+What's in the frame: there is a man in a suit and tie looking at his cell phone
+Additional detail: a detailed photo of a man in a suit looking at his cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 31.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (57.8%), black (24.5%), brown (17.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.5)

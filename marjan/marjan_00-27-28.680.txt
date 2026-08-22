@@ -1,0 +1,13 @@
+Scene 166
+Frame timestamp: 1648.680s (00:27:28.680) — roughly 34% through the video
+Scene span: 1632.64s → 1664.72s (duration ~32.08s)
+
+What's in the frame: there are two women standing in a kitchen talking on the phone
+Additional detail: a detailed photo of two people in a kitchen talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 48.0/255)
+  - Color palette: muted colors — dominant colors: black (38.8%), brown (35.0%), brown (26.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.6)

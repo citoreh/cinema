@@ -1,0 +1,13 @@
+Scene 190
+Frame timestamp: 1854.080s (00:30:54.080) — roughly 39% through the video
+Scene span: 1848.80s → 1859.36s (duration ~10.56s)
+
+What's in the frame: there are three men sitting next to each other in a room
+Additional detail: a detailed photo of a group of men sitting next to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 29.9/255)
+  - Color palette: muted colors — dominant colors: black (45.6%), black (31.2%), brown (23.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.5)

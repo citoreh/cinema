@@ -1,0 +1,13 @@
+Scene 177
+Frame timestamp: 1802.900s (00:30:02.900) — roughly 37% through the video
+Scene span: 1801.92s → 1803.88s (duration ~1.96s)
+
+What's in the frame: there is a man walking down the street talking on his cell phone
+Additional detail: a detailed photo of a group of people walking down a street at night
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.3/255)
+  - Color palette: muted colors — dominant colors: black (42.3%), black (39.6%), brown (18.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.1)

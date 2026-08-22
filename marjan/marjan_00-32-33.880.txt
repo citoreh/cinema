@@ -1,0 +1,13 @@
+Scene 206
+Frame timestamp: 1953.880s (00:32:33.880) — roughly 41% through the video
+Scene span: 1951.80s → 1955.96s (duration ~4.16s)
+
+What's in the frame: there is a man in a suit and tie looking at his cell phone
+Additional detail: a detailed photo of a man in a suit looking down
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (61.1%), black (22.0%), brown (16.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.6)

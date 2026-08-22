@@ -1,0 +1,13 @@
+Scene 175
+Frame timestamp: 1797.180s (00:29:57.180) — roughly 37% through the video
+Scene span: 1796.12s → 1798.24s (duration ~2.12s)
+
+What's in the frame: there is a group of people walking down the street at night
+Additional detail: a detailed photo of a group of people walking down a street at night
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 28.9/255)
+  - Color palette: muted colors — dominant colors: black (40.9%), black (40.7%), brown (18.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.5)

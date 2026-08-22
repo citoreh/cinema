@@ -1,0 +1,13 @@
+Scene 205
+Frame timestamp: 1948.160s (00:32:28.160) — roughly 40% through the video
+Scene span: 1944.52s → 1951.80s (duration ~7.28s)
+
+What's in the frame: there is a woman in a headscarf talking to a man with a bald head
+Additional detail: a detailed photo of a woman wearing a headscarf in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 31.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (38.8%), black (37.4%), brown (23.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 3.9)

@@ -1,0 +1,13 @@
+Scene 199
+Frame timestamp: 1924.380s (00:32:04.380) — roughly 40% through the video
+Scene span: 1919.20s → 1929.56s (duration ~10.36s)
+
+What's in the frame: there are two people walking down a narrow alley way
+Additional detail: a detailed photo of two people walking down a narrow alleyway
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 38.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (38.2%), black (37.9%), brown (23.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 14.0)

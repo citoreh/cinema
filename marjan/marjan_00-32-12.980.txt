@@ -1,0 +1,13 @@
+Scene 201
+Frame timestamp: 1932.980s (00:32:12.980) — roughly 40% through the video
+Scene span: 1931.88s → 1934.08s (duration ~2.20s)
+
+What's in the frame: there is a woman that is walking down the street in a scarf
+Additional detail: a detailed photo of a woman in a scarf standing in an alley
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 38.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (37.8%), black (37.5%), brown (24.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.3)

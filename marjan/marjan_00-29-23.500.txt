@@ -1,0 +1,13 @@
+Scene 171
+Frame timestamp: 1763.500s (00:29:23.500) — roughly 37% through the video
+Scene span: 1753.32s → 1773.68s (duration ~20.36s)
+
+What's in the frame: there is a group of people that are standing in front of a brick wall
+Additional detail: a detailed photo of a group of people standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 32.0/255)
+  - Color palette: muted colors — dominant colors: black (66.8%), navy (25.6%), brown (7.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 15.8)

@@ -1,0 +1,13 @@
+Scene 196
+Frame timestamp: 1899.340s (00:31:39.340) — roughly 39% through the video
+Scene span: 1886.52s → 1912.16s (duration ~25.64s)
+
+What's in the frame: several people are standing in a doorway of a building with a brick wall
+Additional detail: a detailed photo of a group of people standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (46.2%), navy (43.8%), brown (10.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 13.6)

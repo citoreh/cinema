@@ -1,0 +1,13 @@
+Scene 209
+Frame timestamp: 1970.420s (00:32:50.420) — roughly 41% through the video
+Scene span: 1968.92s → 1971.92s (duration ~3.00s)
+
+What's in the frame: there is a man walking down a hallway with a blanket on his back
+Additional detail: a detailed photo of a man and woman walking down a hallway
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 39.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (41.4%), black (31.8%), brown (26.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.7)

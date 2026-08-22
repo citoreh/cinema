@@ -1,0 +1,13 @@
+Scene 174
+Frame timestamp: 1794.700s (00:29:54.700) — roughly 37% through the video
+Scene span: 1793.28s → 1796.12s (duration ~2.84s)
+
+What's in the frame: there is a group of people that are standing in front of a door
+Additional detail: a detailed photo of a group of people standing in a hallway
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 33.2/255)
+  - Color palette: muted colors — dominant colors: black (68.0%), brown (30.6%), gray (1.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.6)

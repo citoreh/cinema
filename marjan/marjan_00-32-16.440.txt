@@ -1,0 +1,13 @@
+Scene 202
+Frame timestamp: 1936.440s (00:32:16.440) — roughly 40% through the video
+Scene span: 1934.08s → 1938.80s (duration ~4.72s)
+
+What's in the frame: there is a woman that is looking at her cell phone
+Additional detail: a detailed photo of a woman in a hoodie looking at her cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 44.4/255)
+  - Color palette: muted colors — dominant colors: brown (39.7%), black (38.1%), brown (22.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 10.3)

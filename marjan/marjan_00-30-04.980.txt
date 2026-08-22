@@ -1,0 +1,13 @@
+Scene 178
+Frame timestamp: 1804.980s (00:30:04.980) — roughly 37% through the video
+Scene span: 1803.88s → 1806.08s (duration ~2.20s)
+
+What's in the frame: there is a shirtless man standing next to a car in the street
+Additional detail: a detailed photo of a shirtless man standing in front of a car
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 37.9/255)
+  - Color palette: muted colors — dominant colors: black (47.2%), black (31.1%), brown (21.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.6)

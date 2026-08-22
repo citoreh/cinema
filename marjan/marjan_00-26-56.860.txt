@@ -1,0 +1,13 @@
+Scene 164
+Frame timestamp: 1616.860s (00:26:56.860) — roughly 34% through the video
+Scene span: 1607.76s → 1625.96s (duration ~18.20s)
+
+What's in the frame: there is a woman in a headscarf talking on a cell phone
+Additional detail: a detailed photo of a woman in a headscarf talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 61.1/255)
+  - Color palette: muted colors — dominant colors: brown (37.2%), black (34.0%), brown (28.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.7)

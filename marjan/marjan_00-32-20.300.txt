@@ -1,0 +1,13 @@
+Scene 203
+Frame timestamp: 1940.300s (00:32:20.300) — roughly 40% through the video
+Scene span: 1938.80s → 1941.80s (duration ~3.00s)
+
+What's in the frame: there is a man that is looking at something in the mirror
+Additional detail: a detailed photo of an older man in a suit and bow tie
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 32.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (47.0%), black (28.6%), brown (24.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.4)

@@ -1,0 +1,13 @@
+Scene 185
+Frame timestamp: 1831.520s (00:30:31.520) — roughly 38% through the video
+Scene span: 1830.32s → 1832.72s (duration ~2.40s)
+
+What's in the frame: there are two men standing next to each other in front of a car
+Additional detail: a detailed photo of a man talking to another man in front of a car
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.2/255)
+  - Color palette: muted colors — dominant colors: black (46.1%), black (44.4%), brown (9.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.2)

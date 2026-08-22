@@ -1,0 +1,13 @@
+Scene 212
+Frame timestamp: 1982.980s (00:33:02.980) — roughly 41% through the video
+Scene span: 1981.64s → 1984.32s (duration ~2.68s)
+
+What's in the frame: this is an image of a man in a jail cell with a backpack on his back
+Additional detail: a detailed photo of a man leaning against a window in a jail cell
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (40.9%), brown (30.3%), black (28.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 7.6)

@@ -1,0 +1,13 @@
+Scene 192
+Frame timestamp: 1862.540s (00:31:02.540) — roughly 39% through the video
+Scene span: 1861.68s → 1863.40s (duration ~1.72s)
+
+What's in the frame: there are three men that are talking to each other in a dark room
+Additional detail: a detailed photo of a group of men standing around each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.2/255)
+  - Color palette: muted colors — dominant colors: black (51.2%), black (33.9%), brown (14.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.1)

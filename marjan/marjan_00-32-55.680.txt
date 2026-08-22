@@ -1,0 +1,13 @@
+Scene 210
+Frame timestamp: 1975.680s (00:32:55.680) — roughly 41% through the video
+Scene span: 1971.92s → 1979.44s (duration ~7.52s)
+
+What's in the frame: there is a group of people that are standing outside of a building
+Additional detail: a detailed photo of a group of people standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 36.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (46.9%), navy (44.4%), brown (8.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 13.8)

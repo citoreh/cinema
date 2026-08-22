@@ -1,0 +1,13 @@
+Scene 194
+Frame timestamp: 1876.940s (00:31:16.940) — roughly 39% through the video
+Scene span: 1871.40s → 1882.48s (duration ~11.08s)
+
+What's in the frame: there is a man standing next to a white car talking on a cell phone
+Additional detail: a detailed photo of a man talking on a cell phone next to a car
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 29.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (50.1%), black (34.8%), brown (15.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.8)

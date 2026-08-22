@@ -1,0 +1,13 @@
+Scene 168
+Frame timestamp: 1687.880s (00:28:07.880) — roughly 35% through the video
+Scene span: 1673.84s → 1701.92s (duration ~28.08s)
+
+What's in the frame: there are two pictures of a woman holding a banana in one hand and a man holding a banana in the other
+Additional detail: a detailed photo of a man and a woman sitting next to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.6/255)
+  - Color palette: muted colors — dominant colors: black (38.8%), brown (31.2%), brown (30.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.9)

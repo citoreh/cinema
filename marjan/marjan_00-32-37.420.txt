@@ -1,0 +1,13 @@
+Scene 207
+Frame timestamp: 1957.420s (00:32:37.420) — roughly 41% through the video
+Scene span: 1955.96s → 1958.88s (duration ~2.92s)
+
+What's in the frame: there is a man and a woman that are staring at each other
+Additional detail: a detailed photo of an old woman with a white head scarf
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (41.4%), black (38.6%), brown (20.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.2)

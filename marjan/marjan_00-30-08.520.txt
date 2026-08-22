@@ -1,0 +1,13 @@
+Scene 180
+Frame timestamp: 1808.520s (00:30:08.520) — roughly 38% through the video
+Scene span: 1807.40s → 1809.64s (duration ~2.24s)
+
+What's in the frame: there is a man standing next to a car talking on a cell phone
+Additional detail: a detailed photo of a man talking on a cell phone next to a car
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.5/255)
+  - Color palette: muted colors — dominant colors: black (42.4%), black (36.8%), brown (20.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.7)

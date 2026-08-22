@@ -1,0 +1,13 @@
+Scene 197
+Frame timestamp: 1913.440s (00:31:53.440) — roughly 40% through the video
+Scene span: 1912.16s → 1914.72s (duration ~2.56s)
+
+What's in the frame: there is a woman in a headscarf talking to a man in a suit and tie
+Additional detail: a detailed photo of a woman wearing a headscarf in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 31.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (40.5%), black (37.7%), brown (21.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 3.6)

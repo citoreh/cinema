@@ -1,0 +1,13 @@
+Scene 182
+Frame timestamp: 1812.100s (00:30:12.100) — roughly 38% through the video
+Scene span: 1811.52s → 1812.68s (duration ~1.16s)
+
+What's in the frame: cars parked on the side of the road in a city at night
+Additional detail: a detailed photo of a man standing next to a parked car at night
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 36.5/255)
+  - Color palette: muted colors — dominant colors: black (47.4%), black (29.9%), brown (22.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 10.4)

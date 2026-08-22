@@ -1,0 +1,13 @@
+Scene 188
+Frame timestamp: 1841.540s (00:30:41.540) — roughly 38% through the video
+Scene span: 1837.08s → 1846.00s (duration ~8.92s)
+
+What's in the frame: there are three men standing next to each other talking to each other
+Additional detail: a detailed photo of a group of men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.6/255)
+  - Color palette: muted colors — dominant colors: black (39.5%), black (33.9%), brown (26.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.7)

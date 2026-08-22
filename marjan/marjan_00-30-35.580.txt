@@ -1,0 +1,13 @@
+Scene 187
+Frame timestamp: 1835.580s (00:30:35.580) — roughly 38% through the video
+Scene span: 1834.08s → 1837.08s (duration ~3.00s)
+
+What's in the frame: there is a man standing in front of a car talking to another man
+Additional detail: a detailed photo of a man in a suit talking to another man
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 32.8/255)
+  - Color palette: muted colors — dominant colors: black (47.1%), black (46.9%), brown (6.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.8)

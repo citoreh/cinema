@@ -1,0 +1,13 @@
+Scene 195
+Frame timestamp: 1884.500s (00:31:24.500) — roughly 39% through the video
+Scene span: 1882.48s → 1886.52s (duration ~4.04s)
+
+What's in the frame: there is a man that is walking down the street with an umbrella
+Additional detail: a detailed photo of a man walking down a narrow alley way
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 35.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (41.8%), black (32.0%), brown (26.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.0)

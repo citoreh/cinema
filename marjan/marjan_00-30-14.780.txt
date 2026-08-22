@@ -1,0 +1,13 @@
+Scene 183
+Frame timestamp: 1814.780s (00:30:14.780) — roughly 38% through the video
+Scene span: 1812.68s → 1816.88s (duration ~4.20s)
+
+What's in the frame: there is a group of people that are standing together in front of a building
+Additional detail: a detailed photo of a group of people standing around each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 35.6/255)
+  - Color palette: muted colors — dominant colors: black (45.2%), navy (42.1%), brown (12.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.3)

@@ -1,0 +1,13 @@
+Scene 191
+Frame timestamp: 1860.520s (00:31:00.520) — roughly 39% through the video
+Scene span: 1859.36s → 1861.68s (duration ~2.32s)
+
+What's in the frame: there are two men standing next to each other in front of a car
+Additional detail: a detailed photo of a group of men standing in front of a car
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 31.5/255)
+  - Color palette: muted colors — dominant colors: black (52.5%), black (40.5%), brown (7.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.8)

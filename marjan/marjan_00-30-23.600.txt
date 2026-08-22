@@ -1,0 +1,13 @@
+Scene 184
+Frame timestamp: 1823.600s (00:30:23.600) — roughly 38% through the video
+Scene span: 1816.88s → 1830.32s (duration ~13.44s)
+
+What's in the frame: there are three men standing next to each other in a room
+Additional detail: a detailed photo of a group of men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.5/255)
+  - Color palette: muted colors — dominant colors: black (40.3%), black (35.5%), brown (24.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.0)

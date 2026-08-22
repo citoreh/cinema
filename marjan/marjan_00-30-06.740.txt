@@ -1,0 +1,13 @@
+Scene 179
+Frame timestamp: 1806.740s (00:30:06.740) — roughly 38% through the video
+Scene span: 1806.08s → 1807.40s (duration ~1.32s)
+
+What's in the frame: there is a group of people that are standing around in the street
+Additional detail: a detailed photo of a group of people standing around a car
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.3/255)
+  - Color palette: muted colors — dominant colors: black (41.4%), black (38.6%), brown (20.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.4)

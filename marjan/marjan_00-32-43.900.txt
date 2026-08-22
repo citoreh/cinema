@@ -1,0 +1,13 @@
+Scene 208
+Frame timestamp: 1963.900s (00:32:43.900) — roughly 41% through the video
+Scene span: 1958.88s → 1968.92s (duration ~10.04s)
+
+What's in the frame: there is a woman that is talking on a cell phone in a hallway
+Additional detail: a detailed photo of a woman in a nun ' s robes talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 35.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (46.4%), navy (40.6%), brown (13.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 13.3)
