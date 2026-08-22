@@ -1,0 +1,13 @@
+Scene 50
+Frame timestamp: 375.280s (00:06:15.280) — roughly 8% through the video
+Scene span: 374.08s → 376.48s (duration ~2.40s)
+
+What's in the frame: there is a woman that is standing in a store looking at something
+Additional detail: a detailed photo of a woman wearing a scarf in a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (37.8%), brown (37.7%), brown (24.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.6)

@@ -1,0 +1,13 @@
+Scene 48
+Frame timestamp: 360.860s (00:06:00.860) — roughly 7% through the video
+Scene span: 352.16s → 369.56s (duration ~17.40s)
+
+What's in the frame: there is a man that is standing in front of a store
+Additional detail: a detailed photo of a man standing in front of a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (39.8%), black (35.1%), gray (25.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 37.1)

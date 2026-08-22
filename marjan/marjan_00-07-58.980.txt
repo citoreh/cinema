@@ -1,0 +1,13 @@
+Scene 72
+Frame timestamp: 478.980s (00:07:58.980) — roughly 10% through the video
+Scene span: 473.96s → 484.00s (duration ~10.04s)
+
+What's in the frame: there is a man standing next to a woman in a black hoodie
+Additional detail: a detailed photo of a man in a hooded jacket talking to a woman
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 60.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (38.5%), black (31.2%), navy (30.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.7)

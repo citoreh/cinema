@@ -1,0 +1,13 @@
+Scene 47
+Frame timestamp: 334.400s (00:05:34.400) — roughly 7% through the video
+Scene span: 316.64s → 352.16s (duration ~35.52s)
+
+What's in the frame: there is a man standing next to a woman talking on a cell phone
+Additional detail: a detailed photo of a man talking on a cell phone next to a woman
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (40.5%), brown (33.3%), gray (26.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.9)

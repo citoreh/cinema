@@ -1,0 +1,13 @@
+Scene 42
+Frame timestamp: 293.600s (00:04:53.600) — roughly 6% through the video
+Scene span: 290.48s → 296.72s (duration ~6.24s)
+
+What's in the frame: there is a man and a woman standing in front of a brick building
+Additional detail: a detailed photo of a man and a woman standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 33.1/255)
+  - Color palette: muted colors — dominant colors: black (44.2%), black (34.9%), brown (20.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 7.3)

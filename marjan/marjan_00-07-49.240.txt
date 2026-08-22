@@ -1,0 +1,13 @@
+Scene 70
+Frame timestamp: 469.240s (00:07:49.240) — roughly 10% through the video
+Scene span: 467.72s → 470.76s (duration ~3.04s)
+
+What's in the frame: there is a man with a beard standing in front of a woman
+Additional detail: a detailed photo of a man in a hooded jacket talking to another man
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: navy (33.6%), black (33.5%), gray (32.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.3)

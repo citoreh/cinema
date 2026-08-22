@@ -1,0 +1,13 @@
+Scene 79
+Frame timestamp: 590.120s (00:09:50.120) — roughly 12% through the video
+Scene span: 567.40s → 612.84s (duration ~45.44s)
+
+What's in the frame: there is a man and a woman fighting in front of a brick wall
+Additional detail: a detailed photo of a man and a woman fighting in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (50.0%), black (30.4%), brown (19.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 38.0)

@@ -1,0 +1,13 @@
+Scene 51
+Frame timestamp: 377.560s (00:06:17.560) — roughly 8% through the video
+Scene span: 376.48s → 378.64s (duration ~2.16s)
+
+What's in the frame: there is a man that is sitting in front of a book shelf
+Additional detail: a detailed photo of a man sitting in front of a book shelf
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 50.4/255)
+  - Color palette: muted colors — dominant colors: black (47.1%), brown (26.8%), brown (26.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.1)

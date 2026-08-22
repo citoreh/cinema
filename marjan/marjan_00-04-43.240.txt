@@ -1,0 +1,13 @@
+Scene 39
+Frame timestamp: 283.240s (00:04:43.240) — roughly 6% through the video
+Scene span: 282.24s → 284.24s (duration ~2.00s)
+
+What's in the frame: there is a man in a turban talking to a woman in a turban
+Additional detail: a detailed photo of a man in a turban talking to a woman
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 29.6/255)
+  - Color palette: muted colors — dominant colors: black (45.5%), black (40.6%), brown (13.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.2)

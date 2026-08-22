@@ -1,0 +1,13 @@
+Scene 34
+Frame timestamp: 260.400s (00:04:20.399) — roughly 5% through the video
+Scene span: 255.00s → 265.80s (duration ~10.80s)
+
+What's in the frame: this is an image of a person standing in front of a brick wall
+Additional detail: a detailed photo of a person standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.9/255)
+  - Color palette: muted colors — dominant colors: brown (42.8%), black (34.0%), brown (23.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 9.7)

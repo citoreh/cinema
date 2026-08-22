@@ -1,0 +1,13 @@
+Scene 31
+Frame timestamp: 224.560s (00:03:44.560) — roughly 5% through the video
+Scene span: 217.64s → 231.48s (duration ~13.84s)
+
+What's in the frame: there are two men standing next to each other looking at a cell phone
+Additional detail: a detailed photo of two men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 24.5/255)
+  - Color palette: muted colors — dominant colors: black (55.6%), black (44.1%), gray (0.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.3)

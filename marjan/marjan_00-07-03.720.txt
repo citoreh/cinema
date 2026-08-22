@@ -1,0 +1,13 @@
+Scene 61
+Frame timestamp: 423.720s (00:07:03.720) — roughly 9% through the video
+Scene span: 422.08s → 425.36s (duration ~3.28s)
+
+What's in the frame: there is a man that is sitting in front of a bottle
+Additional detail: a detailed photo of a man in a store looking at the camera
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 47.6/255)
+  - Color palette: muted colors — dominant colors: black (49.7%), brown (29.7%), brown (20.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 14.5)

@@ -1,0 +1,13 @@
+Scene 60
+Frame timestamp: 418.480s (00:06:58.480) — roughly 9% through the video
+Scene span: 414.88s → 422.08s (duration ~7.20s)
+
+What's in the frame: this is an image of a woman in a store looking at her cell phone
+Additional detail: a detailed photo of a woman in a store looking at her cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (38.7%), brown (36.5%), brown (24.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.9)

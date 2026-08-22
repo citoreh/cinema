@@ -1,0 +1,13 @@
+Scene 77
+Frame timestamp: 528.180s (00:08:48.180) — roughly 11% through the video
+Scene span: 508.20s → 548.16s (duration ~39.96s)
+
+What's in the frame: there is a man that is sitting on a motorcycle in front of a building
+Additional detail: a detailed photo of a man sitting on a motorcycle in front of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (35.4%), black (32.9%), brown (31.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 65.1)

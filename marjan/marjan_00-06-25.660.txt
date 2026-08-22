@@ -1,0 +1,13 @@
+Scene 54
+Frame timestamp: 385.660s (00:06:25.660) — roughly 8% through the video
+Scene span: 382.68s → 388.64s (duration ~5.96s)
+
+What's in the frame: this is an image of a woman in a store looking at her cell phone
+Additional detail: a detailed photo of a woman wearing a scarf in a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (37.8%), brown (36.4%), brown (25.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.5)

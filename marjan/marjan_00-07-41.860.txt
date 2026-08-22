@@ -1,0 +1,13 @@
+Scene 68
+Frame timestamp: 461.860s (00:07:41.860) — roughly 10% through the video
+Scene span: 460.56s → 463.16s (duration ~2.60s)
+
+What's in the frame: this is an image of a man in a hoodie talking to another man
+Additional detail: a detailed photo of a man in a hooded jacket talking to another man
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 61.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (39.0%), black (30.8%), navy (30.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.6)

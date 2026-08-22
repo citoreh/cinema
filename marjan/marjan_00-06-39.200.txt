@@ -1,0 +1,13 @@
+Scene 56
+Frame timestamp: 399.200s (00:06:39.200) — roughly 8% through the video
+Scene span: 397.28s → 401.12s (duration ~3.84s)
+
+What's in the frame: this is an image of a woman in a store talking on the phone
+Additional detail: a detailed photo of a woman wearing a headscarf in a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (38.0%), brown (37.6%), brown (24.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.3)

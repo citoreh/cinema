@@ -1,0 +1,13 @@
+Scene 35
+Frame timestamp: 268.440s (00:04:28.440) — roughly 6% through the video
+Scene span: 265.80s → 271.08s (duration ~5.28s)
+
+What's in the frame: there is a man in a tuxedo talking to a woman in a tuxedo
+Additional detail: a detailed photo of a man in a tuxedo talking to a woman
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.0/255)
+  - Color palette: muted colors — dominant colors: black (49.1%), black (37.1%), brown (13.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.5)

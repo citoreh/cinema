@@ -1,0 +1,13 @@
+Scene 66
+Frame timestamp: 442.580s (00:07:22.580) — roughly 9% through the video
+Scene span: 439.84s → 445.32s (duration ~5.48s)
+
+What's in the frame: there is a man standing in front of a store with a surfboard
+Additional detail: a detailed photo of a man standing in front of a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 47.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (47.2%), brown (45.9%), gray (6.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.5)

@@ -1,0 +1,13 @@
+Scene 58
+Frame timestamp: 406.360s (00:06:46.360) — roughly 8% through the video
+Scene span: 403.48s → 409.24s (duration ~5.76s)
+
+What's in the frame: there is a woman that is standing in a store looking at something
+Additional detail: a detailed photo of a woman in a store looking at something
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (38.2%), black (37.2%), brown (24.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.4)

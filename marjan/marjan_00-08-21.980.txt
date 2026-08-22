@@ -1,0 +1,13 @@
+Scene 76
+Frame timestamp: 501.980s (00:08:21.980) — roughly 10% through the video
+Scene span: 495.76s → 508.20s (duration ~12.44s)
+
+What's in the frame: there is a man and a woman standing next to each other in front of a car
+Additional detail: a detailed photo of a man and a woman standing in front of a car
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (41.7%), black (33.1%), brown (25.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 29.7)

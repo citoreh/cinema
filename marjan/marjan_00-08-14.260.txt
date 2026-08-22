@@ -1,0 +1,13 @@
+Scene 75
+Frame timestamp: 494.260s (00:08:14.260) — roughly 10% through the video
+Scene span: 492.76s → 495.76s (duration ~3.00s)
+
+What's in the frame: there is a woman in a black scarf talking to a man in a black jacket
+Additional detail: a detailed photo of a woman in a hijab talking to a man
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 61.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (39.6%), black (30.6%), navy (29.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.6)

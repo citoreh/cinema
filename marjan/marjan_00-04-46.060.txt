@@ -1,0 +1,13 @@
+Scene 40
+Frame timestamp: 286.060s (00:04:46.060) — roughly 6% through the video
+Scene span: 284.24s → 287.88s (duration ~3.64s)
+
+What's in the frame: there is a woman that is standing in front of a brick wall
+Additional detail: a detailed photo of a woman wearing a headscarf in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.2/255)
+  - Color palette: muted colors — dominant colors: black (38.3%), black (32.3%), brown (29.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.4)

@@ -1,0 +1,13 @@
+Scene 36
+Frame timestamp: 273.380s (00:04:33.380) — roughly 6% through the video
+Scene span: 271.08s → 275.68s (duration ~4.60s)
+
+What's in the frame: there is a woman that is standing in front of a brick wall
+Additional detail: a detailed photo of a woman standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 33.6/255)
+  - Color palette: muted colors — dominant colors: black (39.9%), black (33.3%), brown (26.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.2)

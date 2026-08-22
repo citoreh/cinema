@@ -1,0 +1,13 @@
+Scene 65
+Frame timestamp: 438.480s (00:07:18.480) — roughly 9% through the video
+Scene span: 437.12s → 439.84s (duration ~2.72s)
+
+What's in the frame: there is a man sitting at a table in front of a jar of liquid
+Additional detail: a detailed photo of a man sitting at a table in front of a bottle
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 47.6/255)
+  - Color palette: muted colors — dominant colors: black (46.9%), brown (29.1%), brown (24.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 15.0)

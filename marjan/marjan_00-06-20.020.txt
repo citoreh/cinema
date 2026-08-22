@@ -1,0 +1,13 @@
+Scene 52
+Frame timestamp: 380.020s (00:06:20.020) — roughly 8% through the video
+Scene span: 378.64s → 381.40s (duration ~2.76s)
+
+What's in the frame: there is a woman that is standing in a store looking at something
+Additional detail: a detailed photo of a woman standing in front of a shelf full of food
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (38.5%), brown (37.9%), brown (23.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.8)

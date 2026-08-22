@@ -1,0 +1,13 @@
+Scene 32
+Frame timestamp: 240.720s (00:04:00.720) — roughly 5% through the video
+Scene span: 231.48s → 249.96s (duration ~18.48s)
+
+What's in the frame: this is an image of a man standing in front of a building
+Additional detail: a detailed photo of a man standing in front of a group of people
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 32.0/255)
+  - Color palette: muted colors — dominant colors: black (50.5%), black (38.3%), brown (11.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.4)

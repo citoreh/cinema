@@ -1,0 +1,13 @@
+Scene 41
+Frame timestamp: 289.180s (00:04:49.180) — roughly 6% through the video
+Scene span: 287.88s → 290.48s (duration ~2.60s)
+
+What's in the frame: there is a man in a turban and a woman in a headscarf
+Additional detail: a detailed photo of a man in a turban talking to a woman
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.2/255)
+  - Color palette: muted colors — dominant colors: black (47.9%), black (37.9%), brown (14.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.0)

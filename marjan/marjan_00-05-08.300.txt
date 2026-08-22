@@ -1,0 +1,13 @@
+Scene 45
+Frame timestamp: 308.300s (00:05:08.300) — roughly 6% through the video
+Scene span: 306.76s → 309.84s (duration ~3.08s)
+
+What's in the frame: there is a man that is sitting on a couch with a cell phone in his hand
+Additional detail: a detailed photo of a man sitting on a couch using a cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (37.5%), black (35.2%), brown (27.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.2)

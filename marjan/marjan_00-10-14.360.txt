@@ -1,0 +1,13 @@
+Scene 80
+Frame timestamp: 614.360s (00:10:14.360) — roughly 13% through the video
+Scene span: 612.84s → 615.88s (duration ~3.04s)
+
+What's in the frame: there are two turtles that are laying on the ground together
+Additional detail: a detailed photo of two tortoises laying on the ground next to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (40.9%), brown (31.2%), black (27.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.2)

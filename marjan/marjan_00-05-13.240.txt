@@ -1,0 +1,13 @@
+Scene 46
+Frame timestamp: 313.240s (00:05:13.240) — roughly 7% through the video
+Scene span: 309.84s → 316.64s (duration ~6.80s)
+
+What's in the frame: there is a woman that is standing in the kitchen preparing food
+Additional detail: a detailed photo of a woman standing in a kitchen preparing food
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (35.4%), black (33.4%), brown (31.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.7)

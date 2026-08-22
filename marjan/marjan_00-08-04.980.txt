@@ -1,0 +1,13 @@
+Scene 73
+Frame timestamp: 484.980s (00:08:04.980) — roughly 10% through the video
+Scene span: 484.00s → 485.96s (duration ~1.96s)
+
+What's in the frame: there is a woman in a hijab talking to a man in a black jacket
+Additional detail: a detailed photo of a woman in a hijab talking to a man
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (40.7%), black (30.2%), navy (29.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.8)

@@ -1,0 +1,13 @@
+Scene 33
+Frame timestamp: 252.480s (00:04:12.480) — roughly 5% through the video
+Scene span: 249.96s → 255.00s (duration ~5.04s)
+
+What's in the frame: there is a man that is standing in front of a brick wall
+Additional detail: a detailed photo of a man standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 29.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (52.9%), black (40.0%), brown (7.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.0)
