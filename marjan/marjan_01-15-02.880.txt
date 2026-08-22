@@ -1,0 +1,13 @@
+Scene 432
+Frame timestamp: 4502.880s (01:15:02.880) — roughly 94% through the video
+Scene span: 4501.64s → 4504.12s (duration ~2.48s)
+
+What's in the frame: there are three women in black headscarves and one is crying
+Additional detail: a detailed photo of a group of women crying in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 39.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (63.1%), navy (21.1%), gray (15.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 12.0)

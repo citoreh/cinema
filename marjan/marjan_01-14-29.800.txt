@@ -1,0 +1,13 @@
+Scene 430
+Frame timestamp: 4469.800s (01:14:29.800) — roughly 93% through the video
+Scene span: 4467.08s → 4472.52s (duration ~5.44s)
+
+What's in the frame: there is a group of people that are standing together in front of a brick wall
+Additional detail: a detailed photo of a group of people standing next to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (48.0%), brown (34.0%), gray (18.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.6)

@@ -1,0 +1,13 @@
+Scene 429
+Frame timestamp: 4466.320s (01:14:26.320) — roughly 93% through the video
+Scene span: 4465.56s → 4467.08s (duration ~1.52s)
+
+What's in the frame: there are two men standing next to each other near a brick wall
+Additional detail: a detailed photo of a man with a beard being escorted by two other men
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (36.4%), navy (34.2%), gray (29.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 27.4)

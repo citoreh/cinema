@@ -1,0 +1,13 @@
+Scene 434
+Frame timestamp: 4506.960s (01:15:06.960) — roughly 94% through the video
+Scene span: 4505.60s → 4508.32s (duration ~2.72s)
+
+What's in the frame: there is a man in a hoodie looking down at his cell phone
+Additional detail: a detailed photo of a man in a hoodie looking down at his cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (51.4%), gray (25.8%), gray (22.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 27.6)

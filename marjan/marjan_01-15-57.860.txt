@@ -1,0 +1,13 @@
+Scene 437
+Frame timestamp: 4557.860s (01:15:57.860) — roughly 95% through the video
+Scene span: 4520.24s → 4595.48s (duration ~75.24s)
+
+What's in the frame: there are two men sitting next to each other on the ground
+Additional detail: a detailed photo of two men sitting next to each other on the ground
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 62.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (39.4%), black (37.1%), gray (23.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 46.8)

@@ -1,0 +1,13 @@
+Scene 438
+Frame timestamp: 4704.820s (01:18:24.820) — roughly 98% through the video
+Scene span: 4595.48s → 4814.16s (duration ~218.68s)
+
+What's in the frame: an image of a black and white photo with arabic writing on it
+Additional detail: a detailed photo of a black background with arabic text
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 13.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (97.6%), black (1.4%), navy (1.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 302.2)

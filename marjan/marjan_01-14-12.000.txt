@@ -1,0 +1,13 @@
+Scene 427
+Frame timestamp: 4452.000s (01:14:12.000) — roughly 92% through the video
+Scene span: 4450.92s → 4453.08s (duration ~2.16s)
+
+What's in the frame: there is a man in a black hoodie standing on the steps of a building
+Additional detail: a detailed photo of a man in a hoodie leaning on a railing
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (51.5%), gray (27.2%), gray (21.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 29.1)

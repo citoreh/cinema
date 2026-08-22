@@ -1,0 +1,13 @@
+Scene 435
+Frame timestamp: 4511.920s (01:15:11.920) — roughly 94% through the video
+Scene span: 4508.32s → 4515.52s (duration ~7.20s)
+
+What's in the frame: there are two men standing outside of a brick building talking to each other
+Additional detail: a detailed photo of two men standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (42.8%), black (29.9%), brown (27.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 63.4)

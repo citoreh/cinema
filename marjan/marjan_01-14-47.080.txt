@@ -1,0 +1,13 @@
+Scene 431
+Frame timestamp: 4487.080s (01:14:47.080) — roughly 93% through the video
+Scene span: 4472.52s → 4501.64s (duration ~29.12s)
+
+What's in the frame: there are two men standing next to each other in front of a brick wall
+Additional detail: a detailed photo of a bearded man standing next to a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 51.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (36.9%), navy (33.8%), brown (29.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.1)
