@@ -1,0 +1,13 @@
+Scene 416
+Frame timestamp: 4288.900s (01:11:28.900) — roughly 89% through the video
+Scene span: 4287.08s → 4290.72s (duration ~3.64s)
+
+What's in the frame: this is an image of a man standing in front of a stone wall
+Additional detail: a detailed photo of a man in a suit and tie leaning against a wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (51.1%), black (28.8%), brown (20.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 27.0)

@@ -1,0 +1,13 @@
+Scene 420
+Frame timestamp: 4336.420s (01:12:16.420) — roughly 90% through the video
+Scene span: 4312.60s → 4360.24s (duration ~47.64s)
+
+What's in the frame: there are two men standing next to each other looking at a cell phone
+Additional detail: a detailed photo of two men looking at a cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 28.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (60.5%), black (25.2%), brown (14.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.5)

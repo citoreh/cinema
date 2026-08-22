@@ -1,0 +1,13 @@
+Scene 408
+Frame timestamp: 4165.560s (01:09:25.560) — roughly 87% through the video
+Scene span: 4160.76s → 4170.36s (duration ~9.60s)
+
+What's in the frame: there is a man leaning against a wall with his hand on the wall
+Additional detail: a detailed photo of a man leaning against a concrete wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (56.3%), black (30.9%), navy (12.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.4)

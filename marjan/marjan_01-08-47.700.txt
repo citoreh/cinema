@@ -1,0 +1,13 @@
+Scene 403
+Frame timestamp: 4127.700s (01:08:47.700) — roughly 86% through the video
+Scene span: 4122.80s → 4132.60s (duration ~9.80s)
+
+What's in the frame: there is a woman in a black hoodie looking out of a window
+Additional detail: a detailed photo of a woman in a hoodie looking out a window
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 49.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (49.9%), brown (28.5%), gray (21.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 13.3)

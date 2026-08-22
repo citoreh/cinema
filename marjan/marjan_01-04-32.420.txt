@@ -1,0 +1,13 @@
+Scene 395
+Frame timestamp: 3872.420s (01:04:32.420) — roughly 80% through the video
+Scene span: 3871.24s → 3873.60s (duration ~2.36s)
+
+What's in the frame: there is a man in a black jacket looking at his cell phone
+Additional detail: a detailed photo of a man in a black jacket leaning against a wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 88.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (42.8%), black (31.8%), brown (25.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 38.1)

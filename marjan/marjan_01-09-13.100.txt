@@ -1,0 +1,13 @@
+Scene 406
+Frame timestamp: 4153.100s (01:09:13.100) — roughly 86% through the video
+Scene span: 4148.96s → 4157.24s (duration ~8.28s)
+
+What's in the frame: there is a man standing in front of a whiteboard with writing on it
+Additional detail: a detailed photo of a man standing in front of a whiteboard
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (49.7%), gray (28.2%), brown (22.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.9)

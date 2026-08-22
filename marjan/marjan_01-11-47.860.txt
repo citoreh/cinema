@@ -1,0 +1,13 @@
+Scene 419
+Frame timestamp: 4307.860s (01:11:47.860) — roughly 89% through the video
+Scene span: 4303.12s → 4312.60s (duration ~9.48s)
+
+What's in the frame: there is a man in a hoodie standing next to a white van
+Additional detail: a detailed photo of a man in a hoodie standing next to a van
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (49.9%), black (29.3%), navy (20.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.7)

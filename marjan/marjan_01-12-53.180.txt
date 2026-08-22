@@ -1,0 +1,13 @@
+Scene 421
+Frame timestamp: 4373.180s (01:12:53.180) — roughly 91% through the video
+Scene span: 4360.24s → 4386.12s (duration ~25.88s)
+
+What's in the frame: there is a picture of the entrance to a building with a sign above it
+Additional detail: a detailed photo of the entrance to a building with metal railings
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (48.1%), black (30.5%), brown (21.3%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 72.9)

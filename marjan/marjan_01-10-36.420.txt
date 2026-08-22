@@ -1,0 +1,13 @@
+Scene 412
+Frame timestamp: 4236.420s (01:10:36.420) — roughly 88% through the video
+Scene span: 4233.28s → 4239.56s (duration ~6.28s)
+
+What's in the frame: there is a man standing in front of a wall talking to another man
+Additional detail: a detailed photo of a man standing in front of a wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 47.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: navy (49.4%), black (32.2%), brown (18.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.2)

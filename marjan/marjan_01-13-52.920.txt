@@ -1,0 +1,13 @@
+Scene 425
+Frame timestamp: 4432.920s (01:13:52.920) — roughly 92% through the video
+Scene span: 4432.52s → 4433.32s (duration ~0.80s)
+
+What's in the frame: there are two men that are walking down the street together
+Additional detail: a detailed photo of a man with a beard walking next to a tree
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (49.5%), black (29.5%), brown (21.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 54.8)

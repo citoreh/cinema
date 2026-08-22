@@ -1,0 +1,13 @@
+Scene 426
+Frame timestamp: 4442.120s (01:14:02.120) — roughly 92% through the video
+Scene span: 4433.32s → 4450.92s (duration ~17.60s)
+
+What's in the frame: there are two men standing next to each other near a brick wall
+Additional detail: a detailed photo of a man in a black hoodie talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (47.7%), black (29.1%), navy (23.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 68.1)

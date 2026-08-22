@@ -1,0 +1,13 @@
+Scene 417
+Frame timestamp: 4293.500s (01:11:33.500) — roughly 89% through the video
+Scene span: 4290.72s → 4296.28s (duration ~5.56s)
+
+What's in the frame: there is a man with a beard and a hoodie standing in front of a car
+Additional detail: a detailed photo of a man in a hoodie stares at the camera
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (36.0%), brown (33.4%), black (30.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.5)

@@ -1,0 +1,13 @@
+Scene 411
+Frame timestamp: 4220.940s (01:10:20.940) — roughly 88% through the video
+Scene span: 4208.60s → 4233.28s (duration ~24.68s)
+
+What's in the frame: there is a man with a moustache walking down a narrow alley way
+Additional detail: a detailed photo of a man with a moustache walking down a narrow alley
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 50.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (43.3%), black (32.2%), brown (24.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 30.4)

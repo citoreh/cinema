@@ -1,0 +1,13 @@
+Scene 415
+Frame timestamp: 4281.640s (01:11:21.640) — roughly 89% through the video
+Scene span: 4276.20s → 4287.08s (duration ~10.88s)
+
+What's in the frame: there are two men standing next to each other in front of a building
+Additional detail: a detailed photo of a man in a hoodie talking to another man
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (41.0%), black (30.3%), navy (28.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 33.6)

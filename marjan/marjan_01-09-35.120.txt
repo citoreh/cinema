@@ -1,0 +1,13 @@
+Scene 409
+Frame timestamp: 4175.120s (01:09:35.120) — roughly 87% through the video
+Scene span: 4170.36s → 4179.88s (duration ~9.52s)
+
+What's in the frame: there is a woman standing in front of a mirror with her hands on the wall
+Additional detail: a detailed photo of a woman standing in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (52.8%), brown (27.2%), gray (20.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.8)

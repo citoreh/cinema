@@ -1,0 +1,13 @@
+Scene 401
+Frame timestamp: 4110.080s (01:08:30.080) — roughly 85% through the video
+Scene span: 4102.60s → 4117.56s (duration ~14.96s)
+
+What's in the frame: there is a woman that is standing in front of a tv
+Additional detail: a detailed photo of a woman standing in front of a television
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 41.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (57.2%), brown (31.4%), brown (11.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.1)

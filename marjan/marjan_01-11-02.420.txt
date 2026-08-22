@@ -1,0 +1,13 @@
+Scene 414
+Frame timestamp: 4262.420s (01:11:02.420) — roughly 89% through the video
+Scene span: 4248.64s → 4276.20s (duration ~27.56s)
+
+What's in the frame: there are two men that are hugging each other in front of a building
+Additional detail: a detailed photo of two men hugging each other in front of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 50.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (40.5%), brown (33.9%), brown (25.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.8)

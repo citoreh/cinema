@@ -1,0 +1,13 @@
+Scene 418
+Frame timestamp: 4299.700s (01:11:39.700) — roughly 89% through the video
+Scene span: 4296.28s → 4303.12s (duration ~6.84s)
+
+What's in the frame: there is a man that is looking down at his cell phone
+Additional detail: a detailed photo of a man in a suit leaning against a wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (48.4%), black (29.1%), brown (22.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 29.6)

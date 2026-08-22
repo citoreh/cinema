@@ -1,0 +1,13 @@
+Scene 400
+Frame timestamp: 4019.000s (01:06:59.000) — roughly 83% through the video
+Scene span: 3935.40s → 4102.60s (duration ~167.20s)
+
+What's in the frame: there are two men sitting on the steps of a brick building
+Additional detail: a detailed photo of a man and a woman sitting on the steps of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (51.0%), navy (35.5%), brown (13.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.9)

@@ -1,0 +1,13 @@
+Scene 402
+Frame timestamp: 4120.180s (01:08:40.180) — roughly 86% through the video
+Scene span: 4117.56s → 4122.80s (duration ~5.24s)
+
+What's in the frame: there is a man wearing a hoodie standing in front of a brick wall
+Additional detail: a detailed photo of a man in a hoodie standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 60.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (43.7%), black (33.1%), gray (23.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.2)

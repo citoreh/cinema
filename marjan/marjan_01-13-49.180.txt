@@ -1,0 +1,13 @@
+Scene 424
+Frame timestamp: 4429.180s (01:13:49.180) — roughly 92% through the video
+Scene span: 4425.84s → 4432.52s (duration ~6.68s)
+
+What's in the frame: there are two men sitting on the steps outside of a brick building
+Additional detail: a detailed photo of two men sitting on the sidewalk in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (39.1%), gray (32.1%), black (28.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 90.1)

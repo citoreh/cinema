@@ -1,0 +1,13 @@
+Scene 405
+Frame timestamp: 4144.340s (01:09:04.340) — roughly 86% through the video
+Scene span: 4139.72s → 4148.96s (duration ~9.24s)
+
+What's in the frame: there is a woman that is standing in the doorway of a house
+Additional detail: a detailed photo of a woman in a black hijab standing in front of a door
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (39.5%), gray (31.3%), brown (29.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.6)

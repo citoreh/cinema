@@ -1,0 +1,13 @@
+Scene 413
+Frame timestamp: 4244.100s (01:10:44.100) — roughly 88% through the video
+Scene span: 4239.56s → 4248.64s (duration ~9.08s)
+
+What's in the frame: there are two men standing next to each other in front of a wall
+Additional detail: a detailed photo of two men standing next to each other in front of a wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 60.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (52.9%), black (29.2%), navy (17.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 40.3)

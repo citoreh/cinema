@@ -1,0 +1,13 @@
+Scene 398
+Frame timestamp: 3890.860s (01:04:50.860) — roughly 81% through the video
+Scene span: 3888.24s → 3893.48s (duration ~5.24s)
+
+What's in the frame: there is a man and a woman that are standing at a bus stop
+Additional detail: a detailed photo of a man and a woman waiting at a bus stop
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 76.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (40.1%), gray (30.2%), black (29.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 77.9)

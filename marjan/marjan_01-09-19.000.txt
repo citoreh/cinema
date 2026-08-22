@@ -1,0 +1,13 @@
+Scene 407
+Frame timestamp: 4159.000s (01:09:19.000) — roughly 86% through the video
+Scene span: 4157.24s → 4160.76s (duration ~3.52s)
+
+What's in the frame: there is a woman in a black hijab standing by a door
+Additional detail: a detailed photo of a woman in a black hijab looking at the camera
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 66.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (41.6%), gray (37.9%), brown (20.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.9)

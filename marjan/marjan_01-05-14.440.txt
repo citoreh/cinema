@@ -1,0 +1,13 @@
+Scene 399
+Frame timestamp: 3914.440s (01:05:14.440) — roughly 81% through the video
+Scene span: 3893.48s → 3935.40s (duration ~41.92s)
+
+What's in the frame: several people standing in a room with a baby in their arms
+Additional detail: a detailed photo of a group of people standing in a living room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 71.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (40.9%), black (36.5%), brown (22.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 51.7)

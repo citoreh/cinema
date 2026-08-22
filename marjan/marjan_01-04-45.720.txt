@@ -1,0 +1,13 @@
+Scene 397
+Frame timestamp: 3885.720s (01:04:45.720) — roughly 81% through the video
+Scene span: 3883.20s → 3888.24s (duration ~5.04s)
+
+What's in the frame: there is a man that is standing in front of a wall
+Additional detail: a detailed photo of a young man in a black jacket leaning against a wall
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 89.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (43.9%), black (32.1%), brown (24.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 39.3)

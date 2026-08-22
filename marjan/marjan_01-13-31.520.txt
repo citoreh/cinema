@@ -1,0 +1,13 @@
+Scene 423
+Frame timestamp: 4411.520s (01:13:31.520) — roughly 92% through the video
+Scene span: 4397.20s → 4425.84s (duration ~28.64s)
+
+What's in the frame: there are two men that are standing in the doorway of a building
+Additional detail: a detailed photo of a couple of men standing in a room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 46.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (54.8%), brown (27.8%), gray (17.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 38.0)
