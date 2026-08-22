@@ -1,0 +1,13 @@
+Scene 477
+Frame timestamp: 2046.750s (00:34:06.750) — roughly 40% through the video
+Scene span: 2045.29s → 2048.21s (duration ~2.92s)
+
+What's in the frame: there is a man in a suit and tie talking on a cell phone
+Additional detail: a detailed photo of a man in a suit and tie talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 89.5/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (49.5%), olive (26.6%), gold (23.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 95.5)

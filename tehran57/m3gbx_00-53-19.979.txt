@@ -1,0 +1,13 @@
+Scene 712
+Frame timestamp: 3199.979s (00:53:19.979) — roughly 62% through the video
+Scene span: 3199.54s → 3200.42s (duration ~0.88s)
+
+What's in the frame: there is a man that is standing outside of a building talking on a cell phone
+Additional detail: a detailed photo of a man talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 107.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: beige (39.9%), black (38.8%), gray (21.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 68.9)

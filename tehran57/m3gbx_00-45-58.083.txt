@@ -1,0 +1,13 @@
+Scene 632
+Frame timestamp: 2758.083s (00:45:58.083) — roughly 54% through the video
+Scene span: 2757.12s → 2759.04s (duration ~1.92s)
+
+What's in the frame: there is a woman with a scarf on her head standing in front of a car
+Additional detail: a detailed photo of a woman with a scarf on her head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 47.8/255)
+  - Color palette: muted colors — dominant colors: black (65.5%), brown (21.9%), gray (12.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.6)

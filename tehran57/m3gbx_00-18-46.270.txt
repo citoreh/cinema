@@ -1,0 +1,13 @@
+Scene 255
+Frame timestamp: 1126.271s (00:18:46.270) — roughly 22% through the video
+Scene span: 1123.50s → 1129.04s (duration ~5.54s)
+
+What's in the frame: there is a man and woman sitting at a table in a restaurant
+Additional detail: a detailed photo of a man and woman sitting at a table in a restaurant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (58.1%), brown (31.8%), beige (10.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 39.6)

@@ -1,0 +1,13 @@
+Scene 452
+Frame timestamp: 1917.792s (00:31:57.791) — roughly 37% through the video
+Scene span: 1914.62s → 1920.96s (duration ~6.33s)
+
+What's in the frame: there is a man in a blue suit and tie walking through a lobby
+Additional detail: a detailed photo of a man in a blue suit walking through a lobby
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (47.1%), black (35.7%), olive (17.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 64.8)

@@ -1,0 +1,13 @@
+Scene 912
+Frame timestamp: 3970.979s (01:06:10.979) — roughly 77% through the video
+Scene span: 3970.50s → 3971.46s (duration ~0.96s)
+
+What's in the frame: there is a woman that is looking at her cell phone
+Additional detail: a detailed photo of a woman in a headscarf looking at her cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.2/255)
+  - Color palette: muted colors — dominant colors: black (47.5%), brown (36.2%), gray (16.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 46.9)

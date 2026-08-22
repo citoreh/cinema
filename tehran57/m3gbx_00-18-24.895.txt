@@ -1,0 +1,13 @@
+Scene 251
+Frame timestamp: 1104.896s (00:18:24.895) — roughly 22% through the video
+Scene span: 1102.17s → 1107.62s (duration ~5.46s)
+
+What's in the frame: there are two men sitting at a table talking to each other
+Additional detail: a detailed photo of two men and a woman sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.9/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (57.7%), brown (31.8%), beige (10.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 35.8)

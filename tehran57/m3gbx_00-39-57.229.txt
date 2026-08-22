@@ -1,0 +1,13 @@
+Scene 562
+Frame timestamp: 2397.229s (00:39:57.229) — roughly 47% through the video
+Scene span: 2396.88s → 2397.58s (duration ~0.71s)
+
+What's in the frame: this is an image of a man with an afro wig talking to another man in a car
+Additional detail: a detailed photo of a close up of a man with a surprised look on his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.3/255)
+  - Color palette: muted colors — dominant colors: black (66.4%), gray (21.9%), beige (11.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.1)

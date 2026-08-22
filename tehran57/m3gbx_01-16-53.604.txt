@@ -1,0 +1,13 @@
+Scene 974
+Frame timestamp: 4613.604s (01:16:53.604) — roughly 90% through the video
+Scene span: 4610.33s → 4616.88s (duration ~6.54s)
+
+What's in the frame: there is a man in a suit talking to a group of people
+Additional detail: a detailed photo of a group of men standing in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.4/255)
+  - Color palette: muted colors — dominant colors: black (52.0%), brown (25.5%), gray (22.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 153.1)

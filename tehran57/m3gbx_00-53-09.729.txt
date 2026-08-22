@@ -1,0 +1,13 @@
+Scene 711
+Frame timestamp: 3189.729s (00:53:09.729) — roughly 62% through the video
+Scene span: 3179.92s → 3199.54s (duration ~19.62s)
+
+What's in the frame: there are three men standing outside of a building talking on their cell phones
+Additional detail: a detailed photo of a man in a suit talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 51.4/255)
+  - Color palette: muted colors — dominant colors: black (51.6%), brown (34.2%), gray (14.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 113.2)

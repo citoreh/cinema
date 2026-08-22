@@ -1,0 +1,13 @@
+Scene 540
+Frame timestamp: 2313.542s (00:38:33.541) — roughly 45% through the video
+Scene span: 2311.71s → 2315.38s (duration ~3.67s)
+
+What's in the frame: there is a man sitting in a car with a hair brush on his head
+Additional detail: a detailed photo of a man sitting in a car with a hair brush on his head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.8/255)
+  - Color palette: muted colors — dominant colors: black (53.6%), brown (27.8%), beige (18.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 69.0)

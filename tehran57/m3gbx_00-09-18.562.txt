@@ -1,0 +1,13 @@
+Scene 45
+Frame timestamp: 558.562s (00:09:18.562) — roughly 11% through the video
+Scene span: 556.96s → 560.17s (duration ~3.21s)
+
+What's in the frame: there are two men sitting at a table with wine glasses in front of them
+Additional detail: a detailed photo of a couple of men sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.7/255)
+  - Color palette: muted colors — dominant colors: black (47.9%), brown (30.0%), gray (22.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 55.4)

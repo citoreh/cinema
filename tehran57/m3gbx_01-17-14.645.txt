@@ -1,0 +1,13 @@
+Scene 978
+Frame timestamp: 4634.646s (01:17:14.645) — roughly 90% through the video
+Scene span: 4631.92s → 4637.38s (duration ~5.46s)
+
+What's in the frame: there is a group of people that are standing in a room
+Additional detail: a detailed photo of a group of people in a waiting area
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 77.1/255)
+  - Color palette: muted colors — dominant colors: black (45.5%), gray (36.4%), brown (18.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.3)

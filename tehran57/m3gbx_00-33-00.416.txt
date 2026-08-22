@@ -1,0 +1,13 @@
+Scene 466
+Frame timestamp: 1980.417s (00:33:00.416) — roughly 39% through the video
+Scene span: 1973.96s → 1986.88s (duration ~12.92s)
+
+What's in the frame: there are two men standing next to each other in front of a microphone
+Additional detail: a detailed photo of a man in a suit singing into a microphone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.2/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (36.0%), gold (32.7%), brown (31.4%)
+  - Composition: busy / detailed composition with lots of edges and texture
+  - Focus/motion: sharp / in focus (sharpness score 612.7)

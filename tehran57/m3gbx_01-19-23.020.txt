@@ -1,0 +1,13 @@
+Scene 990
+Frame timestamp: 4763.021s (01:19:23.020) — roughly 93% through the video
+Scene span: 4759.00s → 4767.04s (duration ~8.04s)
+
+What's in the frame: there is a man that is standing in front of a counter
+Additional detail: a detailed photo of a group of people standing in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (42.8%), brown (34.5%), gray (22.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 126.7)

@@ -1,0 +1,13 @@
+Scene 353
+Frame timestamp: 1415.188s (00:23:35.187) — roughly 28% through the video
+Scene span: 1409.50s → 1420.88s (duration ~11.38s)
+
+What's in the frame: there is a woman with a purple hat talking to a man in a room
+Additional detail: a detailed photo of a woman talking to a man in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 66.1/255)
+  - Color palette: muted colors — dominant colors: black (59.4%), brown (38.1%), white (2.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 89.4)

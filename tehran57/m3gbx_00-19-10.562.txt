@@ -1,0 +1,13 @@
+Scene 263
+Frame timestamp: 1150.562s (00:19:10.562) — roughly 22% through the video
+Scene span: 1149.08s → 1152.04s (duration ~2.96s)
+
+What's in the frame: there is a man in a suit and tie standing in front of a group of people
+Additional detail: a detailed photo of a man in a suit and a woman in a hijab
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.4/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (54.3%), brown (32.1%), gold (13.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 33.4)

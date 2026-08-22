@@ -1,0 +1,13 @@
+Scene 928
+Frame timestamp: 4042.062s (01:07:22.062) — roughly 79% through the video
+Scene span: 4040.17s → 4043.96s (duration ~3.79s)
+
+What's in the frame: there is a man sitting in a red car talking on a cell phone
+Additional detail: a detailed photo of a red car with two men sitting in the driver ' s seat
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.9/255)
+  - Color palette: muted colors — dominant colors: brown (47.4%), black (41.4%), gray (11.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 37.4)

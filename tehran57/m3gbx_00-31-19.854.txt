@@ -1,0 +1,13 @@
+Scene 443
+Frame timestamp: 1879.854s (00:31:19.854) — roughly 37% through the video
+Scene span: 1879.33s → 1880.38s (duration ~1.04s)
+
+What's in the frame: this is an image of a red car parked on the side of the road
+Additional detail: a detailed photo of a red car parked in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 88.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (45.6%), black (33.0%), brown (21.4%)
+  - Composition: busy / detailed composition with lots of edges and texture
+  - Focus/motion: sharp / in focus (sharpness score 353.9)

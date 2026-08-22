@@ -1,0 +1,13 @@
+Scene 1013
+Frame timestamp: 4979.062s (01:22:59.062) — roughly 97% through the video
+Scene span: 4977.12s → 4981.00s (duration ~3.88s)
+
+What's in the frame: there are three men in suits and ties standing on a stage
+Additional detail: a detailed photo of a group of men in red shirts and black suits
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 62.9/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (57.0%), brown (31.3%), gray (11.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 501.9)

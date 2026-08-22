@@ -1,0 +1,13 @@
+Scene 469
+Frame timestamp: 2023.854s (00:33:43.854) — roughly 39% through the video
+Scene span: 2022.42s → 2025.29s (duration ~2.88s)
+
+What's in the frame: there is a man in a suit and tie standing in front of a group of people
+Additional detail: a detailed photo of a man in a suit and tie standing in front of a group of people
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (50.6%), black (35.4%), gold (14.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 26.3)

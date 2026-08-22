@@ -1,0 +1,13 @@
+Scene 12
+Frame timestamp: 63.417s (00:01:03.416) — roughly 1% through the video
+Scene span: 63.08s → 63.75s (duration ~0.67s)
+
+What's in the frame: there is a man that is standing in front of a store
+Additional detail: a detailed photo of a person standing in front of a store
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 120.0/255)
+  - Color palette: muted colors — dominant colors: gray (39.2%), black (32.5%), beige (28.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 57.9)

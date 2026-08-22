@@ -1,0 +1,13 @@
+Scene 58
+Frame timestamp: 592.458s (00:09:52.458) — roughly 12% through the video
+Scene span: 590.75s → 594.17s (duration ~3.42s)
+
+What's in the frame: there are two men sitting at a table with wine glasses in front of them
+Additional detail: a detailed photo of two men sitting at a table with wine glasses
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.8/255)
+  - Color palette: muted colors — dominant colors: black (57.5%), brown (31.1%), gray (11.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 57.8)

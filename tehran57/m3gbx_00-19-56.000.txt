@@ -1,0 +1,13 @@
+Scene 281
+Frame timestamp: 1196.000s (00:19:56.000) — roughly 23% through the video
+Scene span: 1195.50s → 1196.50s (duration ~1.00s)
+
+What's in the frame: this is an image of a man in a suit and tie playing a guitar
+Additional detail: a detailed photo of a man in a suit and tie holding a guitar
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.9/255)
+  - Color palette: muted colors — dominant colors: black (69.5%), brown (21.7%), gold (8.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 33.5)

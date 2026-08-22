@@ -1,0 +1,13 @@
+Scene 482
+Frame timestamp: 2060.750s (00:34:20.750) — roughly 40% through the video
+Scene span: 2059.50s → 2062.00s (duration ~2.50s)
+
+What's in the frame: this is an image of a man in a suit talking to another man
+Additional detail: a detailed photo of a man in a suit talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.2/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (47.6%), brown (42.9%), gold (9.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.1)

@@ -1,0 +1,13 @@
+Scene 758
+Frame timestamp: 3439.854s (00:57:19.854) — roughly 67% through the video
+Scene span: 3438.75s → 3440.96s (duration ~2.21s)
+
+What's in the frame: this is an image of a man and a woman posing for a picture
+Additional detail: a detailed photo of two men sitting next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (63.5%), black (25.3%), brown (11.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.1)

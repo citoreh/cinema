@@ -1,0 +1,13 @@
+Scene 362
+Frame timestamp: 1471.188s (00:24:31.187) — roughly 29% through the video
+Scene span: 1470.62s → 1471.75s (duration ~1.12s)
+
+What's in the frame: there is a woman that is standing in front of a window
+Additional detail: a detailed photo of a woman standing in front of a window
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.8/255)
+  - Color palette: muted colors — dominant colors: black (55.6%), beige (26.6%), brown (17.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 38.6)

@@ -1,0 +1,13 @@
+Scene 298
+Frame timestamp: 1234.500s (00:20:34.500) — roughly 24% through the video
+Scene span: 1233.08s → 1235.92s (duration ~2.83s)
+
+What's in the frame: there is a man in a suit and tie dancing with his hands in the air
+Additional detail: a detailed photo of a group of men in suits and ties dancing
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.7/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (62.8%), brown (27.7%), gold (9.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 107.3)

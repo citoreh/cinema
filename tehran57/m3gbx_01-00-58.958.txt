@@ -1,0 +1,13 @@
+Scene 807
+Frame timestamp: 3658.958s (01:00:58.958) — roughly 71% through the video
+Scene span: 3655.71s → 3662.21s (duration ~6.50s)
+
+What's in the frame: there is a man standing in front of a refrigerator making a peace sign
+Additional detail: a detailed photo of a man with a beard making a peace sign
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.8/255)
+  - Color palette: muted colors — dominant colors: brown (42.2%), black (37.4%), beige (20.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 49.9)

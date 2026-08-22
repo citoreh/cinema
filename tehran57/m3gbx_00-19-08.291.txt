@@ -1,0 +1,13 @@
+Scene 262
+Frame timestamp: 1148.292s (00:19:08.291) — roughly 22% through the video
+Scene span: 1147.50s → 1149.08s (duration ~1.58s)
+
+What's in the frame: there is a woman with a scarf on her head and a man in the background
+Additional detail: a detailed photo of a woman with red hair wearing a scarf
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 66.5/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (48.1%), black (40.7%), gray (11.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.3)

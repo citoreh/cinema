@@ -1,0 +1,13 @@
+Scene 634
+Frame timestamp: 2763.271s (00:46:03.270) — roughly 54% through the video
+Scene span: 2762.75s → 2763.79s (duration ~1.04s)
+
+What's in the frame: this is an image of a man standing in front of a car
+Additional detail: a detailed photo of a man in a suit looking down at his cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 96.5/255)
+  - Color palette: muted colors — dominant colors: black (40.4%), beige (37.2%), brown (22.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 88.9)

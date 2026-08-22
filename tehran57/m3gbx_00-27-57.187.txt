@@ -1,0 +1,13 @@
+Scene 395
+Frame timestamp: 1677.188s (00:27:57.187) — roughly 33% through the video
+Scene span: 1659.67s → 1694.71s (duration ~35.04s)
+
+What's in the frame: there are two men standing next to each other in front of a brick wall
+Additional detail: a detailed photo of two men standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 106.5/255)
+  - Color palette: muted colors — dominant colors: beige (39.3%), black (35.7%), gray (25.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 129.2)

@@ -1,0 +1,13 @@
+Scene 488
+Frame timestamp: 2074.000s (00:34:34.000) — roughly 40% through the video
+Scene span: 2073.67s → 2074.33s (duration ~0.67s)
+
+What's in the frame: there is a man that is standing in front of a woman
+Additional detail: a detailed photo of a man and a woman standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 51.3/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (51.2%), brown (42.9%), gray (6.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.5)

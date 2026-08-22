@@ -1,0 +1,13 @@
+Scene 1007
+Frame timestamp: 4917.104s (01:21:57.104) — roughly 96% through the video
+Scene span: 4908.08s → 4926.12s (duration ~18.04s)
+
+What's in the frame: there is a man sitting in a car taking a picture with his cell phone
+Additional detail: a detailed photo of a man sitting in a car holding a gun
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 107.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (45.3%), white (31.9%), brown (22.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 46.6)

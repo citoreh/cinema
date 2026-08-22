@@ -1,0 +1,13 @@
+Scene 379
+Frame timestamp: 1539.938s (00:25:39.937) — roughly 30% through the video
+Scene span: 1515.92s → 1563.96s (duration ~48.04s)
+
+What's in the frame: there is a man in a suit talking to another man on the street
+Additional detail: a detailed photo of a man in a suit talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.4/255)
+  - Color palette: muted colors — dominant colors: brown (48.9%), black (34.5%), gray (16.6%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 102.0)

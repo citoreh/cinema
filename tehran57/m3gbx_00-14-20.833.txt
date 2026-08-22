@@ -1,0 +1,13 @@
+Scene 213
+Frame timestamp: 860.833s (00:14:20.833) — roughly 17% through the video
+Scene span: 860.46s → 861.21s (duration ~0.75s)
+
+What's in the frame: there is a man and woman standing next to each other in front of a brick wall
+Additional detail: a detailed photo of a man and woman standing in front of a club sign
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 39.3/255)
+  - Color palette: muted colors — dominant colors: black (43.7%), brown (30.7%), black (25.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 24.2)

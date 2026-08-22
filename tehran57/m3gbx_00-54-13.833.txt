@@ -1,0 +1,13 @@
+Scene 731
+Frame timestamp: 3253.833s (00:54:13.833) — roughly 63% through the video
+Scene span: 3251.08s → 3256.58s (duration ~5.50s)
+
+What's in the frame: there is a man and a woman standing next to each other in front of a fence
+Additional detail: a detailed photo of a group of people standing in front of a fence
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.1/255)
+  - Color palette: muted colors — dominant colors: black (45.1%), brown (38.8%), gray (16.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 141.3)

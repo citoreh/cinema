@@ -1,0 +1,13 @@
+Scene 69
+Frame timestamp: 612.583s (00:10:12.583) — roughly 12% through the video
+Scene span: 611.88s → 613.29s (duration ~1.42s)
+
+What's in the frame: there are two men sitting at a table talking to each other
+Additional detail: a detailed photo of two men sitting at a table with wine glasses
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.7/255)
+  - Color palette: muted colors — dominant colors: black (55.2%), brown (28.9%), gray (16.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 60.3)

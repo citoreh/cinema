@@ -1,0 +1,13 @@
+Scene 801
+Frame timestamp: 3562.896s (00:59:22.895) — roughly 69% through the video
+Scene span: 3554.67s → 3571.12s (duration ~16.46s)
+
+What's in the frame: there is a man that is standing in front of a mirror holding a cell phone
+Additional detail: a detailed photo of a man standing in front of a mirror holding a cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 27.8/255)
+  - Color palette: muted colors — dominant colors: black (53.8%), black (29.7%), brown (16.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 13.6)

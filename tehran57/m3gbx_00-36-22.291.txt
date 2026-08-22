@@ -1,0 +1,13 @@
+Scene 513
+Frame timestamp: 2182.292s (00:36:22.291) — roughly 43% through the video
+Scene span: 2179.58s → 2185.00s (duration ~5.42s)
+
+What's in the frame: there is a man holding a pair of scissors over his head
+Additional detail: a detailed photo of a man holding a pair of scissors over his head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.1/255)
+  - Color palette: muted colors — dominant colors: gray (37.3%), navy (36.0%), black (26.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.5)

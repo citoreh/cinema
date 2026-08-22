@@ -1,0 +1,13 @@
+Scene 458
+Frame timestamp: 1945.271s (00:32:25.270) — roughly 38% through the video
+Scene span: 1944.79s → 1945.75s (duration ~0.96s)
+
+What's in the frame: there is a man that is standing in front of a bar
+Additional detail: a detailed photo of a man in a suit standing in front of a bar
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.3/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (51.4%), black (33.1%), olive (15.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 90.3)

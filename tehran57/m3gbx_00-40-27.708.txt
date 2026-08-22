@@ -1,0 +1,13 @@
+Scene 577
+Frame timestamp: 2427.708s (00:40:27.708) — roughly 47% through the video
+Scene span: 2426.92s → 2428.50s (duration ~1.58s)
+
+What's in the frame: there is a close up of a man with an afro looking at another man
+Additional detail: a detailed photo of a close up of a man with an afro
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.1/255)
+  - Color palette: muted colors — dominant colors: black (64.1%), brown (18.9%), beige (17.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 31.4)

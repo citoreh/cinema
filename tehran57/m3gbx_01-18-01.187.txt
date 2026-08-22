@@ -1,0 +1,13 @@
+Scene 982
+Frame timestamp: 4681.188s (01:18:01.187) — roughly 91% through the video
+Scene span: 4660.08s → 4702.29s (duration ~42.21s)
+
+What's in the frame: there is a man that is standing in the doorway of a house
+Additional detail: a detailed photo of a man in a green and white striped shirt
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.7/255)
+  - Color palette: muted colors — dominant colors: brown (38.3%), black (31.1%), brown (30.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 54.2)

@@ -1,0 +1,13 @@
+Scene 405
+Frame timestamp: 1723.771s (00:28:43.770) — roughly 34% through the video
+Scene span: 1723.04s → 1724.50s (duration ~1.46s)
+
+What's in the frame: there is a man with a surprised look on his face talking to another man
+Additional detail: a detailed photo of a man with a surprised look on his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 99.9/255)
+  - Color palette: muted colors — dominant colors: black (39.4%), gray (35.8%), beige (24.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 47.3)

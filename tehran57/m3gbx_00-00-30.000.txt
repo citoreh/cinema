@@ -1,0 +1,13 @@
+Scene 6
+Frame timestamp: 30.000s (00:00:30.000) — roughly 1% through the video
+Scene span: 28.08s → 31.92s (duration ~3.83s)
+
+What's in the frame: there is a green and white bus that is driving down the street
+Additional detail: a detailed photo of a green and white bus on a city street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 118.3/255)
+  - Color palette: muted colors — dominant colors: beige (35.3%), gray (34.6%), black (30.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 277.4)

@@ -1,0 +1,13 @@
+Scene 516
+Frame timestamp: 2199.292s (00:36:39.291) — roughly 43% through the video
+Scene span: 2196.50s → 2202.08s (duration ~5.58s)
+
+What's in the frame: there is a man in a blue suit standing next to a red car
+Additional detail: a detailed photo of a man in a blue suit standing next to a red car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 98.1/255)
+  - Color palette: muted colors — dominant colors: black (38.3%), beige (34.3%), brown (27.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 100.5)

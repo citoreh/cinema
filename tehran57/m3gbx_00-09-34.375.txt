@@ -1,0 +1,13 @@
+Scene 51
+Frame timestamp: 574.375s (00:09:34.375) — roughly 11% through the video
+Scene span: 571.92s → 576.83s (duration ~4.92s)
+
+What's in the frame: there are two men sitting at a table with wine bottles and wine glasses
+Additional detail: a detailed photo of two men sitting at a table with wine bottles
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 60.2/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (50.8%), brown (38.7%), beige (10.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 56.1)

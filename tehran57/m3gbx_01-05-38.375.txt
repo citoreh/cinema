@@ -1,0 +1,13 @@
+Scene 897
+Frame timestamp: 3938.375s (01:05:38.375) — roughly 77% through the video
+Scene span: 3937.58s → 3939.17s (duration ~1.58s)
+
+What's in the frame: there are two men standing next to each other on a sidewalk
+Additional detail: a detailed photo of a man and a woman standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 88.8/255)
+  - Color palette: muted colors — dominant colors: brown (38.4%), black (31.2%), gray (30.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 212.3)

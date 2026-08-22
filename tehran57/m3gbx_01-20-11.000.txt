@@ -1,0 +1,13 @@
+Scene 1000
+Frame timestamp: 4811.000s (01:20:11.000) — roughly 94% through the video
+Scene span: 4808.33s → 4813.67s (duration ~5.33s)
+
+What's in the frame: there are two men that are standing in front of a crowd
+Additional detail: a detailed photo of a group of people standing in front of a crowd
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.2/255)
+  - Color palette: muted colors — dominant colors: black (43.4%), brown (32.6%), gray (24.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 54.2)

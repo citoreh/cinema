@@ -1,0 +1,13 @@
+Scene 504
+Frame timestamp: 2162.750s (00:36:02.750) — roughly 42% through the video
+Scene span: 2161.54s → 2163.96s (duration ~2.42s)
+
+What's in the frame: there is a man sitting in a car eating a hot dog
+Additional detail: a detailed photo of a man eating a hot dog in a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.5/255)
+  - Color palette: muted colors — dominant colors: brown (40.2%), gray (30.4%), black (29.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.6)

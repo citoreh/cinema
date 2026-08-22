@@ -1,0 +1,13 @@
+Scene 905
+Frame timestamp: 3952.854s (01:05:52.854) — roughly 77% through the video
+Scene span: 3951.83s → 3953.88s (duration ~2.04s)
+
+What's in the frame: there are two men standing next to each other on a sidewalk
+Additional detail: a detailed photo of two men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 87.3/255)
+  - Color palette: muted colors — dominant colors: brown (44.1%), black (30.3%), gray (25.6%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 314.6)

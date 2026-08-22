@@ -1,0 +1,13 @@
+Scene 815
+Frame timestamp: 3684.396s (01:01:24.395) — roughly 72% through the video
+Scene span: 3682.12s → 3686.67s (duration ~4.54s)
+
+What's in the frame: there is a man that is standing in front of a wall with post it notes on it
+Additional detail: a detailed photo of a man standing in front of a wall with post it notes on it
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.0/255)
+  - Color palette: muted colors — dominant colors: black (57.1%), gray (36.9%), white (6.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.3)

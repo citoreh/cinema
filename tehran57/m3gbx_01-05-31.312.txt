@@ -1,0 +1,13 @@
+Scene 893
+Frame timestamp: 3931.312s (01:05:31.312) — roughly 77% through the video
+Scene span: 3929.83s → 3932.79s (duration ~2.96s)
+
+What's in the frame: there are two men that are playing with each other on a playground
+Additional detail: a detailed photo of a man and a woman leaning on a pole
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.7/255)
+  - Color palette: muted colors — dominant colors: gray (34.6%), black (33.6%), brown (31.8%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 136.8)

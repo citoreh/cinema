@@ -1,0 +1,13 @@
+Scene 462
+Frame timestamp: 1955.396s (00:32:35.395) — roughly 38% through the video
+Scene span: 1953.96s → 1956.83s (duration ~2.88s)
+
+What's in the frame: there is a man in a suit and tie standing next to a man in a suit
+Additional detail: a detailed photo of a man standing in front of a microphone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.8/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (38.7%), brown (32.5%), gold (28.8%)
+  - Composition: busy / detailed composition with lots of edges and texture
+  - Focus/motion: sharp / in focus (sharpness score 614.8)

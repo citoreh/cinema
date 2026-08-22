@@ -1,0 +1,13 @@
+Scene 355
+Frame timestamp: 1426.042s (00:23:46.041) — roughly 28% through the video
+Scene span: 1423.62s → 1428.46s (duration ~4.83s)
+
+What's in the frame: there are two women standing next to each other in a living room
+Additional detail: a detailed photo of a couple of women standing next to each other in a living room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.4/255)
+  - Color palette: muted colors — dominant colors: black (49.0%), brown (32.8%), gray (18.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 105.1)

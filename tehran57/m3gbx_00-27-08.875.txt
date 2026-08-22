@@ -1,0 +1,13 @@
+Scene 388
+Frame timestamp: 1628.875s (00:27:08.875) — roughly 32% through the video
+Scene span: 1627.58s → 1630.17s (duration ~2.58s)
+
+What's in the frame: there is a man in a suit and tie talking to another man
+Additional detail: a detailed photo of a man talking to another man in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.9/255)
+  - Color palette: muted colors — dominant colors: brown (41.9%), black (29.2%), gray (28.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.8)

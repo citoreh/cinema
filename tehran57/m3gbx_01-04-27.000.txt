@@ -1,0 +1,13 @@
+Scene 884
+Frame timestamp: 3867.000s (01:04:27.000) — roughly 75% through the video
+Scene span: 3866.38s → 3867.62s (duration ~1.25s)
+
+What's in the frame: there is a man standing in front of a refrigerator with post it notes on it
+Additional detail: a detailed photo of a man with a beard standing in front of a refrigerator
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.1/255)
+  - Color palette: muted colors — dominant colors: brown (39.0%), black (38.0%), gray (23.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 43.6)

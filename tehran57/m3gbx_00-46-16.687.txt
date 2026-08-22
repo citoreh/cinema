@@ -1,0 +1,13 @@
+Scene 641
+Frame timestamp: 2776.688s (00:46:16.687) — roughly 54% through the video
+Scene span: 2775.42s → 2777.96s (duration ~2.54s)
+
+What's in the frame: there is a man in a suit and tie standing next to a car
+Additional detail: a detailed photo of a man in a suit looking down at something
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 96.6/255)
+  - Color palette: muted colors — dominant colors: black (39.6%), beige (37.3%), gray (23.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 109.6)

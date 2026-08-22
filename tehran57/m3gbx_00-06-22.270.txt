@@ -1,0 +1,13 @@
+Scene 40
+Frame timestamp: 382.271s (00:06:22.270) — roughly 7% through the video
+Scene span: 380.83s → 383.71s (duration ~2.88s)
+
+What's in the frame: there are a lot of people that are walking around in the street
+Additional detail: a detailed photo of a crowd of people standing around a purple car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 89.6/255)
+  - Color palette: muted colors — dominant colors: black (43.3%), brown (34.3%), beige (22.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 105.0)

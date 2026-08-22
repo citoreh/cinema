@@ -1,0 +1,13 @@
+Scene 780
+Frame timestamp: 3497.729s (00:58:17.729) — roughly 68% through the video
+Scene span: 3495.75s → 3499.71s (duration ~3.96s)
+
+What's in the frame: there are two men sitting next to each other in a dark room
+Additional detail: a detailed photo of two men in suits sitting next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (62.5%), black (25.3%), brown (12.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.2)

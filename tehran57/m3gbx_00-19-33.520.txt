@@ -1,0 +1,13 @@
+Scene 270
+Frame timestamp: 1173.521s (00:19:33.520) — roughly 23% through the video
+Scene span: 1173.08s → 1173.96s (duration ~0.88s)
+
+What's in the frame: there are two men dressed in suits and ties sitting at a table
+Additional detail: a detailed photo of two men dressed in suits, one with an afro and the other with a moustache
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.3/255)
+  - Color palette: muted colors — dominant colors: black (57.4%), brown (25.7%), gray (16.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 66.2)

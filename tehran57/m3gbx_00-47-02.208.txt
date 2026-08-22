@@ -1,0 +1,13 @@
+Scene 659
+Frame timestamp: 2822.208s (00:47:02.208) — roughly 55% through the video
+Scene span: 2821.62s → 2822.79s (duration ~1.17s)
+
+What's in the frame: there is a man and a woman standing next to a car with the hood open
+Additional detail: a detailed photo of a man and a woman standing in front of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 71.3/255)
+  - Color palette: muted colors — dominant colors: black (50.9%), gray (26.0%), brown (23.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 77.1)

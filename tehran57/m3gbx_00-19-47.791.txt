@@ -1,0 +1,13 @@
+Scene 278
+Frame timestamp: 1187.792s (00:19:47.791) — roughly 23% through the video
+Scene span: 1186.79s → 1188.79s (duration ~2.00s)
+
+What's in the frame: there is a man that is giving a speech in front of a crowd
+Additional detail: a detailed photo of a man giving a speech in front of a crowd
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.7/255)
+  - Color palette: muted colors — dominant colors: black (48.4%), brown (41.5%), beige (10.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.2)

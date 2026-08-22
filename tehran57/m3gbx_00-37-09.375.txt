@@ -1,0 +1,13 @@
+Scene 518
+Frame timestamp: 2229.375s (00:37:09.375) — roughly 43% through the video
+Scene span: 2218.88s → 2239.88s (duration ~21.00s)
+
+What's in the frame: there is a man and a woman walking down the street talking
+Additional detail: a detailed photo of a man talking to a woman on the street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 91.5/255)
+  - Color palette: muted colors — dominant colors: gray (43.3%), black (41.9%), white (14.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 59.5)

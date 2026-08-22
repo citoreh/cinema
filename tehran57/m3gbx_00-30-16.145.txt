@@ -1,0 +1,13 @@
+Scene 428
+Frame timestamp: 1816.146s (00:30:16.145) — roughly 35% through the video
+Scene span: 1806.17s → 1826.12s (duration ~19.96s)
+
+What's in the frame: there are three men standing outside of a building talking to each other
+Additional detail: a detailed photo of a group of men standing in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 102.0/255)
+  - Color palette: muted colors — dominant colors: black (43.1%), gray (35.0%), beige (21.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 203.7)

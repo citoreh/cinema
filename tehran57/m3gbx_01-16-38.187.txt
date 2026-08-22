@@ -1,0 +1,13 @@
+Scene 971
+Frame timestamp: 4598.188s (01:16:38.187) — roughly 90% through the video
+Scene span: 4596.33s → 4600.04s (duration ~3.71s)
+
+What's in the frame: there is a white van that is parked on the side of the road
+Additional detail: a detailed photo of a white van parked on the side of the road
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 106.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (35.1%), black (33.4%), beige (31.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 93.8)

@@ -1,0 +1,13 @@
+Scene 609
+Frame timestamp: 2519.250s (00:41:59.250) — roughly 49% through the video
+Scene span: 2518.04s → 2520.46s (duration ~2.42s)
+
+What's in the frame: there is a man with a moustache laying in the back seat of a car
+Additional detail: a detailed photo of a man with a moustache laying in the back seat of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 51.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (60.5%), navy (27.5%), gray (12.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.0)

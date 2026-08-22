@@ -1,0 +1,13 @@
+Scene 52
+Frame timestamp: 577.688s (00:09:37.687) — roughly 11% through the video
+Scene span: 576.83s → 578.54s (duration ~1.71s)
+
+What's in the frame: there is a man sitting at a table with a bottle of wine in front of him
+Additional detail: a detailed photo of a man sitting at a table in a restaurant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.0/255)
+  - Color palette: muted colors — dominant colors: black (58.6%), brown (31.7%), beige (9.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.9)

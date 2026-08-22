@@ -1,0 +1,13 @@
+Scene 950
+Frame timestamp: 4294.729s (01:11:34.729) — roughly 84% through the video
+Scene span: 4293.58s → 4295.88s (duration ~2.29s)
+
+What's in the frame: there is a man in a suit sitting at a desk with a lamp
+Additional detail: a detailed photo of a man sitting at a desk in front of a lamp
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.9/255)
+  - Color palette: muted colors — dominant colors: black (51.8%), brown (27.1%), beige (21.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 128.9)

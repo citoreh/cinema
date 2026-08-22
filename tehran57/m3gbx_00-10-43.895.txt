@@ -1,0 +1,13 @@
+Scene 84
+Frame timestamp: 643.896s (00:10:43.895) — roughly 13% through the video
+Scene span: 642.62s → 645.17s (duration ~2.54s)
+
+What's in the frame: there is a man in a tuxedo sitting at a table with a bottle of wine
+Additional detail: a detailed photo of a man in a tuxedo sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.1/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (57.7%), brown (30.9%), beige (11.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.0)

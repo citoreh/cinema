@@ -1,0 +1,13 @@
+Scene 341
+Frame timestamp: 1392.792s (00:23:12.791) — roughly 27% through the video
+Scene span: 1390.50s → 1395.08s (duration ~4.58s)
+
+What's in the frame: ##oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo close up close to see this is this is a woman in the face she ' s that
+Additional detail: a detailed photo of a woman talking to a man in a living room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.2/255)
+  - Color palette: muted colors — dominant colors: black (53.8%), brown (40.7%), beige (5.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 102.6)

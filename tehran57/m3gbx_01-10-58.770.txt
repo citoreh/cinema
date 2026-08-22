@@ -1,0 +1,13 @@
+Scene 946
+Frame timestamp: 4258.771s (01:10:58.770) — roughly 83% through the video
+Scene span: 4255.88s → 4261.67s (duration ~5.79s)
+
+What's in the frame: there is a woman in a pink coat and scarf standing in front of a mirror
+Additional detail: a detailed photo of a woman in a pink coat and scarf
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.0/255)
+  - Color palette: muted colors — dominant colors: black (41.5%), brown (29.7%), gray (28.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.1)

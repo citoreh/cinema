@@ -1,0 +1,13 @@
+Scene 896
+Frame timestamp: 3936.708s (01:05:36.708) — roughly 77% through the video
+Scene span: 3935.83s → 3937.58s (duration ~1.75s)
+
+What's in the frame: there is a woman that is standing on a balcony talking on a cell phone
+Additional detail: a detailed photo of a woman wearing a headscarf on a balcony
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 89.2/255)
+  - Color palette: muted colors — dominant colors: brown (34.8%), gray (33.6%), black (31.6%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 200.0)

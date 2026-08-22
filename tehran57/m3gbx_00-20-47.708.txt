@@ -1,0 +1,13 @@
+Scene 306
+Frame timestamp: 1247.708s (00:20:47.708) — roughly 24% through the video
+Scene span: 1246.58s → 1248.83s (duration ~2.25s)
+
+What's in the frame: there is a man that is holding a camera and talking on the phone
+Additional detail: a detailed photo of a man in an orange vest and hat holding a camera
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.0/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (50.0%), brown (27.8%), gold (22.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 68.2)

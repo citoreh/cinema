@@ -1,0 +1,13 @@
+Scene 608
+Frame timestamp: 2517.646s (00:41:57.645) — roughly 49% through the video
+Scene span: 2517.25s → 2518.04s (duration ~0.79s)
+
+What's in the frame: this is a close up of a person cleaning a red car
+Additional detail: a detailed photo of a person painting a red car with a yellow sponge
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: bright / well-lit (avg brightness 138.6/255)
+  - Color palette: muted colors — dominant colors: gray (55.0%), black (26.1%), beige (19.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 40.4)

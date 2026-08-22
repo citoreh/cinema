@@ -1,0 +1,13 @@
+Scene 503
+Frame timestamp: 2160.583s (00:36:00.583) — roughly 42% through the video
+Scene span: 2159.62s → 2161.54s (duration ~1.92s)
+
+What's in the frame: there is a man with a mustache and a moustache sitting in the back seat of a car
+Additional detail: a detailed photo of a man with a mustache and moustache holding a baseball bat
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.5/255)
+  - Color palette: muted colors — dominant colors: black (49.0%), gray (46.0%), beige (5.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 28.8)

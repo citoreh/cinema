@@ -1,0 +1,13 @@
+Scene 323
+Frame timestamp: 1334.833s (00:22:14.833) — roughly 26% through the video
+Scene span: 1334.08s → 1335.58s (duration ~1.50s)
+
+What's in the frame: there is a woman that is standing in front of a mirror
+Additional detail: a detailed photo of a woman laughing in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.8/255)
+  - Color palette: muted colors — dominant colors: black (55.5%), brown (41.5%), white (3.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 75.3)

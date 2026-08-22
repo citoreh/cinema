@@ -1,0 +1,13 @@
+Scene 47
+Frame timestamp: 562.583s (00:09:22.583) — roughly 11% through the video
+Scene span: 561.67s → 563.50s (duration ~1.83s)
+
+What's in the frame: there is a man sitting at a table with a glass of wine in front of him
+Additional detail: a detailed photo of a man sitting at a table with a glass of wine
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.1/255)
+  - Color palette: muted colors — dominant colors: black (58.2%), brown (28.3%), gray (13.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 49.3)

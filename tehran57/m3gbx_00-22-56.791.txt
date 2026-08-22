@@ -1,0 +1,13 @@
+Scene 335
+Frame timestamp: 1376.792s (00:22:56.791) — roughly 27% through the video
+Scene span: 1376.38s → 1377.21s (duration ~0.83s)
+
+What's in the frame: there is a woman standing in front of a mirror talking to a man
+Additional detail: a detailed photo of a woman talking to a man in a living room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.7/255)
+  - Color palette: muted colors — dominant colors: black (47.0%), brown (37.5%), gray (15.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 92.1)

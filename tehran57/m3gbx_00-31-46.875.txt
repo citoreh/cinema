@@ -1,0 +1,13 @@
+Scene 447
+Frame timestamp: 1906.875s (00:31:46.875) — roughly 37% through the video
+Scene span: 1903.62s → 1910.12s (duration ~6.50s)
+
+What's in the frame: this is a picture of a man driving a red car down the street
+Additional detail: a detailed photo of a man driving a red car with a dog in the passenger seat
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 111.0/255)
+  - Color palette: muted colors — dominant colors: black (35.8%), beige (34.0%), gray (30.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 63.3)

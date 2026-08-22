@@ -1,0 +1,13 @@
+Scene 804
+Frame timestamp: 3579.083s (00:59:39.083) — roughly 70% through the video
+Scene span: 3578.58s → 3579.58s (duration ~1.00s)
+
+What's in the frame: there are two men sitting next to each other in a dark room
+Additional detail: a detailed photo of two men sitting next to each other in a dark room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 20.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (63.9%), black (26.9%), brown (9.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.1)

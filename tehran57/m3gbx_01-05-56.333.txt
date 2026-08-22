@@ -1,0 +1,13 @@
+Scene 906
+Frame timestamp: 3956.333s (01:05:56.333) — roughly 77% through the video
+Scene span: 3953.88s → 3958.79s (duration ~4.92s)
+
+What's in the frame: ##oooooooooooooooooooooooooooooooooo close up of a woman with a scarf on
+Additional detail: a detailed photo of a woman wearing a headscarf and a scarf
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.5/255)
+  - Color palette: muted colors — dominant colors: black (43.8%), brown (37.9%), gray (18.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.7)

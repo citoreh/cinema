@@ -1,0 +1,13 @@
+Scene 372
+Frame timestamp: 1495.271s (00:24:55.270) — roughly 29% through the video
+Scene span: 1494.04s → 1496.50s (duration ~2.46s)
+
+What's in the frame: there is a man that is holding a phone in his hand
+Additional detail: a detailed photo of a young man holding a corded telephone in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 85.7/255)
+  - Color palette: muted colors — dominant colors: black (50.0%), brown (29.6%), beige (20.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 65.3)

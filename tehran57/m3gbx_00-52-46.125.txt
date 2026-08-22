@@ -1,0 +1,13 @@
+Scene 706
+Frame timestamp: 3166.125s (00:52:46.125) — roughly 62% through the video
+Scene span: 3164.75s → 3167.50s (duration ~2.75s)
+
+What's in the frame: there is a man wearing a hat and a suit sitting in front of a plant
+Additional detail: a detailed photo of a man wearing a suit and a hat
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.3/255)
+  - Color palette: muted colors — dominant colors: black (45.0%), brown (37.5%), gray (17.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 24.4)

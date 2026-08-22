@@ -1,0 +1,13 @@
+Scene 376
+Frame timestamp: 1506.688s (00:25:06.687) — roughly 29% through the video
+Scene span: 1502.08s → 1511.29s (duration ~9.21s)
+
+What's in the frame: there is a woman that is holding a wii remote in her hand
+Additional detail: a detailed photo of a woman standing in front of a mirror holding a hair dryer
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.3/255)
+  - Color palette: muted colors — dominant colors: black (56.2%), brown (29.9%), beige (13.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 38.5)

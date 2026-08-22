@@ -1,0 +1,13 @@
+Scene 736
+Frame timestamp: 3266.792s (00:54:26.791) — roughly 64% through the video
+Scene span: 3265.38s → 3268.21s (duration ~2.83s)
+
+What's in the frame: there are two men standing next to each other in front of a fence
+Additional detail: a detailed photo of a man in a suit talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.3/255)
+  - Color palette: muted colors — dominant colors: brown (49.5%), black (36.1%), beige (14.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 70.3)

@@ -1,0 +1,13 @@
+Scene 907
+Frame timestamp: 3959.208s (01:05:59.208) — roughly 77% through the video
+Scene span: 3958.79s → 3959.62s (duration ~0.83s)
+
+What's in the frame: there are two men that are standing next to each other
+Additional detail: a detailed photo of two men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 90.7/255)
+  - Color palette: muted colors — dominant colors: brown (46.1%), black (32.0%), beige (21.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 354.4)

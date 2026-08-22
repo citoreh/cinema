@@ -1,0 +1,13 @@
+Scene 484
+Frame timestamp: 2064.292s (00:34:24.291) — roughly 40% through the video
+Scene span: 2063.12s → 2065.46s (duration ~2.33s)
+
+What's in the frame: this is an image of a man in a suit and tie with a surprised look on his face
+Additional detail: a detailed photo of a man in a suit and tie with a surprised look on his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.4/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (47.3%), brown (42.2%), gold (10.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 24.6)

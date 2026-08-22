@@ -1,0 +1,13 @@
+Scene 471
+Frame timestamp: 2029.417s (00:33:49.416) — roughly 40% through the video
+Scene span: 2028.25s → 2030.58s (duration ~2.33s)
+
+What's in the frame: this is an image of a man waving his hands in front of a group of people
+Additional detail: a detailed photo of a man waving his hands in front of a group of people
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 76.5/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (52.0%), black (35.2%), gold (12.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.0)

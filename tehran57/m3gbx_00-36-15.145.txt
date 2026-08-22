@@ -1,0 +1,13 @@
+Scene 511
+Frame timestamp: 2175.146s (00:36:15.145) — roughly 42% through the video
+Scene span: 2173.46s → 2176.83s (duration ~3.38s)
+
+What's in the frame: this is an image of a man with a fake mustache holding a pair of scissors
+Additional detail: a detailed photo of a man with a fake moustache holding a pair of scissors
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.6/255)
+  - Color palette: muted colors — dominant colors: gray (37.5%), navy (36.1%), black (26.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.9)

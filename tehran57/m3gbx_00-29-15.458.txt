@@ -1,0 +1,13 @@
+Scene 416
+Frame timestamp: 1755.458s (00:29:15.458) — roughly 34% through the video
+Scene span: 1754.96s → 1755.96s (duration ~1.00s)
+
+What's in the frame: there is a man and a woman standing in front of a building
+Additional detail: a detailed photo of a couple of people standing in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.4/255)
+  - Color palette: muted colors — dominant colors: brown (45.2%), black (44.0%), beige (10.8%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 478.5)

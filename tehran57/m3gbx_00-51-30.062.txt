@@ -1,0 +1,13 @@
+Scene 676
+Frame timestamp: 3090.062s (00:51:30.062) — roughly 60% through the video
+Scene span: 3087.71s → 3092.42s (duration ~4.71s)
+
+What's in the frame: there are two men that are talking to each other in a room
+Additional detail: a detailed photo of two men talking to each other in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 37.5/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (57.5%), black (23.5%), brown (18.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.8)

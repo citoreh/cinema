@@ -1,0 +1,13 @@
+Scene 107
+Frame timestamp: 750.708s (00:12:30.708) — roughly 15% through the video
+Scene span: 749.33s → 752.08s (duration ~2.75s)
+
+What's in the frame: there are two men sitting at a table with plates of food and glasses of wine
+Additional detail: a detailed photo of a couple of men sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 76.9/255)
+  - Color palette: muted colors — dominant colors: black (49.9%), brown (36.5%), beige (13.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 80.9)

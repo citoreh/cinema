@@ -1,0 +1,13 @@
+Scene 522
+Frame timestamp: 2273.604s (00:37:53.604) — roughly 44% through the video
+Scene span: 2272.71s → 2274.50s (duration ~1.79s)
+
+What's in the frame: there is a man that is sitting in the back seat of a car
+Additional detail: a detailed photo of a man with a mustache in a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.5/255)
+  - Color palette: muted colors — dominant colors: black (53.4%), brown (28.6%), gray (18.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 30.4)

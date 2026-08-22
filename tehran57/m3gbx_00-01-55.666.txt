@@ -1,0 +1,13 @@
+Scene 28
+Frame timestamp: 115.667s (00:01:55.666) — roughly 2% through the video
+Scene span: 112.29s → 119.04s (duration ~6.75s)
+
+What's in the frame: there is a man that is holding a piece of paper in his hand
+Additional detail: a detailed photo of a man holding a piece of paper in front of his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 110.1/255)
+  - Color palette: muted colors — dominant colors: beige (37.5%), black (36.8%), gray (25.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 90.0)

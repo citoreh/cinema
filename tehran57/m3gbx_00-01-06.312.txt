@@ -1,0 +1,13 @@
+Scene 13
+Frame timestamp: 66.312s (00:01:06.312) — roughly 1% through the video
+Scene span: 63.75s → 68.88s (duration ~5.12s)
+
+What's in the frame: there is a man in a suit and tie standing in front of a store
+Additional detail: a detailed photo of a man in a suit and tie standing in front of a store
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 104.5/255)
+  - Color palette: muted colors — dominant colors: olive (39.9%), black (39.6%), beige (20.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 183.1)

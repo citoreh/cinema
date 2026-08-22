@@ -1,0 +1,13 @@
+Scene 951
+Frame timestamp: 4298.000s (01:11:38.000) — roughly 84% through the video
+Scene span: 4295.88s → 4300.12s (duration ~4.25s)
+
+What's in the frame: there is a man in a suit and tie standing in front of a window
+Additional detail: a detailed photo of a man in a suit standing in front of a window
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.5/255)
+  - Color palette: muted colors — dominant colors: black (61.8%), brown (22.4%), beige (15.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 24.3)

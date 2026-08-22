@@ -1,0 +1,13 @@
+Scene 691
+Frame timestamp: 3135.125s (00:52:15.125) — roughly 61% through the video
+Scene span: 3133.04s → 3137.21s (duration ~4.17s)
+
+What's in the frame: there are two men that are standing next to each other with their mouths open
+Additional detail: a detailed photo of two men in suits and hats with their mouths open
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 39.1/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (52.7%), black (26.9%), brown (20.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.4)

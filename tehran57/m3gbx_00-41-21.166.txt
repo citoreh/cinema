@@ -1,0 +1,13 @@
+Scene 603
+Frame timestamp: 2481.167s (00:41:21.166) — roughly 48% through the video
+Scene span: 2480.54s → 2481.79s (duration ~1.25s)
+
+What's in the frame: there is a man that is brushing his teeth with a toothbrush
+Additional detail: a detailed photo of a man brushing his teeth in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.5/255)
+  - Color palette: muted colors — dominant colors: black (61.6%), brown (19.4%), gray (19.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.6)

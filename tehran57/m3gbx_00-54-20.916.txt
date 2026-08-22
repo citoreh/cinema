@@ -1,0 +1,13 @@
+Scene 733
+Frame timestamp: 3260.917s (00:54:20.916) — roughly 64% through the video
+Scene span: 3260.33s → 3261.50s (duration ~1.17s)
+
+What's in the frame: several people standing in front of a fence talking to each other
+Additional detail: a detailed photo of a group of people standing in front of a fence
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.8/255)
+  - Color palette: muted colors — dominant colors: black (44.9%), brown (38.7%), gray (16.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 105.5)

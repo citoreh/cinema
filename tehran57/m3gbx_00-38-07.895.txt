@@ -1,0 +1,13 @@
+Scene 526
+Frame timestamp: 2287.896s (00:38:07.895) — roughly 45% through the video
+Scene span: 2286.04s → 2289.75s (duration ~3.71s)
+
+What's in the frame: this is an image of a man with a hair brush in his hand
+Additional detail: a detailed photo of a man sitting in a car with a hair brush in his hand
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.5/255)
+  - Color palette: muted colors — dominant colors: black (52.5%), brown (27.0%), gray (20.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 62.1)

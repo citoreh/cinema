@@ -1,0 +1,13 @@
+Scene 70
+Frame timestamp: 614.292s (00:10:14.291) — roughly 12% through the video
+Scene span: 613.29s → 615.29s (duration ~2.00s)
+
+What's in the frame: there is a man sitting at a table with a glass of wine and a cigar in his hand
+Additional detail: a detailed photo of a man sitting at a table with a glass of wine
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 61.2/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (48.0%), black (31.5%), gray (20.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 93.2)

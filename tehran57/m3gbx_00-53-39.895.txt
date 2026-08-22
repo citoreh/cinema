@@ -1,0 +1,13 @@
+Scene 720
+Frame timestamp: 3219.896s (00:53:39.895) — roughly 63% through the video
+Scene span: 3219.25s → 3220.54s (duration ~1.29s)
+
+What's in the frame: there are two men standing next to each other in front of a car
+Additional detail: a detailed photo of two men standing next to each other in front of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.9/255)
+  - Color palette: muted colors — dominant colors: black (51.7%), brown (24.3%), gray (24.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.0)

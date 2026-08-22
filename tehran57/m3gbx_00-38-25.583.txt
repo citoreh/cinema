@@ -1,0 +1,13 @@
+Scene 535
+Frame timestamp: 2305.583s (00:38:25.583) — roughly 45% through the video
+Scene span: 2304.71s → 2306.46s (duration ~1.75s)
+
+What's in the frame: there is a man sitting in the back seat of a car with his mouth open
+Additional detail: a detailed photo of a man sitting in a car with his mouth open
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 61.4/255)
+  - Color palette: muted colors — dominant colors: black (54.8%), brown (36.0%), gray (9.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.4)

@@ -1,0 +1,13 @@
+Scene 803
+Frame timestamp: 3577.646s (00:59:37.645) — roughly 70% through the video
+Scene span: 3576.71s → 3578.58s (duration ~1.88s)
+
+What's in the frame: there is a man with a beard standing next to a man in uniform
+Additional detail: a detailed photo of a man in uniform standing next to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 25.1/255)
+  - Color palette: muted colors — dominant colors: black (58.5%), black (25.6%), brown (15.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 10.0)

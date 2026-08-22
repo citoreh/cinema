@@ -1,0 +1,13 @@
+Scene 315
+Frame timestamp: 1316.958s (00:21:56.958) — roughly 26% through the video
+Scene span: 1316.04s → 1317.88s (duration ~1.83s)
+
+What's in the frame: there is a woman that is standing in front of a mirror
+Additional detail: a detailed photo of a woman in a floral shirt and a purple turban
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.8/255)
+  - Color palette: muted colors — dominant colors: black (54.6%), brown (42.6%), white (2.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 87.8)

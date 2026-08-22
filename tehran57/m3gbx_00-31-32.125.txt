@@ -1,0 +1,13 @@
+Scene 445
+Frame timestamp: 1892.125s (00:31:32.125) — roughly 37% through the video
+Scene span: 1889.17s → 1895.08s (duration ~5.92s)
+
+What's in the frame: there is a man that is walking down the street with a suitcase
+Additional detail: a detailed photo of a man in a suit walking down the street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 106.8/255)
+  - Color palette: muted colors — dominant colors: gray (37.9%), black (33.6%), beige (28.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 50.7)

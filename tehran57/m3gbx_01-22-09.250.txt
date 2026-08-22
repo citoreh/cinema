@@ -1,0 +1,13 @@
+Scene 1008
+Frame timestamp: 4929.250s (01:22:09.250) — roughly 96% through the video
+Scene span: 4926.12s → 4932.38s (duration ~6.25s)
+
+What's in the frame: there is a man that is looking out the window of an airplane
+Additional detail: a detailed photo of a man looking out the window of an airplane
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 120.8/255)
+  - Color palette: muted colors — dominant colors: brown (39.3%), gray (35.4%), black (25.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 31.5)

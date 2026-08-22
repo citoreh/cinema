@@ -1,0 +1,13 @@
+Scene 796
+Frame timestamp: 3536.292s (00:58:56.291) — roughly 69% through the video
+Scene span: 3535.88s → 3536.71s (duration ~0.83s)
+
+What's in the frame: there is a man that is laying down with a cat
+Additional detail: a detailed photo of a man with a beard laying on a bed
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (42.4%), black (37.0%), brown (20.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 8.2)

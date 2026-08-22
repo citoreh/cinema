@@ -1,0 +1,13 @@
+Scene 433
+Frame timestamp: 1845.458s (00:30:45.458) — roughly 36% through the video
+Scene span: 1844.96s → 1845.96s (duration ~1.00s)
+
+What's in the frame: there is a man and woman talking to each other in front of a brick building
+Additional detail: a detailed photo of a man in a turban talking to a woman
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 92.2/255)
+  - Color palette: muted colors — dominant colors: black (40.6%), gray (36.0%), brown (23.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 96.3)

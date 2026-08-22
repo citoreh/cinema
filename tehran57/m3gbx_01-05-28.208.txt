@@ -1,0 +1,13 @@
+Scene 892
+Frame timestamp: 3928.208s (01:05:28.208) — roughly 77% through the video
+Scene span: 3926.58s → 3929.83s (duration ~3.25s)
+
+What's in the frame: there are two people standing next to each other near a water fountain
+Additional detail: a detailed photo of a couple of men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.5/255)
+  - Color palette: muted colors — dominant colors: brown (38.1%), gray (31.2%), black (30.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 117.3)

@@ -1,0 +1,13 @@
+Scene 434
+Frame timestamp: 1846.771s (00:30:46.770) — roughly 36% through the video
+Scene span: 1845.96s → 1847.58s (duration ~1.62s)
+
+What's in the frame: there are two men standing next to each other and one has a cell phone in his hand
+Additional detail: a detailed photo of a man in a fedora talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 98.1/255)
+  - Color palette: muted colors — dominant colors: black (42.7%), beige (32.2%), brown (25.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 62.4)

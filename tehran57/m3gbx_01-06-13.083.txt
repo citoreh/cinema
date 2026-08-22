@@ -1,0 +1,13 @@
+Scene 914
+Frame timestamp: 3973.083s (01:06:13.083) — roughly 77% through the video
+Scene span: 3972.67s → 3973.50s (duration ~0.83s)
+
+What's in the frame: there is a woman that is wearing a scarf and has a bird in her hand
+Additional detail: a detailed photo of a woman wearing a scarf and a birdcage
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.9/255)
+  - Color palette: muted colors — dominant colors: black (47.7%), brown (36.2%), gray (16.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 45.2)

@@ -1,0 +1,13 @@
+Scene 692
+Frame timestamp: 3137.854s (00:52:17.854) — roughly 61% through the video
+Scene span: 3137.21s → 3138.50s (duration ~1.29s)
+
+What's in the frame: there is a young man wearing a blue hat and a white scarf
+Additional detail: a detailed photo of a young man wearing a blue and white headdress
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 48.2/255)
+  - Color palette: muted colors — dominant colors: black (53.4%), brown (37.2%), gray (9.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 12.6)

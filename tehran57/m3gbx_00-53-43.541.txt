@@ -1,0 +1,13 @@
+Scene 723
+Frame timestamp: 3223.542s (00:53:43.541) — roughly 63% through the video
+Scene span: 3222.96s → 3224.12s (duration ~1.17s)
+
+What's in the frame: there is a woman in a scarf and gloves sitting at a table
+Additional detail: a detailed photo of a woman in a scarf and gloves sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 86.5/255)
+  - Color palette: muted colors — dominant colors: black (42.2%), gray (34.7%), brown (23.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 28.3)

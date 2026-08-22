@@ -1,0 +1,13 @@
+Scene 651
+Frame timestamp: 2806.250s (00:46:46.250) — roughly 55% through the video
+Scene span: 2805.62s → 2806.88s (duration ~1.25s)
+
+What's in the frame: there is a man that is sitting in the back of a car
+Additional detail: a detailed photo of a man sitting in the back of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.7/255)
+  - Color palette: muted colors — dominant colors: black (47.7%), beige (28.3%), navy (24.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 83.3)

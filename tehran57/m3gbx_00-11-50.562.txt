@@ -1,0 +1,13 @@
+Scene 94
+Frame timestamp: 710.562s (00:11:50.562) — roughly 14% through the video
+Scene span: 709.38s → 711.75s (duration ~2.38s)
+
+What's in the frame: there is a man and a woman sitting at a table in a restaurant
+Additional detail: a detailed photo of a man and a woman sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.0/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (58.6%), brown (34.0%), gray (7.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 52.0)

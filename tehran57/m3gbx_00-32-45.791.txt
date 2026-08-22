@@ -1,0 +1,13 @@
+Scene 464
+Frame timestamp: 1965.792s (00:32:45.791) — roughly 38% through the video
+Scene span: 1961.00s → 1970.58s (duration ~9.58s)
+
+What's in the frame: there is a man that is standing in front of a microphone
+Additional detail: a detailed photo of a man singing into a microphone in front of a group of people
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.7/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (37.3%), olive (32.8%), brown (29.9%)
+  - Composition: busy / detailed composition with lots of edges and texture
+  - Focus/motion: sharp / in focus (sharpness score 738.4)

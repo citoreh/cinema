@@ -1,0 +1,13 @@
+Scene 385
+Frame timestamp: 1609.667s (00:26:49.666) — roughly 31% through the video
+Scene span: 1598.12s → 1621.21s (duration ~23.08s)
+
+What's in the frame: there is a man and a woman standing on the street with an orange frisbee
+Additional detail: a detailed photo of a man holding a frisbee next to a woman
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 82.0/255)
+  - Color palette: muted colors — dominant colors: brown (45.0%), black (37.3%), beige (17.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 145.2)

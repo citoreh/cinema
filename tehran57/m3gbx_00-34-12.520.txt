@@ -1,0 +1,13 @@
+Scene 479
+Frame timestamp: 2052.521s (00:34:12.520) — roughly 40% through the video
+Scene span: 2051.08s → 2053.96s (duration ~2.88s)
+
+What's in the frame: there is a man in a suit and tie standing in front of a gold curtain
+Additional detail: a detailed photo of a man in a suit and tie talking to a woman
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 91.6/255)
+  - Color palette: muted colors — dominant colors: black (50.9%), olive (29.5%), beige (19.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 88.0)

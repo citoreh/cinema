@@ -1,0 +1,13 @@
+Scene 627
+Frame timestamp: 2743.292s (00:45:43.291) — roughly 53% through the video
+Scene span: 2739.33s → 2747.25s (duration ~7.92s)
+
+What's in the frame: there is a man and a woman standing next to a car with the hood open
+Additional detail: a detailed photo of a couple of people standing next to a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.5/255)
+  - Color palette: muted colors — dominant colors: black (51.0%), brown (34.0%), beige (15.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 250.1)

@@ -1,0 +1,13 @@
+Scene 21
+Frame timestamp: 89.438s (00:01:29.437) — roughly 2% through the video
+Scene span: 88.88s → 90.00s (duration ~1.12s)
+
+What's in the frame: there is a man that is looking through the bars of a store
+Additional detail: a detailed photo of a man in a store looking through a window
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 100.8/255)
+  - Color palette: muted colors — dominant colors: black (36.4%), green (34.2%), gray (29.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 234.2)

@@ -1,0 +1,13 @@
+Scene 55
+Frame timestamp: 583.479s (00:09:43.479) — roughly 11% through the video
+Scene span: 582.54s → 584.42s (duration ~1.88s)
+
+What's in the frame: there is a man that is sitting at a table with a cigar in his hand
+Additional detail: a detailed photo of a man sitting at a table with a cigar in his hand
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.9/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (48.6%), black (34.9%), gray (16.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 210.6)

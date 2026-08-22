@@ -1,0 +1,13 @@
+Scene 44
+Frame timestamp: 555.833s (00:09:15.833) — roughly 11% through the video
+Scene span: 554.71s → 556.96s (duration ~2.25s)
+
+What's in the frame: overhead view of a group of people sitting at a table with plates of food
+Additional detail: a detailed photo of a group of people sitting at a table with plates of food
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 93.4/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (51.9%), black (35.4%), gold (12.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 139.3)

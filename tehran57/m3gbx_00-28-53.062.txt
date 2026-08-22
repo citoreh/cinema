@@ -1,0 +1,13 @@
+Scene 409
+Frame timestamp: 1733.062s (00:28:53.062) — roughly 34% through the video
+Scene span: 1732.25s → 1733.88s (duration ~1.62s)
+
+What's in the frame: there is a man with a moustache on his face talking to another man
+Additional detail: a detailed photo of a man with a mustache talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 104.2/255)
+  - Color palette: muted colors — dominant colors: black (38.8%), gray (33.0%), beige (28.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 45.4)

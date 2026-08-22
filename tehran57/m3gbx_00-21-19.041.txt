@@ -1,0 +1,13 @@
+Scene 311
+Frame timestamp: 1279.042s (00:21:19.041) — roughly 25% through the video
+Scene span: 1260.71s → 1297.38s (duration ~36.67s)
+
+What's in the frame: there is a man sitting on a couch talking on a green phone
+Additional detail: a detailed photo of a man talking on a green phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.2/255)
+  - Color palette: muted colors — dominant colors: black (56.4%), brown (35.8%), beige (7.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 57.2)

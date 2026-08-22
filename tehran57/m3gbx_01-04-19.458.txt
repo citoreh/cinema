@@ -1,0 +1,13 @@
+Scene 877
+Frame timestamp: 3859.458s (01:04:19.458) — roughly 75% through the video
+Scene span: 3858.29s → 3860.62s (duration ~2.33s)
+
+What's in the frame: there are two men standing next to each other in a room
+Additional detail: a detailed photo of a man with a beard talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.3/255)
+  - Color palette: muted colors — dominant colors: brown (51.9%), black (34.6%), beige (13.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 142.3)

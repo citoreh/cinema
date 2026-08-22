@@ -1,0 +1,13 @@
+Scene 299
+Frame timestamp: 1236.812s (00:20:36.812) — roughly 24% through the video
+Scene span: 1235.92s → 1237.71s (duration ~1.79s)
+
+What's in the frame: there is a man in a suit and tie standing next to a man in a suit
+Additional detail: a detailed photo of a man in a suit and tie posing for a picture
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.2/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (45.7%), brown (28.9%), gold (25.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 40.8)

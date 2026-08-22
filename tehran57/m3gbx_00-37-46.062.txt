@@ -1,0 +1,13 @@
+Scene 520
+Frame timestamp: 2266.062s (00:37:46.062) — roughly 44% through the video
+Scene span: 2261.71s → 2270.42s (duration ~8.71s)
+
+What's in the frame: there is a man sitting in the driver ' s seat of a red car
+Additional detail: a detailed photo of a man sitting in the driver ' s seat of a red car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.2/255)
+  - Color palette: muted colors — dominant colors: black (43.4%), brown (37.9%), gray (18.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 112.5)

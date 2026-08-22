@@ -1,0 +1,13 @@
+Scene 790
+Frame timestamp: 3524.896s (00:58:44.895) — roughly 69% through the video
+Scene span: 3523.92s → 3525.88s (duration ~1.96s)
+
+What's in the frame: this is an image of a man and a woman posing for a picture
+Additional detail: a detailed photo of two men in suits posing for a picture
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (63.3%), black (25.4%), brown (11.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.1)

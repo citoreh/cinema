@@ -1,0 +1,13 @@
+Scene 105
+Frame timestamp: 746.312s (00:12:26.312) — roughly 15% through the video
+Scene span: 745.58s → 747.04s (duration ~1.46s)
+
+What's in the frame: there are two men sitting at a table with a newspaper in front of them
+Additional detail: a detailed photo of a couple of men sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 84.4/255)
+  - Color palette: muted colors — dominant colors: black (45.9%), brown (34.0%), beige (20.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 88.2)

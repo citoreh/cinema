@@ -1,0 +1,13 @@
+Scene 501
+Frame timestamp: 2153.292s (00:35:53.291) — roughly 42% through the video
+Scene span: 2152.71s → 2153.88s (duration ~1.17s)
+
+What's in the frame: there is a man with a mustache holding a pair of scissors in his hand
+Additional detail: a detailed photo of a man with a mustache holding a pair of scissors
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.5/255)
+  - Color palette: muted colors — dominant colors: gray (38.2%), navy (35.1%), black (26.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.3)

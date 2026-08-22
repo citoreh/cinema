@@ -1,0 +1,13 @@
+Scene 102
+Frame timestamp: 741.771s (00:12:21.770) — roughly 14% through the video
+Scene span: 741.17s → 742.38s (duration ~1.21s)
+
+What's in the frame: there is a man that is reading a newspaper in front of a mirror
+Additional detail: a detailed photo of a man reading a newspaper in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 84.8/255)
+  - Color palette: muted colors — dominant colors: black (47.2%), brown (33.2%), beige (19.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 133.9)

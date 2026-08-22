@@ -1,0 +1,13 @@
+Scene 361
+Frame timestamp: 1470.062s (00:24:30.062) — roughly 29% through the video
+Scene span: 1469.50s → 1470.62s (duration ~1.12s)
+
+What's in the frame: there is a blurry photo of a man standing in front of a rack of clothes
+Additional detail: a detailed photo of a man standing in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 44.3/255)
+  - Color palette: muted colors — dominant colors: black (75.1%), brown (14.5%), beige (10.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.9)

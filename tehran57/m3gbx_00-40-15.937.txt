@@ -1,0 +1,13 @@
+Scene 571
+Frame timestamp: 2415.938s (00:40:15.937) — roughly 47% through the video
+Scene span: 2414.83s → 2417.04s (duration ~2.21s)
+
+What's in the frame: there is a man holding his hands up to his face in front of a mirror
+Additional detail: a detailed photo of a close up of a man ' s face with his hands in front of his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.0/255)
+  - Color palette: muted colors — dominant colors: black (61.0%), brown (20.4%), beige (18.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.1)

@@ -1,0 +1,13 @@
+Scene 359
+Frame timestamp: 1462.438s (00:24:22.437) — roughly 28% through the video
+Scene span: 1458.71s → 1466.17s (duration ~7.46s)
+
+What's in the frame: there is a man in a suit and tie standing outside of a building
+Additional detail: a detailed photo of a man in a suit and tie standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 108.2/255)
+  - Color palette: muted colors — dominant colors: black (43.0%), beige (36.9%), gray (20.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 123.9)

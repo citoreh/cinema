@@ -1,0 +1,13 @@
+Scene 623
+Frame timestamp: 2713.688s (00:45:13.687) — roughly 53% through the video
+Scene span: 2711.21s → 2716.17s (duration ~4.96s)
+
+What's in the frame: there is a woman in a brown coat looking at her cell phone
+Additional detail: a detailed photo of a woman wearing a brown coat and a yellow scarf
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.0/255)
+  - Color palette: muted colors — dominant colors: black (48.8%), brown (42.3%), beige (8.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.5)

@@ -1,0 +1,13 @@
+Scene 825
+Frame timestamp: 3725.938s (01:02:05.937) — roughly 73% through the video
+Scene span: 3724.96s → 3726.92s (duration ~1.96s)
+
+What's in the frame: this is an image of a man with a beard standing in front of a door
+Additional detail: a detailed photo of a man with a beard standing in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 82.0/255)
+  - Color palette: muted colors — dominant colors: gray (48.8%), black (43.2%), white (8.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 40.3)

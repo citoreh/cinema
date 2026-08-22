@@ -1,0 +1,13 @@
+Scene 616
+Frame timestamp: 2563.333s (00:42:43.333) — roughly 50% through the video
+Scene span: 2561.42s → 2565.25s (duration ~3.83s)
+
+What's in the frame: there is a man in a suit and tie standing in front of a door
+Additional detail: a detailed photo of a man in a suit and tie standing in front of a door
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 90.5/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (48.9%), black (29.3%), gray (21.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 58.6)

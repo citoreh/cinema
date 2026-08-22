@@ -1,0 +1,13 @@
+Scene 250
+Frame timestamp: 1100.667s (00:18:20.666) — roughly 21% through the video
+Scene span: 1099.17s → 1102.17s (duration ~3.00s)
+
+What's in the frame: there is a woman sitting at a table with a plate of food in front of her
+Additional detail: a detailed photo of a woman sitting at a table in a restaurant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 48.3/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (54.5%), brown (37.8%), gray (7.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 12.6)

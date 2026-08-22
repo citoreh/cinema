@@ -1,0 +1,13 @@
+Scene 495
+Frame timestamp: 2143.208s (00:35:43.208) — roughly 42% through the video
+Scene span: 2142.12s → 2144.29s (duration ~2.17s)
+
+What's in the frame: this is an image of a car dashboard with a radio and steering wheel
+Additional detail: a detailed photo of a car dashboard with a radio and steering wheel
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.7/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (59.5%), brown (26.0%), gray (14.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 120.3)

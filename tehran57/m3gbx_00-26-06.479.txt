@@ -1,0 +1,13 @@
+Scene 380
+Frame timestamp: 1566.479s (00:26:06.479) — roughly 31% through the video
+Scene span: 1563.96s → 1569.00s (duration ~5.04s)
+
+What's in the frame: there are two men standing next to each other in front of a building
+Additional detail: a detailed photo of two men standing next to each other in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 88.5/255)
+  - Color palette: muted colors — dominant colors: brown (45.1%), black (37.4%), beige (17.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 75.4)

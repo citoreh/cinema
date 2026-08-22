@@ -1,0 +1,13 @@
+Scene 97
+Frame timestamp: 718.417s (00:11:58.416) — roughly 14% through the video
+Scene span: 717.79s → 719.04s (duration ~1.25s)
+
+What's in the frame: there are three men sitting at a table with drinks in front of them
+Additional detail: a detailed photo of a group of men sitting around a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.9/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (50.4%), brown (38.1%), gray (11.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 64.1)

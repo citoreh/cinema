@@ -1,0 +1,13 @@
+Scene 500
+Frame timestamp: 2152.104s (00:35:52.104) — roughly 42% through the video
+Scene span: 2151.50s → 2152.71s (duration ~1.21s)
+
+What's in the frame: there is a man in a suit and tie looking at his cell phone
+Additional detail: a detailed photo of a man in a suit and tie looking at his cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.8/255)
+  - Color palette: muted colors — dominant colors: brown (44.0%), gray (28.3%), black (27.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.4)

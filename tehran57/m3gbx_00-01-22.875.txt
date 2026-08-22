@@ -1,0 +1,13 @@
+Scene 19
+Frame timestamp: 82.875s (00:01:22.875) — roughly 2% through the video
+Scene span: 81.46s → 84.29s (duration ~2.83s)
+
+What's in the frame: there is a man that is sitting at a table in front of a stack of dice
+Additional detail: a detailed photo of a man sitting at a table in front of a store
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 99.7/255)
+  - Color palette: muted colors — dominant colors: green (36.5%), black (35.1%), gray (28.3%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 240.2)

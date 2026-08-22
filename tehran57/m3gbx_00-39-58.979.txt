@@ -1,0 +1,13 @@
+Scene 564
+Frame timestamp: 2398.979s (00:39:58.979) — roughly 47% through the video
+Scene span: 2398.67s → 2399.29s (duration ~0.62s)
+
+What's in the frame: there is a man that is sitting in the back seat of a car
+Additional detail: a detailed photo of a close up of a person in a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 71.3/255)
+  - Color palette: muted colors — dominant colors: black (66.4%), gray (20.0%), beige (13.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.6)

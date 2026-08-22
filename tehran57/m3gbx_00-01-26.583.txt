@@ -1,0 +1,13 @@
+Scene 20
+Frame timestamp: 86.583s (00:01:26.583) — roughly 2% through the video
+Scene span: 84.29s → 88.88s (duration ~4.58s)
+
+What's in the frame: this is an image of a man in a suit and tie talking on a cell phone
+Additional detail: a detailed photo of a man wearing a suit and tie in front of a window
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 98.8/255)
+  - Color palette: muted colors — dominant colors: black (40.9%), beige (35.0%), brown (24.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 83.4)

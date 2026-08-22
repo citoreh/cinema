@@ -1,0 +1,13 @@
+Scene 30
+Frame timestamp: 229.188s (00:03:49.187) — roughly 4% through the video
+Scene span: 208.38s → 250.00s (duration ~41.62s)
+
+What's in the frame: there is a man in a suit and tie standing next to a red car
+Additional detail: a detailed photo of a man standing in front of a red car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 90.6/255)
+  - Color palette: muted colors — dominant colors: brown (41.4%), black (37.4%), beige (21.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 89.5)

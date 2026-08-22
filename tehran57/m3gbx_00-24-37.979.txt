@@ -1,0 +1,13 @@
+Scene 366
+Frame timestamp: 1477.979s (00:24:37.979) — roughly 29% through the video
+Scene span: 1477.46s → 1478.50s (duration ~1.04s)
+
+What's in the frame: there is a man that is standing in front of a door talking on the phone
+Additional detail: a detailed photo of a man standing in front of a door holding a phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 84.5/255)
+  - Color palette: muted colors — dominant colors: black (49.6%), brown (27.0%), beige (23.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 70.8)

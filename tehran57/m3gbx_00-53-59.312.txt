@@ -1,0 +1,13 @@
+Scene 727
+Frame timestamp: 3239.312s (00:53:59.312) — roughly 63% through the video
+Scene span: 3237.17s → 3241.46s (duration ~4.29s)
+
+What's in the frame: there is a red car that is parked on the side of the street
+Additional detail: a detailed photo of a red car parked on the side of the road
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.8/255)
+  - Color palette: muted colors — dominant colors: black (53.8%), brown (36.7%), beige (9.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 303.7)

@@ -1,0 +1,13 @@
+Scene 238
+Frame timestamp: 917.917s (00:15:17.916) — roughly 18% through the video
+Scene span: 916.42s → 919.42s (duration ~3.00s)
+
+What's in the frame: there is a woman sitting at a table with a glass of wine in front of her
+Additional detail: a detailed photo of a woman sitting at a table in a restaurant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 47.9/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (56.6%), brown (37.6%), gray (5.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.5)

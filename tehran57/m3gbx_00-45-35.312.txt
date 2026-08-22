@@ -1,0 +1,13 @@
+Scene 625
+Frame timestamp: 2735.312s (00:45:35.312) — roughly 53% through the video
+Scene span: 2733.92s → 2736.71s (duration ~2.79s)
+
+What's in the frame: there is a man that is using a tool to paint a red car
+Additional detail: a detailed photo of a person ' s hand using a paint brush on a red car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.7/255)
+  - Color palette: muted colors — dominant colors: black (44.3%), brown (37.2%), gray (18.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.8)

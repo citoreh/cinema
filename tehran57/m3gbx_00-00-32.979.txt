@@ -1,0 +1,13 @@
+Scene 7
+Frame timestamp: 32.979s (00:00:32.979) — roughly 1% through the video
+Scene span: 31.92s → 34.04s (duration ~2.12s)
+
+What's in the frame: there is a sign on the side of a building with arabic writing on it
+Additional detail: a detailed photo of a sign on the side of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 93.3/255)
+  - Color palette: muted colors — dominant colors: brown (40.2%), black (37.1%), beige (22.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 140.4)

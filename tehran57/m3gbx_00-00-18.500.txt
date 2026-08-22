@@ -1,0 +1,13 @@
+Scene 3
+Frame timestamp: 18.500s (00:00:18.500) — roughly 0% through the video
+Scene span: 16.58s → 20.42s (duration ~3.83s)
+
+What's in the frame: there are many people walking down the sidewalk in the city
+Additional detail: a detailed photo of a group of people walking down a street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 93.4/255)
+  - Color palette: muted colors — dominant colors: black (44.2%), gray (34.9%), beige (20.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 80.6)

@@ -1,0 +1,13 @@
+Scene 10
+Frame timestamp: 54.375s (00:00:54.375) — roughly 1% through the video
+Scene span: 48.04s → 60.71s (duration ~12.67s)
+
+What's in the frame: there is a man in a suit sitting in the driver ' s seat of a car
+Additional detail: a detailed photo of a man sitting in the driver ' s seat of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 102.8/255)
+  - Color palette: muted colors — dominant colors: black (43.0%), gray (33.8%), beige (23.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 200.5)

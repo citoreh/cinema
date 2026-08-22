@@ -1,0 +1,13 @@
+Scene 223
+Frame timestamp: 868.854s (00:14:28.854) — roughly 17% through the video
+Scene span: 868.46s → 869.25s (duration ~0.79s)
+
+What's in the frame: there is a woman standing in front of a sign that says american club
+Additional detail: a detailed photo of a woman standing in front of a club sign
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.9/255)
+  - Color palette: muted colors — dominant colors: black (51.3%), brown (46.6%), gold (2.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 17.5)

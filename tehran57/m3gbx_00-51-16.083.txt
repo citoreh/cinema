@@ -1,0 +1,13 @@
+Scene 673
+Frame timestamp: 3076.083s (00:51:16.083) — roughly 60% through the video
+Scene span: 3072.88s → 3079.29s (duration ~6.42s)
+
+What's in the frame: this is an image of a man and a woman standing in front of a mirror
+Additional detail: a detailed photo of a man and a woman standing in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 38.7/255)
+  - Color palette: muted colors — dominant colors: black (69.1%), brown (19.6%), gray (11.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 15.0)

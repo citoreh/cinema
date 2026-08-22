@@ -1,0 +1,13 @@
+Scene 325
+Frame timestamp: 1338.354s (00:22:18.354) — roughly 26% through the video
+Scene span: 1336.96s → 1339.75s (duration ~2.79s)
+
+What's in the frame: there is a woman that is talking to a man in a room
+Additional detail: a detailed photo of a woman with a purple hat talking to a man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.3/255)
+  - Color palette: muted colors — dominant colors: black (57.2%), brown (39.7%), white (3.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 104.5)

@@ -1,0 +1,13 @@
+Scene 900
+Frame timestamp: 3942.979s (01:05:42.979) — roughly 77% through the video
+Scene span: 3942.62s → 3943.33s (duration ~0.71s)
+
+What's in the frame: there is a woman that is standing on a balcony talking on a cell phone
+Additional detail: a detailed photo of a woman standing on a balcony talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 89.1/255)
+  - Color palette: muted colors — dominant colors: brown (34.9%), gray (33.3%), black (31.8%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 183.1)

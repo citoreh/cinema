@@ -1,0 +1,13 @@
+Scene 81
+Frame timestamp: 635.500s (00:10:35.500) — roughly 12% through the video
+Scene span: 634.75s → 636.25s (duration ~1.50s)
+
+What's in the frame: there is a man sitting at a table with wine glasses in front of him
+Additional detail: a detailed photo of a man in a suit sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.7/255)
+  - Color palette: muted colors — dominant colors: black (54.8%), brown (34.6%), beige (10.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 31.2)

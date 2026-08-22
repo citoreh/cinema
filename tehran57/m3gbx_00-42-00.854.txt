@@ -1,0 +1,13 @@
+Scene 610
+Frame timestamp: 2520.854s (00:42:00.854) — roughly 49% through the video
+Scene span: 2520.46s → 2521.25s (duration ~0.79s)
+
+What's in the frame: this is a close up of a person ' s hand washing a red car
+Additional detail: a detailed photo of a woman ' s hand waxing a red car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: bright / well-lit (avg brightness 141.2/255)
+  - Color palette: muted colors — dominant colors: gray (45.8%), pink (28.3%), black (25.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 29.2)

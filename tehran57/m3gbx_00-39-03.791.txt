@@ -1,0 +1,13 @@
+Scene 549
+Frame timestamp: 2343.792s (00:39:03.791) — roughly 46% through the video
+Scene span: 2339.96s → 2347.62s (duration ~7.67s)
+
+What's in the frame: there is a man in a suit and tie sitting in the back seat of a car
+Additional detail: a detailed photo of a man in a suit and tie sitting in a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 61.2/255)
+  - Color palette: muted colors — dominant colors: black (60.6%), brown (34.7%), beige (4.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.9)

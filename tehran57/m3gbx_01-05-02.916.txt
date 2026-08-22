@@ -1,0 +1,13 @@
+Scene 891
+Frame timestamp: 3902.917s (01:05:02.916) — roughly 76% through the video
+Scene span: 3879.25s → 3926.58s (duration ~47.33s)
+
+What's in the frame: there are two men standing next to each other on a sidewalk
+Additional detail: a detailed photo of two men talking in front of a fence
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 98.2/255)
+  - Color palette: muted colors — dominant colors: gray (36.6%), black (35.0%), brown (28.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 112.0)

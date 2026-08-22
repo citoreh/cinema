@@ -1,0 +1,13 @@
+Scene 277
+Frame timestamp: 1185.438s (00:19:45.437) — roughly 23% through the video
+Scene span: 1184.08s → 1186.79s (duration ~2.71s)
+
+What's in the frame: several people sitting around a table with plates of food on it
+Additional detail: a detailed photo of a group of people sitting around a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 77.0/255)
+  - Color palette: muted colors — dominant colors: black (46.0%), brown (36.3%), beige (17.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 195.3)

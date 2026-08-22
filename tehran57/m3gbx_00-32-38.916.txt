@@ -1,0 +1,13 @@
+Scene 463
+Frame timestamp: 1958.917s (00:32:38.916) — roughly 38% through the video
+Scene span: 1956.83s → 1961.00s (duration ~4.17s)
+
+What's in the frame: there is a man and a woman standing in front of a table with wine glasses
+Additional detail: a detailed photo of a man giving a speech to a group of people
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 66.8/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (47.6%), black (42.0%), gray (10.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 49.6)

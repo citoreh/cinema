@@ -1,0 +1,13 @@
+Scene 806
+Frame timestamp: 3620.479s (01:00:20.479) — roughly 71% through the video
+Scene span: 3585.25s → 3655.71s (duration ~70.46s)
+
+What's in the frame: there is a man with a beard wearing a green jacket and a blue shirt
+Additional detail: a detailed photo of a man with a beard wearing a jacket and tie
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.3/255)
+  - Color palette: muted colors — dominant colors: black (37.5%), gray (33.6%), brown (29.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.5)

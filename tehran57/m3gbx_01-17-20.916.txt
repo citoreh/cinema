@@ -1,0 +1,13 @@
+Scene 979
+Frame timestamp: 4640.917s (01:17:20.916) — roughly 90% through the video
+Scene span: 4637.38s → 4644.46s (duration ~7.08s)
+
+What's in the frame: there is a man sitting at a table in front of a group of people
+Additional detail: a detailed photo of a man sitting at a table in front of a group of people
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.4/255)
+  - Color palette: muted colors — dominant colors: black (47.9%), brown (29.7%), gray (22.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 71.5)

@@ -1,0 +1,13 @@
+Scene 438
+Frame timestamp: 1858.417s (00:30:58.416) — roughly 36% through the video
+Scene span: 1856.38s → 1860.46s (duration ~4.08s)
+
+What's in the frame: there is a man in a turban standing next to a woman
+Additional detail: a detailed photo of a man in a turban talking to a woman
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 88.8/255)
+  - Color palette: muted colors — dominant colors: black (42.2%), gray (31.4%), brown (26.3%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 91.3)

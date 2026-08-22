@@ -1,0 +1,13 @@
+Scene 427
+Frame timestamp: 1797.271s (00:29:57.270) — roughly 35% through the video
+Scene span: 1788.38s → 1806.17s (duration ~17.79s)
+
+What's in the frame: there are two men standing next to each other in front of a building
+Additional detail: a detailed photo of three men standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 90.6/255)
+  - Color palette: muted colors — dominant colors: black (45.1%), beige (31.0%), gray (23.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 160.9)

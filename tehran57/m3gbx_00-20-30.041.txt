@@ -1,0 +1,13 @@
+Scene 296
+Frame timestamp: 1230.042s (00:20:30.041) — roughly 24% through the video
+Scene span: 1229.42s → 1230.67s (duration ~1.25s)
+
+What's in the frame: there are two men that are standing in front of a microphone
+Additional detail: a detailed photo of a man in a suit and tie standing next to another man in a suit and tie
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.6/255)
+  - Color palette: muted colors — dominant colors: black (55.2%), brown (27.2%), gold (17.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 46.0)

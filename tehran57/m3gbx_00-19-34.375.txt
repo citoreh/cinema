@@ -1,0 +1,13 @@
+Scene 271
+Frame timestamp: 1174.375s (00:19:34.375) — roughly 23% through the video
+Scene span: 1173.96s → 1174.79s (duration ~0.83s)
+
+What's in the frame: there are two men dressed in suits and ties sitting at a table
+Additional detail: a detailed photo of a man with a fake moustache on his face and another man with a fake moustache on his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 56.7/255)
+  - Color palette: muted colors — dominant colors: black (54.2%), brown (29.2%), gray (16.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 50.7)

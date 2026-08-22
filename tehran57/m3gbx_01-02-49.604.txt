@@ -1,0 +1,13 @@
+Scene 837
+Frame timestamp: 3769.604s (01:02:49.604) — roughly 73% through the video
+Scene span: 3768.75s → 3770.46s (duration ~1.71s)
+
+What's in the frame: there is a man that is standing in a room with post it notes on the wall
+Additional detail: a detailed photo of a man with a beard standing in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.8/255)
+  - Color palette: muted colors — dominant colors: gray (47.5%), black (44.7%), white (7.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.0)

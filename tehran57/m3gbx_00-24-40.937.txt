@@ -1,0 +1,13 @@
+Scene 367
+Frame timestamp: 1480.938s (00:24:40.937) — roughly 29% through the video
+Scene span: 1478.50s → 1483.38s (duration ~4.88s)
+
+What's in the frame: there is a man standing next to a woman in a room
+Additional detail: a detailed photo of a man in a vest and tie standing next to a woman
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.3/255)
+  - Color palette: muted colors — dominant colors: black (69.0%), gray (28.0%), white (3.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 93.4)

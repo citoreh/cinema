@@ -1,0 +1,13 @@
+Scene 87
+Frame timestamp: 670.125s (00:11:10.125) — roughly 13% through the video
+Scene span: 647.92s → 692.33s (duration ~44.42s)
+
+What's in the frame: there is a woman that is sitting at a table with a cell phone in her hand
+Additional detail: a detailed photo of a woman sitting at a table in a restaurant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.2/255)
+  - Color palette: muted colors — dominant colors: black (61.3%), brown (24.9%), gray (13.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 14.1)

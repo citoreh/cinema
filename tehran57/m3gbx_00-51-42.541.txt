@@ -1,0 +1,13 @@
+Scene 681
+Frame timestamp: 3102.542s (00:51:42.541) — roughly 60% through the video
+Scene span: 3100.08s → 3105.00s (duration ~4.92s)
+
+What's in the frame: this is an image of two men with afros talking to each other
+Additional detail: a detailed photo of a man with an afro and a moustache talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 35.0/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (45.4%), black (34.9%), brown (19.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.3)

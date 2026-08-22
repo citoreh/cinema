@@ -1,0 +1,13 @@
+Scene 717
+Frame timestamp: 3211.917s (00:53:31.916) — roughly 63% through the video
+Scene span: 3211.08s → 3212.75s (duration ~1.67s)
+
+What's in the frame: there is a woman wearing gloves and a hoodie sitting at a table
+Additional detail: a detailed photo of a close up of a person wearing gloves and a hoodie
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 99.4/255)
+  - Color palette: muted colors — dominant colors: gray (46.3%), black (36.5%), brown (17.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 31.0)

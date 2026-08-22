@@ -1,0 +1,13 @@
+Scene 59
+Frame timestamp: 595.208s (00:09:55.208) — roughly 12% through the video
+Scene span: 594.17s → 596.25s (duration ~2.08s)
+
+What's in the frame: there is a man that is sitting at a table talking on a cell phone
+Additional detail: a detailed photo of a man in a suit talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.0/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (45.8%), black (36.0%), gray (18.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 138.9)

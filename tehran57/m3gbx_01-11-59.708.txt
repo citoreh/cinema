@@ -1,0 +1,13 @@
+Scene 956
+Frame timestamp: 4319.708s (01:11:59.708) — roughly 84% through the video
+Scene span: 4318.50s → 4320.92s (duration ~2.42s)
+
+What's in the frame: there is a woman that is standing in front of a locker
+Additional detail: a detailed photo of a woman standing in front of a blue locker
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.5/255)
+  - Color palette: muted colors — dominant colors: black (39.2%), brown (36.8%), olive (24.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.3)

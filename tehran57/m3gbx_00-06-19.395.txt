@@ -1,0 +1,13 @@
+Scene 39
+Frame timestamp: 379.396s (00:06:19.395) — roughly 7% through the video
+Scene span: 377.96s → 380.83s (duration ~2.88s)
+
+What's in the frame: there is a close up of a purple car with a license plate on it
+Additional detail: a detailed photo of a purple car with a license plate on it ' s bumper
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 61.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (49.4%), brown (35.1%), gray (15.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 110.4)

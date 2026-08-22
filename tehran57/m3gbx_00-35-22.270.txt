@@ -1,0 +1,13 @@
+Scene 491
+Frame timestamp: 2122.271s (00:35:22.270) — roughly 41% through the video
+Scene span: 2111.92s → 2132.62s (duration ~20.71s)
+
+What's in the frame: there are two people that are sitting in the back seat of a car
+Additional detail: a detailed photo of a couple of people sitting in the driver ' s seat of a red car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 120.8/255)
+  - Color palette: muted colors — dominant colors: gray (39.4%), black (31.2%), beige (29.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 107.5)

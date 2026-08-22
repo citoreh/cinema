@@ -1,0 +1,13 @@
+Scene 365
+Frame timestamp: 1476.354s (00:24:36.354) — roughly 29% through the video
+Scene span: 1475.25s → 1477.46s (duration ~2.21s)
+
+What's in the frame: there is a man and a woman that are standing in front of a mirror
+Additional detail: a detailed photo of a man and woman standing in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.9/255)
+  - Color palette: muted colors — dominant colors: black (63.4%), gray (32.2%), beige (4.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 115.7)

@@ -1,0 +1,13 @@
+Scene 274
+Frame timestamp: 1178.833s (00:19:38.833) — roughly 23% through the video
+Scene span: 1178.33s → 1179.33s (duration ~1.00s)
+
+What's in the frame: there are two men in suits and one is holding a cell phone
+Additional detail: a detailed photo of a group of men dressed in suits and ties
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.2/255)
+  - Color palette: muted colors — dominant colors: black (57.6%), brown (24.2%), gray (18.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 37.8)

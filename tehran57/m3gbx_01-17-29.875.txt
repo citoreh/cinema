@@ -1,0 +1,13 @@
+Scene 980
+Frame timestamp: 4649.875s (01:17:29.875) — roughly 91% through the video
+Scene span: 4644.46s → 4655.29s (duration ~10.83s)
+
+What's in the frame: there is a man in a green jacket standing in front of a group of people
+Additional detail: a detailed photo of a man standing in front of a group of people
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.2/255)
+  - Color palette: muted colors — dominant colors: black (46.8%), brown (37.5%), gray (15.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 51.1)

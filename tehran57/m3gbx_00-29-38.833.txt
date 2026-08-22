@@ -1,0 +1,13 @@
+Scene 423
+Frame timestamp: 1778.833s (00:29:38.833) — roughly 35% through the video
+Scene span: 1778.04s → 1779.62s (duration ~1.58s)
+
+What's in the frame: there is a woman that is standing on a balcony talking on a cell phone
+Additional detail: a detailed photo of a woman standing on a balcony with a purple hat
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.7/255)
+  - Color palette: muted colors — dominant colors: black (37.6%), brown (37.2%), gray (25.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 88.7)

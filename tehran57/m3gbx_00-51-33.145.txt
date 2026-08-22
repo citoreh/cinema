@@ -1,0 +1,13 @@
+Scene 677
+Frame timestamp: 3093.146s (00:51:33.145) — roughly 60% through the video
+Scene span: 3092.42s → 3093.88s (duration ~1.46s)
+
+What's in the frame: this is an image of a woman wearing a headscarf in a mirror
+Additional detail: a detailed photo of a woman wearing a headscarf in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 47.5/255)
+  - Color palette: muted colors — dominant colors: black (53.2%), brown (34.6%), gray (12.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 13.8)

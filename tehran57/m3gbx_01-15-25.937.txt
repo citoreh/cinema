@@ -1,0 +1,13 @@
+Scene 967
+Frame timestamp: 4525.938s (01:15:25.937) — roughly 88% through the video
+Scene span: 4493.75s → 4558.12s (duration ~64.38s)
+
+What's in the frame: there is a man that is talking on the phone with a banana in his hand
+Additional detail: a detailed photo of a man talking on a phone while holding a banana
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 60.1/255)
+  - Color palette: muted colors — dominant colors: brown (43.2%), black (41.8%), gray (15.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 26.0)

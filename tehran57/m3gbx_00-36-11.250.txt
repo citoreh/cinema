@@ -1,0 +1,13 @@
+Scene 508
+Frame timestamp: 2171.250s (00:36:11.250) — roughly 42% through the video
+Scene span: 2170.79s → 2171.71s (duration ~0.92s)
+
+What's in the frame: there is a man sitting in the back seat of a car with his mouth open
+Additional detail: a detailed photo of a man with his mouth open in a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.6/255)
+  - Color palette: muted colors — dominant colors: brown (49.2%), black (27.4%), gray (23.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 15.7)

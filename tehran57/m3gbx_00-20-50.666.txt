@@ -1,0 +1,13 @@
+Scene 307
+Frame timestamp: 1250.667s (00:20:50.666) — roughly 24% through the video
+Scene span: 1248.83s → 1252.50s (duration ~3.67s)
+
+What's in the frame: there are a lot of people that are sitting around a table
+Additional detail: a detailed photo of a group of people sitting around a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 91.0/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (45.3%), brown (34.9%), gray (19.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 173.8)

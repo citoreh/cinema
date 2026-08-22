@@ -1,0 +1,13 @@
+Scene 619
+Frame timestamp: 2596.667s (00:43:16.666) — roughly 51% through the video
+Scene span: 2576.79s → 2616.54s (duration ~39.75s)
+
+What's in the frame: there is a man and a woman standing in front of a window
+Additional detail: a detailed photo of a couple of people standing in front of a window
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.0/255)
+  - Color palette: muted colors — dominant colors: brown (44.3%), black (40.7%), gray (15.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 50.8)

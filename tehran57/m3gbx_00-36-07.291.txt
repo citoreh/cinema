@@ -1,0 +1,13 @@
+Scene 506
+Frame timestamp: 2167.292s (00:36:07.291) — roughly 42% through the video
+Scene span: 2166.17s → 2168.42s (duration ~2.25s)
+
+What's in the frame: there is a man sitting in a car with his mouth open and a cell phone in his hand
+Additional detail: a detailed photo of a man in a car with his mouth open
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.5/255)
+  - Color palette: muted colors — dominant colors: brown (49.9%), black (27.4%), gray (22.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 14.0)

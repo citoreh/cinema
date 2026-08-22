@@ -1,0 +1,13 @@
+Scene 34
+Frame timestamp: 365.958s (00:06:05.958) — roughly 7% through the video
+Scene span: 364.42s → 367.50s (duration ~3.08s)
+
+What's in the frame: there is a man holding a sign in front of a pink car
+Additional detail: a detailed photo of a man holding a sign in front of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 102.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (48.7%), beige (36.3%), gray (15.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 52.5)

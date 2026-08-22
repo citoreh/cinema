@@ -1,0 +1,13 @@
+Scene 945
+Frame timestamp: 4248.312s (01:10:48.312) — roughly 83% through the video
+Scene span: 4240.75s → 4255.88s (duration ~15.12s)
+
+What's in the frame: there are two men that are talking to each other in the street
+Additional detail: a detailed photo of two men talking to each other in front of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 92.4/255)
+  - Color palette: muted colors — dominant colors: black (47.9%), gray (34.0%), beige (18.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 47.3)

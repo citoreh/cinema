@@ -1,0 +1,13 @@
+Scene 988
+Frame timestamp: 4740.583s (01:19:00.583) — roughly 92% through the video
+Scene span: 4726.33s → 4754.83s (duration ~28.50s)
+
+What's in the frame: there is a man holding a picture of himself in the middle of a room
+Additional detail: a detailed photo of a man with a mustache holding a picture of himself
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.2/255)
+  - Color palette: muted colors — dominant colors: black (44.5%), gray (42.5%), gray (13.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 48.4)

@@ -1,0 +1,13 @@
+Scene 999
+Frame timestamp: 4806.500s (01:20:06.500) — roughly 94% through the video
+Scene span: 4804.67s → 4808.33s (duration ~3.67s)
+
+What's in the frame: there is a man that is standing in front of a mirror
+Additional detail: a detailed photo of a man standing in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (40.4%), brown (32.9%), beige (26.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 49.1)

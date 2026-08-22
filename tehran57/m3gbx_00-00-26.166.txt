@@ -1,0 +1,13 @@
+Scene 5
+Frame timestamp: 26.167s (00:00:26.166) — roughly 1% through the video
+Scene span: 24.25s → 28.08s (duration ~3.83s)
+
+What's in the frame: there are many people walking down the street in front of a store
+Additional detail: a detailed photo of a group of people walking down a street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 92.7/255)
+  - Color palette: muted colors — dominant colors: black (38.6%), brown (31.8%), beige (29.6%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 170.5)

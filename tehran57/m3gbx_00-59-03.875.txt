@@ -1,0 +1,13 @@
+Scene 798
+Frame timestamp: 3543.875s (00:59:03.875) — roughly 69% through the video
+Scene span: 3542.92s → 3544.83s (duration ~1.92s)
+
+What's in the frame: there is a man with a beard laying on a bed
+Additional detail: a detailed photo of a man with a beard laying on a bed
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 31.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (43.1%), black (33.9%), brown (23.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 8.3)

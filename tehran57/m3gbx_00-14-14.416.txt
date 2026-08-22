@@ -1,0 +1,13 @@
+Scene 205
+Frame timestamp: 854.417s (00:14:14.416) — roughly 17% through the video
+Scene span: 854.04s → 854.79s (duration ~0.75s)
+
+What's in the frame: there is a man and a woman standing next to each other in front of a neon sign
+Additional detail: a detailed photo of a man and a woman standing in front of a neon sign
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 41.6/255)
+  - Color palette: muted colors — dominant colors: black (40.3%), brown (34.0%), black (25.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.4)

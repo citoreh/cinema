@@ -1,0 +1,13 @@
+Scene 319
+Frame timestamp: 1325.625s (00:22:05.625) — roughly 26% through the video
+Scene span: 1325.12s → 1326.12s (duration ~1.00s)
+
+What's in the frame: there is a woman reading a piece of paper in front of a man
+Additional detail: a detailed photo of a woman reading a piece of paper in a living room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.2/255)
+  - Color palette: muted colors — dominant colors: black (45.3%), brown (35.6%), beige (19.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 73.9)

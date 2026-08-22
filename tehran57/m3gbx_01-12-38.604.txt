@@ -1,0 +1,13 @@
+Scene 962
+Frame timestamp: 4358.604s (01:12:38.604) — roughly 85% through the video
+Scene span: 4352.67s → 4364.54s (duration ~11.88s)
+
+What's in the frame: there is a group of people that are standing outside of a building
+Additional detail: a detailed photo of a group of people standing in front of a door
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 92.6/255)
+  - Color palette: muted colors — dominant colors: gray (47.4%), black (42.6%), beige (10.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 181.5)

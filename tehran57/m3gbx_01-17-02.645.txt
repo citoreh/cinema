@@ -1,0 +1,13 @@
+Scene 976
+Frame timestamp: 4622.646s (01:17:02.645) — roughly 90% through the video
+Scene span: 4619.04s → 4626.25s (duration ~7.21s)
+
+What's in the frame: there is a man in a suit and tie holding a yellow piece of paper
+Additional detail: a detailed photo of a man in a suit and tie holding a yellow piece of paper
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 29.1/255)
+  - Color palette: muted colors — dominant colors: black (72.8%), brown (21.8%), gray (5.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 15.0)

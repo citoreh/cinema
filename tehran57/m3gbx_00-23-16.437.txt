@@ -1,0 +1,13 @@
+Scene 343
+Frame timestamp: 1396.438s (00:23:16.437) — roughly 27% through the video
+Scene span: 1395.88s → 1397.00s (duration ~1.12s)
+
+What's in the frame: there is a woman standing in front of a mirror with a surprised look on her face
+Additional detail: a detailed photo of a woman with a surprised look on her face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 71.3/255)
+  - Color palette: muted colors — dominant colors: black (50.8%), brown (38.9%), beige (10.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 111.3)

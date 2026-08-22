@@ -1,0 +1,13 @@
+Scene 297
+Frame timestamp: 1231.875s (00:20:31.875) — roughly 24% through the video
+Scene span: 1230.67s → 1233.08s (duration ~2.42s)
+
+What's in the frame: there is a woman that is sitting at a table with a plate of food
+Additional detail: a detailed photo of a woman sitting at a table in a restaurant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 51.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (58.2%), brown (33.0%), gold (8.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 56.0)

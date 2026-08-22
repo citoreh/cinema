@@ -1,0 +1,13 @@
+Scene 762
+Frame timestamp: 3452.208s (00:57:32.208) — roughly 67% through the video
+Scene span: 3448.21s → 3456.21s (duration ~8.00s)
+
+What's in the frame: there are two men standing next to each other in a dark room
+Additional detail: a detailed photo of a man in a suit and a woman in a blue dress
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 29.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (64.4%), black (25.2%), brown (10.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.3)

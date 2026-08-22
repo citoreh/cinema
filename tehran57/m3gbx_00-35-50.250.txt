@@ -1,0 +1,13 @@
+Scene 499
+Frame timestamp: 2150.250s (00:35:50.250) — roughly 42% through the video
+Scene span: 2149.00s → 2151.50s (duration ~2.50s)
+
+What's in the frame: there is a man that has a tie around his neck
+Additional detail: a detailed photo of a man with a tie around his neck
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 66.0/255)
+  - Color palette: muted colors — dominant colors: navy (38.3%), gray (35.8%), black (25.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.5)

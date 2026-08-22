@@ -1,0 +1,13 @@
+Scene 994
+Frame timestamp: 4781.917s (01:19:41.916) — roughly 93% through the video
+Scene span: 4777.79s → 4786.04s (duration ~8.25s)
+
+What's in the frame: there are three men standing at a counter in a building
+Additional detail: a detailed photo of a group of people standing around a counter
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.3/255)
+  - Color palette: muted colors — dominant colors: black (46.5%), gray (32.0%), brown (21.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 79.5)

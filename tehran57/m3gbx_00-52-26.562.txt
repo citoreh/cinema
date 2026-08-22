@@ -1,0 +1,13 @@
+Scene 697
+Frame timestamp: 3146.562s (00:52:26.562) — roughly 61% through the video
+Scene span: 3145.71s → 3147.42s (duration ~1.71s)
+
+What's in the frame: there are two men standing next to each other in a room
+Additional detail: a detailed photo of a man with a mustache and moustache talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 38.7/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (41.7%), black (37.2%), brown (21.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.5)

@@ -1,0 +1,13 @@
+Scene 618
+Frame timestamp: 2572.583s (00:42:52.583) — roughly 50% through the video
+Scene span: 2568.38s → 2576.79s (duration ~8.42s)
+
+What's in the frame: this is a close up of a license plate on a car
+Additional detail: a detailed photo of a license plate on the back of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 90.0/255)
+  - Color palette: muted colors — dominant colors: black (36.6%), brown (33.1%), gray (30.3%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 114.9)

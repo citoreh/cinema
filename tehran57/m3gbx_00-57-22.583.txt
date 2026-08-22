@@ -1,0 +1,13 @@
+Scene 760
+Frame timestamp: 3442.583s (00:57:22.583) — roughly 67% through the video
+Scene span: 3442.04s → 3443.12s (duration ~1.08s)
+
+What's in the frame: this is an image of a man and a woman sitting next to each other
+Additional detail: a detailed photo of a couple of men sitting next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (63.5%), black (25.3%), brown (11.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.7)

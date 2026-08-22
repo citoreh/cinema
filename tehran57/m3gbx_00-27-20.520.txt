@@ -1,0 +1,13 @@
+Scene 391
+Frame timestamp: 1640.521s (00:27:20.520) — roughly 32% through the video
+Scene span: 1635.50s → 1645.54s (duration ~10.04s)
+
+What's in the frame: there are two men that are standing next to a green car
+Additional detail: a detailed photo of two men standing in front of a green car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.8/255)
+  - Color palette: muted colors — dominant colors: brown (42.0%), black (37.5%), gray (20.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 217.9)

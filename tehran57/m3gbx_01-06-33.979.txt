@@ -1,0 +1,13 @@
+Scene 920
+Frame timestamp: 3993.979s (01:06:33.979) — roughly 78% through the video
+Scene span: 3991.21s → 3996.75s (duration ~5.54s)
+
+What's in the frame: there is a woman that is wearing a scarf and holding a cell phone
+Additional detail: a detailed photo of a woman with a scarf on her head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.8/255)
+  - Color palette: muted colors — dominant colors: black (45.9%), brown (36.4%), gray (17.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 62.6)

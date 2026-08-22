@@ -1,0 +1,13 @@
+Scene 665
+Frame timestamp: 2878.083s (00:47:58.083) — roughly 56% through the video
+Scene span: 2833.00s → 2923.17s (duration ~90.17s)
+
+What's in the frame: there are three people standing next to each other in a room
+Additional detail: a detailed photo of a woman in a headscarf talking to a man in a suit and tie
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 40.2/255)
+  - Color palette: muted colors — dominant colors: black (74.5%), brown (21.9%), beige (3.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 26.2)

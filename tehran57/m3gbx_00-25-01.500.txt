@@ -1,0 +1,13 @@
+Scene 375
+Frame timestamp: 1501.500s (00:25:01.500) — roughly 29% through the video
+Scene span: 1500.92s → 1502.08s (duration ~1.17s)
+
+What's in the frame: this is an image of a man and a woman standing in a living room
+Additional detail: a detailed photo of a man and a woman standing in a living room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.5/255)
+  - Color palette: muted colors — dominant colors: black (48.8%), brown (26.1%), gray (25.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 133.2)

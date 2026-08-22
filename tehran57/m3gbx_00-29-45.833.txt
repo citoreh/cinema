@@ -1,0 +1,13 @@
+Scene 426
+Frame timestamp: 1785.833s (00:29:45.833) — roughly 35% through the video
+Scene span: 1783.29s → 1788.38s (duration ~5.08s)
+
+What's in the frame: there is a man in a suit talking to a woman on the street
+Additional detail: a detailed photo of a man and a woman standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.5/255)
+  - Color palette: muted colors — dominant colors: black (39.5%), gray (32.7%), brown (27.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.5)

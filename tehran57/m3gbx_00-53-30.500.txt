@@ -1,0 +1,13 @@
+Scene 716
+Frame timestamp: 3210.500s (00:53:30.500) — roughly 63% through the video
+Scene span: 3209.92s → 3211.08s (duration ~1.17s)
+
+What's in the frame: there are two men sitting in the back seat of a car
+Additional detail: a detailed photo of two men sitting in the back seat of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.9/255)
+  - Color palette: muted colors — dominant colors: black (61.0%), brown (27.6%), beige (11.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.0)

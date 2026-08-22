@@ -1,0 +1,13 @@
+Scene 748
+Frame timestamp: 3313.479s (00:55:13.479) — roughly 65% through the video
+Scene span: 3307.71s → 3319.25s (duration ~11.54s)
+
+What's in the frame: there are people standing outside of a brick building with a police officer on the sidewalk
+Additional detail: a detailed photo of a group of people standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 87.5/255)
+  - Color palette: muted colors — dominant colors: gray (39.4%), black (35.8%), brown (24.8%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 486.6)

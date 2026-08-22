@@ -1,0 +1,13 @@
+Scene 614
+Frame timestamp: 2541.688s (00:42:21.687) — roughly 50% through the video
+Scene span: 2527.54s → 2555.83s (duration ~28.29s)
+
+What's in the frame: there are two men that are talking to each other in front of a phone
+Additional detail: a detailed photo of a man talking to another man in front of a phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.2/255)
+  - Color palette: muted colors — dominant colors: brown (40.1%), black (37.0%), gray (22.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 155.7)

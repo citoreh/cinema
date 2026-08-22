@@ -1,0 +1,13 @@
+Scene 784
+Frame timestamp: 3509.875s (00:58:29.875) — roughly 68% through the video
+Scene span: 3508.21s → 3511.54s (duration ~3.33s)
+
+What's in the frame: there are two men standing next to each other in a dark room
+Additional detail: a detailed photo of two men in a dark room one with a mustache and the other with a moustache
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (63.1%), black (25.4%), brown (11.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.7)

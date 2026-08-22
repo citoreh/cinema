@@ -1,0 +1,13 @@
+Scene 863
+Frame timestamp: 3833.562s (01:03:53.562) — roughly 75% through the video
+Scene span: 3832.33s → 3834.79s (duration ~2.46s)
+
+What's in the frame: there are two men standing next to each other in a room
+Additional detail: a detailed photo of two men standing next to each other in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 71.5/255)
+  - Color palette: muted colors — dominant colors: brown (54.2%), black (37.5%), beige (8.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 130.3)

@@ -1,0 +1,13 @@
+Scene 468
+Frame timestamp: 2007.604s (00:33:27.604) — roughly 39% through the video
+Scene span: 1992.79s → 2022.42s (duration ~29.62s)
+
+What's in the frame: there are two men standing next to each other in front of a gold curtain
+Additional detail: a detailed photo of a man in a suit talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.9/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (49.6%), gold (25.5%), brown (24.8%)
+  - Composition: busy / detailed composition with lots of edges and texture
+  - Focus/motion: sharp / in focus (sharpness score 603.8)

@@ -1,0 +1,13 @@
+Scene 740
+Frame timestamp: 3276.938s (00:54:36.937) — roughly 64% through the video
+Scene span: 3275.79s → 3278.08s (duration ~2.29s)
+
+What's in the frame: this is an image of a man in a suit and tie talking to another man
+Additional detail: a detailed photo of a man in a suit talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.0/255)
+  - Color palette: muted colors — dominant colors: brown (47.7%), black (37.0%), beige (15.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 75.5)

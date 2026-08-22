@@ -1,0 +1,13 @@
+Scene 668
+Frame timestamp: 2958.417s (00:49:18.416) — roughly 58% through the video
+Scene span: 2954.25s → 2962.58s (duration ~8.33s)
+
+What's in the frame: there is a man wearing a hat and a suit talking to another man
+Additional detail: a detailed photo of a man wearing a hat and a red shirt
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 44.3/255)
+  - Color palette: muted colors — dominant colors: black (53.3%), brown (35.8%), gray (10.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.1)

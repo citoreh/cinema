@@ -1,0 +1,13 @@
+Scene 960
+Frame timestamp: 4339.083s (01:12:19.083) — roughly 85% through the video
+Scene span: 4330.50s → 4347.67s (duration ~17.17s)
+
+What's in the frame: there are many people standing in front of a building and one is holding a watermelon
+Additional detail: a detailed photo of a group of people standing in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 89.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (47.2%), beige (30.1%), gray (22.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 107.3)

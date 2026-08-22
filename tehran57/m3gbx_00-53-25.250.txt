@@ -1,0 +1,13 @@
+Scene 714
+Frame timestamp: 3205.250s (00:53:25.250) — roughly 62% through the video
+Scene span: 3202.08s → 3208.42s (duration ~6.33s)
+
+What's in the frame: there is a man and a woman in a car with a man behind the wheel
+Additional detail: a detailed photo of two men and a woman in a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 61.1/255)
+  - Color palette: muted colors — dominant colors: black (44.7%), brown (43.8%), gray (11.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 92.9)

@@ -1,0 +1,13 @@
+Scene 829
+Frame timestamp: 3739.542s (01:02:19.541) — roughly 73% through the video
+Scene span: 3738.92s → 3740.17s (duration ~1.25s)
+
+What's in the frame: there is a man that is standing in a room with papers on the wall
+Additional detail: a detailed photo of a man standing in a room with post it notes on the wall
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 82.9/255)
+  - Color palette: muted colors — dominant colors: gray (47.2%), black (44.1%), white (8.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 46.4)

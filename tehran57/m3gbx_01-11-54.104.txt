@@ -1,0 +1,13 @@
+Scene 954
+Frame timestamp: 4314.104s (01:11:54.104) — roughly 84% through the video
+Scene span: 4310.83s → 4317.38s (duration ~6.54s)
+
+What's in the frame: there is a man sitting at a table with a knife and fork in his hand
+Additional detail: a detailed photo of a man sitting at a table with a knife and fork in his hand
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.7/255)
+  - Color palette: muted colors — dominant colors: brown (39.1%), black (33.1%), brown (27.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.1)

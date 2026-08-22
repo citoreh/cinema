@@ -1,0 +1,13 @@
+Scene 805
+Frame timestamp: 3582.417s (00:59:42.416) — roughly 70% through the video
+Scene span: 3579.58s → 3585.25s (duration ~5.67s)
+
+What's in the frame: there is a man that is standing in front of a door
+Additional detail: a detailed photo of a man standing in a dark room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 20.7/255)
+  - Color palette: muted colors — dominant colors: black (64.5%), black (25.2%), brown (10.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 7.4)

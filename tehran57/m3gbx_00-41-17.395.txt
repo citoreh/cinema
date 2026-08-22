@@ -1,0 +1,13 @@
+Scene 601
+Frame timestamp: 2477.396s (00:41:17.395) — roughly 48% through the video
+Scene span: 2476.38s → 2478.42s (duration ~2.04s)
+
+What's in the frame: this is an image of a man with a moustache looking at another man
+Additional detail: a detailed photo of a man with a mustache and moustache looking at another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.2/255)
+  - Color palette: muted colors — dominant colors: black (60.1%), gray (22.2%), brown (17.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 26.3)

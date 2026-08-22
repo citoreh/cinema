@@ -1,0 +1,13 @@
+Scene 583
+Frame timestamp: 2435.938s (00:40:35.937) — roughly 47% through the video
+Scene span: 2435.29s → 2436.58s (duration ~1.29s)
+
+What's in the frame: there is a man that is talking to another man in a car
+Additional detail: a detailed photo of a close up of a man with an afro
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.9/255)
+  - Color palette: muted colors — dominant colors: black (63.8%), brown (23.5%), beige (12.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 37.6)

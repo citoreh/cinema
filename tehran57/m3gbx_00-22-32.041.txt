@@ -1,0 +1,13 @@
+Scene 332
+Frame timestamp: 1352.042s (00:22:32.041) — roughly 26% through the video
+Scene span: 1350.96s → 1353.12s (duration ~2.17s)
+
+What's in the frame: there is a bird that is sitting in a cage next to a vase
+Additional detail: a detailed photo of a bird in a cage next to a vase
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 62.4/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (57.8%), brown (31.5%), beige (10.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 203.4)

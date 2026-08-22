@@ -1,0 +1,13 @@
+Scene 360
+Frame timestamp: 1467.833s (00:24:27.833) — roughly 29% through the video
+Scene span: 1466.17s → 1469.50s (duration ~3.33s)
+
+What's in the frame: there is a man walking up the stairs talking on a cell phone
+Additional detail: a detailed photo of a young man talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.0/255)
+  - Color palette: muted colors — dominant colors: gray (36.7%), black (35.7%), brown (27.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 24.1)

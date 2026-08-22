@@ -1,0 +1,13 @@
+Scene 678
+Frame timestamp: 3094.792s (00:51:34.791) — roughly 60% through the video
+Scene span: 3093.88s → 3095.71s (duration ~1.83s)
+
+What's in the frame: there is a man in a hat talking to another man in a suit and tie
+Additional detail: a detailed photo of a man in a suit and hat talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 62.1/255)
+  - Color palette: muted colors — dominant colors: black (47.0%), brown (37.0%), gray (16.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.5)

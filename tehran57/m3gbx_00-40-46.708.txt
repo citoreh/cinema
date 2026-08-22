@@ -1,0 +1,13 @@
+Scene 588
+Frame timestamp: 2446.708s (00:40:46.708) — roughly 48% through the video
+Scene span: 2445.83s → 2447.58s (duration ~1.75s)
+
+What's in the frame: there is a man in a suit and red shirt talking to another man
+Additional detail: a detailed photo of a man in a suit and red shirt talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 62.6/255)
+  - Color palette: muted colors — dominant colors: black (65.5%), brown (20.8%), beige (13.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.4)

@@ -1,0 +1,13 @@
+Scene 314
+Frame timestamp: 1310.854s (00:21:50.854) — roughly 26% through the video
+Scene span: 1305.67s → 1316.04s (duration ~10.38s)
+
+What's in the frame: there is a man that is holding a tray of food in his hand
+Additional detail: a detailed photo of a man holding a tray of food in a living room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 46.8/255)
+  - Color palette: muted colors — dominant colors: black (59.1%), brown (30.8%), gray (10.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 64.4)

@@ -1,0 +1,13 @@
+Scene 318
+Frame timestamp: 1323.896s (00:22:03.895) — roughly 26% through the video
+Scene span: 1322.67s → 1325.12s (duration ~2.46s)
+
+What's in the frame: there is a man that is reading a newspaper in front of a woman
+Additional detail: a detailed photo of a man reading a newspaper in front of a woman
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.9/255)
+  - Color palette: muted colors — dominant colors: black (51.1%), brown (40.1%), beige (8.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 57.1)

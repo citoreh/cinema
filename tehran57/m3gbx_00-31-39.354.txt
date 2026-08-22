@@ -1,0 +1,13 @@
+Scene 446
+Frame timestamp: 1899.354s (00:31:39.354) — roughly 37% through the video
+Scene span: 1895.08s → 1903.62s (duration ~8.54s)
+
+What's in the frame: there is a man that is sitting in the driver ' s seat of a car
+Additional detail: a detailed photo of a man in a suit sitting in the driver ' s seat of a red car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 121.8/255)
+  - Color palette: muted colors — dominant colors: beige (47.4%), black (28.5%), brown (24.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 72.2)

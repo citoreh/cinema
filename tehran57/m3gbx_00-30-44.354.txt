@@ -1,0 +1,13 @@
+Scene 432
+Frame timestamp: 1844.354s (00:30:44.354) — roughly 36% through the video
+Scene span: 1843.75s → 1844.96s (duration ~1.21s)
+
+What's in the frame: there are two men standing next to each other, one wearing a hat and the other wearing a red shirt
+Additional detail: a detailed photo of a man wearing a hat and a red shirt
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 104.9/255)
+  - Color palette: muted colors — dominant colors: black (44.4%), beige (40.2%), brown (15.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 43.6)

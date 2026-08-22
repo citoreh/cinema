@@ -1,0 +1,13 @@
+Scene 523
+Frame timestamp: 2275.479s (00:37:55.479) — roughly 44% through the video
+Scene span: 2274.50s → 2276.46s (duration ~1.96s)
+
+What's in the frame: there is a man that is sitting in the back seat of a car holding a piece of paper
+Additional detail: a detailed photo of a man holding a piece of paper in his hand
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.1/255)
+  - Color palette: muted colors — dominant colors: black (54.4%), brown (31.2%), gray (14.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 31.2)

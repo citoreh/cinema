@@ -1,0 +1,13 @@
+Scene 547
+Frame timestamp: 2337.667s (00:38:57.666) — roughly 46% through the video
+Scene span: 2336.42s → 2338.92s (duration ~2.50s)
+
+What's in the frame: this is an image of a man with an afro in a car
+Additional detail: a detailed photo of a close up of a person in a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.7/255)
+  - Color palette: muted colors — dominant colors: black (57.8%), gray (37.7%), beige (4.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 27.3)

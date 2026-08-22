@@ -1,0 +1,13 @@
+Scene 729
+Frame timestamp: 3246.354s (00:54:06.354) — roughly 63% through the video
+Scene span: 3244.83s → 3247.88s (duration ~3.04s)
+
+What's in the frame: there is a man in a blue suit and a woman in a brown coat
+Additional detail: a detailed photo of a man in a blue suit and a woman in a brown coat
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.0/255)
+  - Color palette: muted colors — dominant colors: brown (47.4%), black (36.6%), gray (16.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 142.4)

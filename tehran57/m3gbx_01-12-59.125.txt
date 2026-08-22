@@ -1,0 +1,13 @@
+Scene 964
+Frame timestamp: 4379.125s (01:12:59.125) — roughly 85% through the video
+Scene span: 4373.58s → 4384.67s (duration ~11.08s)
+
+What's in the frame: there are many people walking down the hallway of a building
+Additional detail: a detailed photo of a group of people walking down a hallway
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.8/255)
+  - Color palette: muted colors — dominant colors: black (40.2%), gray (37.3%), gray (22.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 42.3)

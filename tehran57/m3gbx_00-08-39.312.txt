@@ -1,0 +1,13 @@
+Scene 43
+Frame timestamp: 519.312s (00:08:39.312) — roughly 10% through the video
+Scene span: 483.92s → 554.71s (duration ~70.79s)
+
+What's in the frame: there are two men standing next to each other in front of a brick wall
+Additional detail: a detailed photo of two men standing next to each other in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 107.8/255)
+  - Color palette: vivid, saturated colors — dominant colors: blue (39.6%), navy (33.4%), black (27.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 50.1)

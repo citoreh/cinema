@@ -1,0 +1,13 @@
+Scene 775
+Frame timestamp: 3488.896s (00:58:08.895) — roughly 68% through the video
+Scene span: 3487.62s → 3490.17s (duration ~2.54s)
+
+What's in the frame: there is a man with a beard laying on a bed next to a woman
+Additional detail: a detailed photo of a man laying on a bed with his head in his hands
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 33.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (41.2%), black (35.4%), brown (23.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 8.6)

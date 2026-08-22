@@ -1,0 +1,13 @@
+Scene 941
+Frame timestamp: 4189.229s (01:09:49.229) — roughly 82% through the video
+Scene span: 4185.42s → 4193.04s (duration ~7.62s)
+
+What's in the frame: there is a woman that is wearing a scarf on her head
+Additional detail: a detailed photo of a woman with a scarf on her head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 89.9/255)
+  - Color palette: muted colors — dominant colors: gray (53.9%), black (26.9%), brown (19.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 26.9)

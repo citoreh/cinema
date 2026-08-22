@@ -1,0 +1,13 @@
+Scene 268
+Frame timestamp: 1164.062s (00:19:24.062) — roughly 23% through the video
+Scene span: 1160.25s → 1167.88s (duration ~7.62s)
+
+What's in the frame: there is a man in a suit and tie dancing in front of a group of people
+Additional detail: a detailed photo of a man in a suit and a woman in a hijab dancing
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.7/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (61.0%), brown (23.5%), olive (15.6%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 156.2)

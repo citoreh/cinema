@@ -1,0 +1,13 @@
+Scene 730
+Frame timestamp: 3249.479s (00:54:09.479) — roughly 63% through the video
+Scene span: 3247.88s → 3251.08s (duration ~3.21s)
+
+What's in the frame: there is a man in a suit and tie talking to a man in a suit
+Additional detail: a detailed photo of a man in a suit talking to a police officer
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.4/255)
+  - Color palette: muted colors — dominant colors: brown (43.4%), black (41.1%), beige (15.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 108.0)

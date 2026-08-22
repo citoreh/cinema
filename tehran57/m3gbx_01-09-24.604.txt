@@ -1,0 +1,13 @@
+Scene 939
+Frame timestamp: 4164.604s (01:09:24.604) — roughly 81% through the video
+Scene span: 4157.62s → 4171.58s (duration ~13.96s)
+
+What's in the frame: there is a woman with a scarf on her head looking at her cell phone
+Additional detail: a detailed photo of a woman with a scarf on her head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 90.3/255)
+  - Color palette: muted colors — dominant colors: gray (53.7%), black (27.0%), brown (19.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 26.5)

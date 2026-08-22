@@ -1,0 +1,13 @@
+Scene 694
+Frame timestamp: 3141.479s (00:52:21.479) — roughly 61% through the video
+Scene span: 3140.67s → 3142.29s (duration ~1.62s)
+
+What's in the frame: this is an image of a man with a mustache and moustache talking to another man
+Additional detail: a detailed photo of a man with a mustache and moustache talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 38.3/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (43.0%), black (36.0%), brown (21.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 24.7)

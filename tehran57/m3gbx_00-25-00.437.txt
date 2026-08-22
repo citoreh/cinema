@@ -1,0 +1,13 @@
+Scene 374
+Frame timestamp: 1500.438s (00:25:00.437) — roughly 29% through the video
+Scene span: 1499.96s → 1500.92s (duration ~0.96s)
+
+What's in the frame: this is a picture of a man standing in front of a door talking on a telephone
+Additional detail: a detailed photo of a man standing in front of a door talking on a telephone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.8/255)
+  - Color palette: muted colors — dominant colors: black (46.1%), brown (35.8%), beige (18.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 63.5)

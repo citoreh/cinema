@@ -1,0 +1,13 @@
+Scene 493
+Frame timestamp: 2138.354s (00:35:38.354) — roughly 42% through the video
+Scene span: 2136.12s → 2140.58s (duration ~4.46s)
+
+What's in the frame: there is a man driving a red car down the street
+Additional detail: a detailed photo of a red car driving down the road
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 90.8/255)
+  - Color palette: muted colors — dominant colors: black (52.5%), gray (36.3%), beige (11.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 188.1)

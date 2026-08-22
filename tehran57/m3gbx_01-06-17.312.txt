@@ -1,0 +1,13 @@
+Scene 915
+Frame timestamp: 3977.312s (01:06:17.312) — roughly 77% through the video
+Scene span: 3973.50s → 3981.12s (duration ~7.62s)
+
+What's in the frame: there are two men standing next to each other near a fire hydrant
+Additional detail: a detailed photo of a man and a woman standing next to a fire hydrant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 85.4/255)
+  - Color palette: muted colors — dominant colors: brown (37.9%), black (31.6%), gray (30.5%)
+  - Composition: busy / detailed composition with lots of edges and texture
+  - Focus/motion: sharp / in focus (sharpness score 599.5)

@@ -1,0 +1,13 @@
+Scene 598
+Frame timestamp: 2470.646s (00:41:10.645) — roughly 48% through the video
+Scene span: 2469.79s → 2471.50s (duration ~1.71s)
+
+What's in the frame: there is a man that is looking at another man in the mirror
+Additional detail: a detailed photo of a man with an afro looking at another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 42.8/255)
+  - Color palette: muted colors — dominant colors: black (67.7%), brown (20.2%), gray (12.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.3)

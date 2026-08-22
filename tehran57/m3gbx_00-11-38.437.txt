@@ -1,0 +1,13 @@
+Scene 89
+Frame timestamp: 698.438s (00:11:38.437) — roughly 14% through the video
+Scene span: 697.33s → 699.54s (duration ~2.21s)
+
+What's in the frame: there are three men sitting at a table talking on their cell phones
+Additional detail: a detailed photo of a group of people sitting around a table talking on cell phones
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.2/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (53.8%), brown (36.4%), gray (9.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 59.9)

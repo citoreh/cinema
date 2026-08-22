@@ -1,0 +1,13 @@
+Scene 663
+Frame timestamp: 2829.750s (00:47:09.750) — roughly 55% through the video
+Scene span: 2829.21s → 2830.29s (duration ~1.08s)
+
+What's in the frame: there is a man with a mustache sticking his tongue out of the back of a car
+Additional detail: a detailed photo of a man sticking his tongue out of the open trunk of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 71.7/255)
+  - Color palette: muted colors — dominant colors: black (50.6%), beige (28.8%), navy (20.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 57.5)

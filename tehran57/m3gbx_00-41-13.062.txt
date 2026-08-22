@@ -1,0 +1,13 @@
+Scene 599
+Frame timestamp: 2473.062s (00:41:13.062) — roughly 48% through the video
+Scene span: 2471.50s → 2474.62s (duration ~3.12s)
+
+What's in the frame: this is an image of a man with a fake moustache on his face
+Additional detail: a detailed photo of a man with a moustache on his face and a toothbrush in his mouth
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 51.2/255)
+  - Color palette: muted colors — dominant colors: black (65.4%), brown (18.9%), gray (15.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.5)

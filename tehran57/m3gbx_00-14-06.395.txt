@@ -1,0 +1,13 @@
+Scene 195
+Frame timestamp: 846.396s (00:14:06.395) — roughly 16% through the video
+Scene span: 846.00s → 846.79s (duration ~0.79s)
+
+What's in the frame: there is a man and a woman standing in front of a brick wall
+Additional detail: a detailed photo of a man and woman standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.0/255)
+  - Color palette: muted colors — dominant colors: black (46.4%), black (29.8%), brown (23.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.3)

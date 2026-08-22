@@ -1,0 +1,13 @@
+Scene 696
+Frame timestamp: 3145.125s (00:52:25.125) — roughly 61% through the video
+Scene span: 3144.54s → 3145.71s (duration ~1.17s)
+
+What's in the frame: there is a man in a suit and hat adjusting his tie
+Additional detail: a detailed photo of a man in a suit and hat adjusting his tie
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.4/255)
+  - Color palette: muted colors — dominant colors: black (43.8%), brown (41.4%), gray (14.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.7)

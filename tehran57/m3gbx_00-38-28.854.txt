@@ -1,0 +1,13 @@
+Scene 537
+Frame timestamp: 2308.854s (00:38:28.854) — roughly 45% through the video
+Scene span: 2308.17s → 2309.54s (duration ~1.38s)
+
+What's in the frame: this is an image of a man with an afro in a car
+Additional detail: a detailed photo of a man in a suit and tie sitting in a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 61.8/255)
+  - Color palette: muted colors — dominant colors: black (55.1%), brown (34.0%), gray (10.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 29.0)

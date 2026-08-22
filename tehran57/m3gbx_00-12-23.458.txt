@@ -1,0 +1,13 @@
+Scene 103
+Frame timestamp: 743.458s (00:12:23.458) — roughly 14% through the video
+Scene span: 742.38s → 744.54s (duration ~2.17s)
+
+What's in the frame: there is a man sitting at a table with a newspaper in front of him
+Additional detail: a detailed photo of a man sitting at a table with a plate of food in front of him
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.5/255)
+  - Color palette: muted colors — dominant colors: black (45.1%), brown (35.8%), beige (19.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 121.6)

@@ -1,0 +1,13 @@
+Scene 228
+Frame timestamp: 893.458s (00:14:53.458) — roughly 17% through the video
+Scene span: 891.83s → 895.08s (duration ~3.25s)
+
+What's in the frame: there are two men sitting at a table in a restaurant
+Additional detail: a detailed photo of two men sitting at a table in a restaurant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.3/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (45.6%), brown (38.8%), gray (15.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 60.3)

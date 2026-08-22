@@ -1,0 +1,13 @@
+Scene 4
+Frame timestamp: 22.333s (00:00:22.333) — roughly 0% through the video
+Scene span: 20.42s → 24.25s (duration ~3.83s)
+
+What's in the frame: there is a man that is walking down the street with a bike
+Additional detail: a detailed photo of a group of people walking down a sidewalk
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 95.1/255)
+  - Color palette: muted colors — dominant colors: gray (35.9%), brown (32.5%), black (31.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 82.0)

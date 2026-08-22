@@ -1,0 +1,13 @@
+Scene 519
+Frame timestamp: 2250.792s (00:37:30.791) — roughly 44% through the video
+Scene span: 2239.88s → 2261.71s (duration ~21.83s)
+
+What's in the frame: there is a man in a blue suit talking to a woman in a red car
+Additional detail: a detailed photo of a man in a blue suit talking to a woman in a red car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 103.4/255)
+  - Color palette: muted colors — dominant colors: black (44.5%), gray (34.5%), beige (21.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 89.8)

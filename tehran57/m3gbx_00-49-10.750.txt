@@ -1,0 +1,13 @@
+Scene 667
+Frame timestamp: 2950.750s (00:49:10.750) — roughly 57% through the video
+Scene span: 2947.25s → 2954.25s (duration ~7.00s)
+
+What's in the frame: there is a woman in a hijab talking to a man in a hat
+Additional detail: a detailed photo of a woman in a hijab talking to a man in a hat
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.2/255)
+  - Color palette: muted colors — dominant colors: black (57.5%), gray (24.5%), brown (17.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 80.9)

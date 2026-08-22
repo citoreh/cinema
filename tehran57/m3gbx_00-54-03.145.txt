@@ -1,0 +1,13 @@
+Scene 728
+Frame timestamp: 3243.146s (00:54:03.145) — roughly 63% through the video
+Scene span: 3241.46s → 3244.83s (duration ~3.38s)
+
+What's in the frame: there are two men standing in front of a building with a clock on the wall
+Additional detail: a detailed photo of a group of men standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.5/255)
+  - Color palette: muted colors — dominant colors: black (41.4%), gray (31.9%), brown (26.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 340.1)

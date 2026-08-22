@@ -1,0 +1,13 @@
+Scene 75
+Frame timestamp: 627.542s (00:10:27.541) — roughly 12% through the video
+Scene span: 626.92s → 628.17s (duration ~1.25s)
+
+What's in the frame: there is a man in a suit sitting at a table with a bottle of wine
+Additional detail: a detailed photo of a man in a suit sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.1/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (57.2%), brown (33.9%), cyan (8.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.9)

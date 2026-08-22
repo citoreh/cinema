@@ -1,0 +1,13 @@
+Scene 943
+Frame timestamp: 4213.458s (01:10:13.458) — roughly 82% through the video
+Scene span: 4199.71s → 4227.21s (duration ~27.50s)
+
+What's in the frame: there are two men standing next to each other talking on a cell phone
+Additional detail: a detailed photo of a man talking on a cell phone next to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.7/255)
+  - Color palette: muted colors — dominant colors: black (52.4%), brown (28.1%), beige (19.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 51.4)

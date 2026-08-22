@@ -1,0 +1,13 @@
+Scene 8
+Frame timestamp: 36.021s (00:00:36.020) — roughly 1% through the video
+Scene span: 34.04s → 38.00s (duration ~3.96s)
+
+What's in the frame: there are many people sitting at tables outside of a restaurant
+Additional detail: a detailed photo of a group of people sitting around a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 91.1/255)
+  - Color palette: muted colors — dominant colors: brown (36.7%), black (32.1%), gray (31.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 250.0)

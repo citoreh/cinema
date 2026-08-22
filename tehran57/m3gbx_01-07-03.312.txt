@@ -1,0 +1,13 @@
+Scene 926
+Frame timestamp: 4023.312s (01:07:03.312) — roughly 78% through the video
+Scene span: 4021.67s → 4024.96s (duration ~3.29s)
+
+What's in the frame: there is a woman with a scarf on her head and a birdcage in the background
+Additional detail: a detailed photo of a woman with a scarf on her head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.6/255)
+  - Color palette: muted colors — dominant colors: black (53.1%), brown (40.1%), pink (6.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 72.2)

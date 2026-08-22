@@ -1,0 +1,13 @@
+Scene 49
+Frame timestamp: 566.917s (00:09:26.916) — roughly 11% through the video
+Scene span: 565.88s → 567.96s (duration ~2.08s)
+
+What's in the frame: there is a man that is sitting at a table with a cigar in his hand
+Additional detail: a detailed photo of a man sitting at a table smoking a cigarette
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.8/255)
+  - Color palette: muted colors — dominant colors: brown (45.7%), black (33.3%), gray (21.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 101.5)

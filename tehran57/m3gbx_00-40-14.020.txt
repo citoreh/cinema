@@ -1,0 +1,13 @@
+Scene 570
+Frame timestamp: 2414.021s (00:40:14.020) — roughly 47% through the video
+Scene span: 2413.21s → 2414.83s (duration ~1.62s)
+
+What's in the frame: this is an image of a man with a mustache and a moustache on his face
+Additional detail: a detailed photo of a close up of a man with a mustache
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 61.7/255)
+  - Color palette: muted colors — dominant colors: black (62.3%), gray (21.4%), brown (16.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 29.5)

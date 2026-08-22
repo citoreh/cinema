@@ -1,0 +1,13 @@
+Scene 310
+Frame timestamp: 1258.417s (00:20:58.416) — roughly 25% through the video
+Scene span: 1256.12s → 1260.71s (duration ~4.58s)
+
+What's in the frame: there is a newspaper sitting on top of a table next to a bowl of flowers
+Additional detail: a detailed photo of a newspaper sitting on top of a wooden table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 86.1/255)
+  - Color palette: muted colors — dominant colors: black (58.4%), beige (29.1%), gray (12.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 73.0)

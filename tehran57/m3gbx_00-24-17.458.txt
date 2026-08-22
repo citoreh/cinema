@@ -1,0 +1,13 @@
+Scene 358
+Frame timestamp: 1457.458s (00:24:17.458) — roughly 28% through the video
+Scene span: 1456.21s → 1458.71s (duration ~2.50s)
+
+What's in the frame: there is a man that is standing next to a car waving
+Additional detail: a detailed photo of a man standing in front of a car waving
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 87.8/255)
+  - Color palette: muted colors — dominant colors: brown (42.1%), black (39.4%), beige (18.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 215.7)

@@ -1,0 +1,13 @@
+Scene 363
+Frame timestamp: 1472.625s (00:24:32.625) — roughly 29% through the video
+Scene span: 1471.75s → 1473.50s (duration ~1.75s)
+
+What's in the frame: there is a man and a woman standing in the hallway of a house
+Additional detail: a detailed photo of a man and a woman standing in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 60.9/255)
+  - Color palette: muted colors — dominant colors: black (58.2%), brown (33.5%), beige (8.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 89.5)

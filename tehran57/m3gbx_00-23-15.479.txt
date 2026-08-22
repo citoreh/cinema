@@ -1,0 +1,13 @@
+Scene 342
+Frame timestamp: 1395.479s (00:23:15.479) — roughly 27% through the video
+Scene span: 1395.08s → 1395.88s (duration ~0.79s)
+
+What's in the frame: there is a man that is standing in front of a painting
+Additional detail: a detailed photo of a man standing in front of a painting
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.2/255)
+  - Color palette: muted colors — dominant colors: black (50.0%), brown (41.5%), beige (8.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.5)

@@ -1,0 +1,13 @@
+Scene 707
+Frame timestamp: 3169.812s (00:52:49.812) — roughly 62% through the video
+Scene span: 3167.50s → 3172.12s (duration ~4.62s)
+
+What's in the frame: there are two men standing next to each other in a room
+Additional detail: a detailed photo of a man in a suit and a man in a top hat
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 40.1/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (45.1%), black (32.4%), brown (22.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 29.4)

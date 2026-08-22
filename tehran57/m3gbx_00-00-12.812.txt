@@ -1,0 +1,13 @@
+Scene 2
+Frame timestamp: 12.812s (00:00:12.812) — roughly 0% through the video
+Scene span: 9.04s → 16.58s (duration ~7.54s)
+
+What's in the frame: there is a picture of an arabic text written in yellow on a black background
+Additional detail: a detailed photo of an arabic text on a black background
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 0.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (99.6%), brown (0.2%), olive (0.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.6)

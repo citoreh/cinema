@@ -1,0 +1,13 @@
+Scene 744
+Frame timestamp: 3292.062s (00:54:52.062) — roughly 64% through the video
+Scene span: 3291.38s → 3292.75s (duration ~1.38s)
+
+What's in the frame: there are two men standing next to each other in front of a fence
+Additional detail: a detailed photo of two men standing next to each other in front of a fence
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 84.8/255)
+  - Color palette: muted colors — dominant colors: brown (49.5%), black (33.9%), beige (16.6%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 95.1)

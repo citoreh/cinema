@@ -1,0 +1,13 @@
+Scene 292
+Frame timestamp: 1220.042s (00:20:20.041) — roughly 24% through the video
+Scene span: 1218.42s → 1221.67s (duration ~3.25s)
+
+What's in the frame: there is a man that is singing into a microphone with a guitar in front of him
+Additional detail: a detailed photo of a man in a suit singing into a microphone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.2/255)
+  - Color palette: muted colors — dominant colors: black (51.6%), brown (38.8%), gold (9.6%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 232.5)

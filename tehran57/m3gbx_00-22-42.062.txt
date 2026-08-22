@@ -1,0 +1,13 @@
+Scene 333
+Frame timestamp: 1362.062s (00:22:42.062) — roughly 27% through the video
+Scene span: 1353.12s → 1371.00s (duration ~17.88s)
+
+What's in the frame: there are two women standing in a living room talking to each other
+Additional detail: a detailed photo of two women standing in front of a birdcage
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.3/255)
+  - Color palette: muted colors — dominant colors: black (49.7%), brown (31.2%), gray (19.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 122.8)

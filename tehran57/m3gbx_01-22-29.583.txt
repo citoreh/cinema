@@ -1,0 +1,13 @@
+Scene 1009
+Frame timestamp: 4949.583s (01:22:29.583) — roughly 96% through the video
+Scene span: 4932.38s → 4966.79s (duration ~34.42s)
+
+What's in the frame: there is a man that is standing in front of a brick wall
+Additional detail: a detailed photo of a man standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (55.2%), black (39.0%), beige (5.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 63.7)

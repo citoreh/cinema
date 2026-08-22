@@ -1,0 +1,13 @@
+Scene 670
+Frame timestamp: 2974.979s (00:49:34.979) — roughly 58% through the video
+Scene span: 2971.42s → 2978.54s (duration ~7.12s)
+
+What's in the frame: there are two women that are talking to each other in front of a mirror
+Additional detail: a detailed photo of a woman in a hijab talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 56.6/255)
+  - Color palette: muted colors — dominant colors: black (53.7%), brown (27.8%), gray (18.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 157.7)

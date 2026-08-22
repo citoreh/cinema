@@ -1,0 +1,13 @@
+Scene 902
+Frame timestamp: 3948.479s (01:05:48.479) — roughly 77% through the video
+Scene span: 3948.00s → 3948.96s (duration ~0.96s)
+
+What's in the frame: there is a woman that is wearing a scarf and a bird in a cage
+Additional detail: a detailed photo of a woman wearing a headscarf and a scarf
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.2/255)
+  - Color palette: muted colors — dominant colors: black (48.8%), brown (33.8%), gray (17.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 69.8)

@@ -1,0 +1,13 @@
+Scene 970
+Frame timestamp: 4593.771s (01:16:33.770) — roughly 90% through the video
+Scene span: 4591.21s → 4596.33s (duration ~5.12s)
+
+What's in the frame: there is a truck that is parked next to a swimming pool
+Additional detail: a detailed photo of a house with a pool in the yard
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 97.3/255)
+  - Color palette: muted colors — dominant colors: olive (44.5%), black (33.2%), beige (22.3%)
+  - Composition: busy / detailed composition with lots of edges and texture
+  - Focus/motion: sharp / in focus (sharpness score 537.1)

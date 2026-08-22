@@ -1,0 +1,13 @@
+Scene 411
+Frame timestamp: 1735.708s (00:28:55.708) — roughly 34% through the video
+Scene span: 1735.29s → 1736.12s (duration ~0.83s)
+
+What's in the frame: there is a man that is talking to another man in front of a building
+Additional detail: a detailed photo of a young man talking to another young man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 89.4/255)
+  - Color palette: muted colors — dominant colors: black (44.5%), gray (34.9%), beige (20.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.0)

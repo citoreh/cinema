@@ -1,0 +1,13 @@
+Scene 551
+Frame timestamp: 2362.438s (00:39:22.437) — roughly 46% through the video
+Scene span: 2349.92s → 2374.96s (duration ~25.04s)
+
+What's in the frame: there are two men sitting in the back seat of a red car
+Additional detail: a detailed photo of two men sitting in the drivers seat of a red car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 62.8/255)
+  - Color palette: muted colors — dominant colors: black (47.8%), brown (44.5%), gray (7.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 87.2)

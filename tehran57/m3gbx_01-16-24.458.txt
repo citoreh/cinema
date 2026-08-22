@@ -1,0 +1,13 @@
+Scene 969
+Frame timestamp: 4584.458s (01:16:24.458) — roughly 89% through the video
+Scene span: 4577.71s → 4591.21s (duration ~13.50s)
+
+What's in the frame: there is a man and a woman standing in front of a van
+Additional detail: a detailed photo of a couple of people standing in front of a van
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 84.7/255)
+  - Color palette: muted colors — dominant colors: black (36.7%), gray (32.8%), brown (30.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 128.6)

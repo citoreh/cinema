@@ -1,0 +1,13 @@
+Scene 448
+Frame timestamp: 1910.938s (00:31:50.937) — roughly 37% through the video
+Scene span: 1910.12s → 1911.75s (duration ~1.62s)
+
+What's in the frame: there is a person holding a steering wheel in a red car
+Additional detail: a detailed photo of a person ' s hand on the steering wheel of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.0/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (63.1%), beige (18.5%), brown (18.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 66.7)

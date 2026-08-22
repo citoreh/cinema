@@ -1,0 +1,13 @@
+Scene 259
+Frame timestamp: 1139.708s (00:18:59.708) — roughly 22% through the video
+Scene span: 1136.96s → 1142.46s (duration ~5.50s)
+
+What's in the frame: there is a man in a suit and tie talking to a woman in a hijab
+Additional detail: a detailed photo of a man in a suit and tie talking to a woman in a hijab
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.4/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (59.9%), brown (27.4%), gold (12.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 42.4)

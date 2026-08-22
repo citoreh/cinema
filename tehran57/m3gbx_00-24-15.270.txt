@@ -1,0 +1,13 @@
+Scene 357
+Frame timestamp: 1455.271s (00:24:15.270) — roughly 28% through the video
+Scene span: 1454.33s → 1456.21s (duration ~1.88s)
+
+What's in the frame: there is a man that is standing outside of a building with a book in his hand
+Additional detail: a detailed photo of a man standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 105.6/255)
+  - Color palette: muted colors — dominant colors: beige (41.6%), black (38.8%), brown (19.6%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 152.4)

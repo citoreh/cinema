@@ -1,0 +1,13 @@
+Scene 390
+Frame timestamp: 1634.604s (00:27:14.604) — roughly 32% through the video
+Scene span: 1633.71s → 1635.50s (duration ~1.79s)
+
+What's in the frame: there is a man with an afro standing in front of a brick building
+Additional detail: a detailed photo of a man in a suit with an afro on his head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.6/255)
+  - Color palette: muted colors — dominant colors: brown (42.0%), black (29.3%), gray (28.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 33.8)

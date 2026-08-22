@@ -1,0 +1,13 @@
+Scene 282
+Frame timestamp: 1197.208s (00:19:57.208) — roughly 23% through the video
+Scene span: 1196.50s → 1197.92s (duration ~1.42s)
+
+What's in the frame: there is a group of men in suits and ties posing for a picture
+Additional detail: a detailed photo of a group of men in suits and ties posing for a picture
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.0/255)
+  - Color palette: muted colors — dominant colors: black (62.2%), olive (24.7%), beige (13.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 62.2)

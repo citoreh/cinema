@@ -1,0 +1,13 @@
+Scene 352
+Frame timestamp: 1408.875s (00:23:28.875) — roughly 27% through the video
+Scene span: 1408.25s → 1409.50s (duration ~1.25s)
+
+What's in the frame: there is a man standing in front of a painting with a bird on it
+Additional detail: a detailed photo of a man standing in front of a painting
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.2/255)
+  - Color palette: muted colors — dominant colors: black (50.8%), brown (43.7%), white (5.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 45.8)

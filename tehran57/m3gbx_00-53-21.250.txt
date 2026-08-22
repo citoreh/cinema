@@ -1,0 +1,13 @@
+Scene 713
+Frame timestamp: 3201.250s (00:53:21.250) — roughly 62% through the video
+Scene span: 3200.42s → 3202.08s (duration ~1.67s)
+
+What's in the frame: there is a woman that is sitting in the back seat of a car
+Additional detail: a detailed photo of a woman sitting in a car wearing a headscarf
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 82.4/255)
+  - Color palette: muted colors — dominant colors: black (40.4%), beige (34.0%), brown (25.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 15.8)

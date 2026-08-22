@@ -1,0 +1,13 @@
+Scene 1001
+Frame timestamp: 4814.875s (01:20:14.875) — roughly 94% through the video
+Scene span: 4813.67s → 4816.08s (duration ~2.42s)
+
+What's in the frame: there is a man standing in front of a mirror brushing his teeth
+Additional detail: a detailed photo of a man brushing his teeth in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 91.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (36.1%), beige (35.9%), brown (28.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 89.6)

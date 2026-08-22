@@ -1,0 +1,13 @@
+Scene 761
+Frame timestamp: 3445.667s (00:57:25.666) — roughly 67% through the video
+Scene span: 3443.12s → 3448.21s (duration ~5.08s)
+
+What's in the frame: there is a man that is laying down with his head on his hands
+Additional detail: a detailed photo of a man laying on a bed with his head in his hands
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 28.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (42.1%), black (38.3%), brown (19.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 8.7)

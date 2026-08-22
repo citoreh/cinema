@@ -1,0 +1,13 @@
+Scene 356
+Frame timestamp: 1441.396s (00:24:01.395) — roughly 28% through the video
+Scene span: 1428.46s → 1454.33s (duration ~25.88s)
+
+What's in the frame: there is a man wearing a suit and tie standing in front of a brick building
+Additional detail: a detailed photo of a man standing in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 118.9/255)
+  - Color palette: muted colors — dominant colors: gray (39.5%), beige (31.6%), black (28.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 70.8)

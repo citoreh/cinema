@@ -1,0 +1,13 @@
+Scene 749
+Frame timestamp: 3355.333s (00:55:55.333) — roughly 65% through the video
+Scene span: 3319.25s → 3391.42s (duration ~72.17s)
+
+What's in the frame: there is a man and a woman sitting on the floor in a dark room
+Additional detail: a detailed photo of a man and a woman sitting in a dark room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 17.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (67.2%), black (25.4%), brown (7.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 3.8)

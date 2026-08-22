@@ -1,0 +1,13 @@
+Scene 530
+Frame timestamp: 2295.458s (00:38:15.458) — roughly 45% through the video
+Scene span: 2294.92s → 2296.00s (duration ~1.08s)
+
+What's in the frame: this is an image of a man with a mustache in a car
+Additional detail: a detailed photo of a man sitting in a car brushing his hair
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.3/255)
+  - Color palette: muted colors — dominant colors: black (53.3%), brown (26.3%), gray (20.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 55.5)

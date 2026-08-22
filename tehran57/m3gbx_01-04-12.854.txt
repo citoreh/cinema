@@ -1,0 +1,13 @@
+Scene 872
+Frame timestamp: 3852.854s (01:04:12.854) — roughly 75% through the video
+Scene span: 3851.88s → 3853.83s (duration ~1.96s)
+
+What's in the frame: there is a man standing in front of a refrigerator with post it notes on it
+Additional detail: a detailed photo of a man standing in front of a refrigerator
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (39.0%), brown (38.1%), beige (22.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 40.4)

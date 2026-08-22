@@ -1,0 +1,13 @@
+Scene 42
+Frame timestamp: 463.021s (00:07:43.020) — roughly 9% through the video
+Scene span: 442.12s → 483.92s (duration ~41.79s)
+
+What's in the frame: there is a crowd of people standing around a car with a man in a suit and tie
+Additional detail: a detailed photo of a crowd of people standing around a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 90.6/255)
+  - Color palette: muted colors — dominant colors: black (43.5%), gray (34.4%), beige (22.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 250.0)

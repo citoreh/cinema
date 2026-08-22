@@ -1,0 +1,13 @@
+Scene 927
+Frame timestamp: 4032.562s (01:07:12.562) — roughly 79% through the video
+Scene span: 4024.96s → 4040.17s (duration ~15.21s)
+
+What's in the frame: there are two men standing next to each other near a pole
+Additional detail: a detailed photo of two young men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 88.6/255)
+  - Color palette: muted colors — dominant colors: brown (45.8%), black (30.6%), gray (23.6%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 193.8)

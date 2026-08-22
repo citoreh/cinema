@@ -1,0 +1,13 @@
+Scene 300
+Frame timestamp: 1238.167s (00:20:38.166) — roughly 24% through the video
+Scene span: 1237.71s → 1238.62s (duration ~0.92s)
+
+What's in the frame: there is a man in a suit and tie with his hands up
+Additional detail: a detailed photo of a close up of a person in a suit and tie
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 86.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (42.0%), gold (30.6%), brown (27.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 40.1)

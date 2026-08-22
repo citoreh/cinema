@@ -1,0 +1,13 @@
+Scene 989
+Frame timestamp: 4756.917s (01:19:16.916) — roughly 93% through the video
+Scene span: 4754.83s → 4759.00s (duration ~4.17s)
+
+What's in the frame: there is a bird that is sitting in a cage next to a sink
+Additional detail: a detailed photo of a bird in a cage next to a sink
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 60.8/255)
+  - Color palette: muted colors — dominant colors: brown (56.8%), black (32.0%), gray (11.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 70.5)

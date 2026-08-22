@@ -1,0 +1,13 @@
+Scene 31
+Frame timestamp: 298.896s (00:04:58.895) — roughly 6% through the video
+Scene span: 250.00s → 347.79s (duration ~97.79s)
+
+What's in the frame: there are many different pictures of a man with a beard
+Additional detail: a detailed photo of a man standing in front of a colorful background
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 84.3/255)
+  - Color palette: muted colors — dominant colors: black (56.2%), purple (31.7%), gold (12.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 88.3)

@@ -1,0 +1,13 @@
+Scene 15
+Frame timestamp: 73.021s (00:01:13.020) — roughly 1% through the video
+Scene span: 72.25s → 73.79s (duration ~1.54s)
+
+What's in the frame: there is a man that is looking out of a window
+Additional detail: a detailed photo of a man in a hat looking through a window
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 105.7/255)
+  - Color palette: muted colors — dominant colors: black (37.2%), green (35.6%), gray (27.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 258.8)

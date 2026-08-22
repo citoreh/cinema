@@ -1,0 +1,13 @@
+Scene 449
+Frame timestamp: 1912.208s (00:31:52.208) — roughly 37% through the video
+Scene span: 1911.75s → 1912.67s (duration ~0.92s)
+
+What's in the frame: this is an image of a man driving a red car down the street
+Additional detail: a detailed photo of a red car driving down a street
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 107.1/255)
+  - Color palette: muted colors — dominant colors: beige (36.3%), black (34.5%), brown (29.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 155.7)

@@ -1,0 +1,13 @@
+Scene 581
+Frame timestamp: 2432.250s (00:40:32.250) — roughly 47% through the video
+Scene span: 2431.88s → 2432.62s (duration ~0.75s)
+
+What's in the frame: there is a close up of a man with a surprised look on his face
+Additional detail: a detailed photo of a man with a surprised look on his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 60.0/255)
+  - Color palette: muted colors — dominant colors: black (64.1%), brown (19.9%), beige (16.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 33.8)

@@ -1,0 +1,13 @@
+Scene 552
+Frame timestamp: 2380.000s (00:39:40.000) — roughly 46% through the video
+Scene span: 2374.96s → 2385.04s (duration ~10.08s)
+
+What's in the frame: there is a car parked in front of a building with a balcony and balconies
+Additional detail: a detailed photo of an apartment building with a balcony and balconies
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.0/255)
+  - Color palette: muted colors — dominant colors: black (60.5%), brown (27.6%), gray (11.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 146.0)

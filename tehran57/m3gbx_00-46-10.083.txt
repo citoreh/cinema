@@ -1,0 +1,13 @@
+Scene 638
+Frame timestamp: 2770.083s (00:46:10.083) — roughly 54% through the video
+Scene span: 2768.79s → 2771.38s (duration ~2.58s)
+
+What's in the frame: this is an image of a man in a suit talking on a cell phone
+Additional detail: a detailed photo of a man in a suit and tie standing in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 101.3/255)
+  - Color palette: muted colors — dominant colors: black (37.7%), beige (37.3%), gray (25.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 100.9)

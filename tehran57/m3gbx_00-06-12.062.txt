@@ -1,0 +1,13 @@
+Scene 36
+Frame timestamp: 372.062s (00:06:12.062) — roughly 7% through the video
+Scene span: 370.71s → 373.42s (duration ~2.71s)
+
+What's in the frame: cars parked on the side of the road with a dog sitting in the passenger seat
+Additional detail: a detailed photo of a green car parked on the side of the road
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 93.6/255)
+  - Color palette: muted colors — dominant colors: brown (38.1%), black (33.5%), beige (28.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 61.5)

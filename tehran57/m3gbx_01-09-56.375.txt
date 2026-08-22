@@ -1,0 +1,13 @@
+Scene 942
+Frame timestamp: 4196.375s (01:09:56.375) — roughly 82% through the video
+Scene span: 4193.04s → 4199.71s (duration ~6.67s)
+
+What's in the frame: there are two men that are standing next to each other
+Additional detail: a detailed photo of two men standing next to each other in a kitchen
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 77.0/255)
+  - Color palette: muted colors — dominant colors: brown (44.6%), black (30.3%), gray (25.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 64.5)

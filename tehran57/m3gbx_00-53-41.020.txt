@@ -1,0 +1,13 @@
+Scene 721
+Frame timestamp: 3221.021s (00:53:41.020) — roughly 63% through the video
+Scene span: 3220.54s → 3221.50s (duration ~0.96s)
+
+What's in the frame: there is a woman with a scarf and gloves on talking on a cell phone
+Additional detail: a detailed photo of a woman in a scarf and gloves on a cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 90.0/255)
+  - Color palette: muted colors — dominant colors: black (40.5%), gray (40.2%), brown (19.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 30.7)

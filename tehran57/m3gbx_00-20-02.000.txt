@@ -1,0 +1,13 @@
+Scene 285
+Frame timestamp: 1202.000s (00:20:02.000) — roughly 23% through the video
+Scene span: 1201.12s → 1202.88s (duration ~1.75s)
+
+What's in the frame: there is a man in a suit and tie standing next to a man in a suit
+Additional detail: a detailed photo of a man in a suit and tie standing next to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.0/255)
+  - Color palette: muted colors — dominant colors: black (58.9%), brown (27.5%), gold (13.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 51.2)

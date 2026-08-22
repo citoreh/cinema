@@ -1,0 +1,13 @@
+Scene 339
+Frame timestamp: 1386.938s (00:23:06.937) — roughly 27% through the video
+Scene span: 1385.71s → 1388.17s (duration ~2.46s)
+
+What's in the frame: there is a woman with a purple hat talking to a man
+Additional detail: a detailed photo of a woman in a purple hat talking to a man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.9/255)
+  - Color palette: muted colors — dominant colors: black (56.1%), brown (39.2%), beige (4.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 115.8)

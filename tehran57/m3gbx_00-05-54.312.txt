@@ -1,0 +1,13 @@
+Scene 32
+Frame timestamp: 354.312s (00:05:54.312) — roughly 7% through the video
+Scene span: 347.79s → 360.83s (duration ~13.04s)
+
+What's in the frame: there is a woman that is walking up the stairs of a building
+Additional detail: a detailed photo of a person walking up a set of stairs
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 92.3/255)
+  - Color palette: vivid, saturated colors — dominant colors: navy (53.8%), black (32.4%), blue (13.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 48.7)

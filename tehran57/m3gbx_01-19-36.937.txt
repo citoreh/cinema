@@ -1,0 +1,13 @@
+Scene 993
+Frame timestamp: 4776.938s (01:19:36.937) — roughly 93% through the video
+Scene span: 4776.08s → 4777.79s (duration ~1.71s)
+
+What's in the frame: there is a group of people that are standing in front of a counter
+Additional detail: a detailed photo of a group of people standing in front of a counter
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.4/255)
+  - Color palette: muted colors — dominant colors: black (56.5%), brown (21.9%), gray (21.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 102.2)

@@ -1,0 +1,13 @@
+Scene 267
+Frame timestamp: 1158.375s (00:19:18.375) — roughly 23% through the video
+Scene span: 1156.50s → 1160.25s (duration ~3.75s)
+
+What's in the frame: there are two people sitting at a table talking on their cell phones
+Additional detail: a detailed photo of a man and a woman sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 56.0/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (54.5%), brown (36.3%), gold (9.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 55.4)

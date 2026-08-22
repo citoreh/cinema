@@ -1,0 +1,13 @@
+Scene 474
+Frame timestamp: 2040.958s (00:34:00.958) — roughly 40% through the video
+Scene span: 2039.54s → 2042.38s (duration ~2.83s)
+
+What's in the frame: this is an image of a man with a big afro in a restaurant
+Additional detail: a detailed photo of a man in a suit and tie standing in front of a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.2/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (46.7%), black (43.3%), gold (10.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 31.0)

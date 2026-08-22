@@ -1,0 +1,13 @@
+Scene 937
+Frame timestamp: 4142.104s (01:09:02.104) — roughly 81% through the video
+Scene span: 4137.46s → 4146.75s (duration ~9.29s)
+
+What's in the frame: there is a woman that is wearing a pink shirt and a purple tie
+Additional detail: a detailed photo of a woman in a pink shirt and purple bow tie
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 100.0/255)
+  - Color palette: muted colors — dominant colors: brown (39.4%), gray (32.6%), black (28.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.8)

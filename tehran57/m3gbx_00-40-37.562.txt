@@ -1,0 +1,13 @@
+Scene 584
+Frame timestamp: 2437.562s (00:40:37.562) — roughly 47% through the video
+Scene span: 2436.58s → 2438.54s (duration ~1.96s)
+
+What's in the frame: there is a man sitting in the back seat of a car talking on a cell phone
+Additional detail: a detailed photo of a man with a mustache sitting in a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.3/255)
+  - Color palette: muted colors — dominant colors: black (64.9%), gray (26.2%), white (8.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 24.8)

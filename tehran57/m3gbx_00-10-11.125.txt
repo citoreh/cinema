@@ -1,0 +1,13 @@
+Scene 68
+Frame timestamp: 611.125s (00:10:11.125) — roughly 12% through the video
+Scene span: 610.38s → 611.88s (duration ~1.50s)
+
+What's in the frame: there is a man in a suit and tie sitting at a table with other people
+Additional detail: a detailed photo of a man in a suit and tie sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.3/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (49.6%), black (33.5%), gray (16.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 125.3)

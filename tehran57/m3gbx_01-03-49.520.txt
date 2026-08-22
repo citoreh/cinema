@@ -1,0 +1,13 @@
+Scene 861
+Frame timestamp: 3829.521s (01:03:49.520) — roughly 75% through the video
+Scene span: 3828.25s → 3830.79s (duration ~2.54s)
+
+What's in the frame: there are two men standing next to each other in a room
+Additional detail: a detailed photo of two men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.3/255)
+  - Color palette: muted colors — dominant colors: brown (53.3%), black (35.5%), beige (11.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 117.9)

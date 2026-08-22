@@ -1,0 +1,13 @@
+Scene 932
+Frame timestamp: 4110.792s (01:08:30.791) — roughly 80% through the video
+Scene span: 4107.08s → 4114.50s (duration ~7.42s)
+
+What's in the frame: there is a man standing in front of a mirror talking to another man
+Additional detail: a detailed photo of a man looking at his reflection in a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.0/255)
+  - Color palette: muted colors — dominant colors: brown (43.0%), black (35.8%), gray (21.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 39.5)

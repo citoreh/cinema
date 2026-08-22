@@ -1,0 +1,13 @@
+Scene 935
+Frame timestamp: 4133.667s (01:08:53.666) — roughly 81% through the video
+Scene span: 4132.25s → 4135.08s (duration ~2.83s)
+
+What's in the frame: there is a cat sitting on the ledge of a building
+Additional detail: a detailed photo of a bathroom with a toilet and a sink
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.8/255)
+  - Color palette: muted colors — dominant colors: black (51.1%), brown (33.5%), gray (15.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.7)

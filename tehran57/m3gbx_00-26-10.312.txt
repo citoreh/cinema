@@ -1,0 +1,13 @@
+Scene 381
+Frame timestamp: 1570.312s (00:26:10.312) — roughly 31% through the video
+Scene span: 1569.00s → 1571.62s (duration ~2.62s)
+
+What's in the frame: there is a man standing in front of a building talking to another man
+Additional detail: a detailed photo of a man talking to another man in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 86.7/255)
+  - Color palette: muted colors — dominant colors: black (43.5%), brown (29.4%), beige (27.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 81.1)

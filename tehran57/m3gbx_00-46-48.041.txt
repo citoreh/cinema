@@ -1,0 +1,13 @@
+Scene 652
+Frame timestamp: 2808.042s (00:46:48.041) — roughly 55% through the video
+Scene span: 2806.88s → 2809.21s (duration ~2.33s)
+
+What's in the frame: this is an image of a man standing in front of a car
+Additional detail: a detailed photo of a man wearing a suit and tie standing in front of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 107.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: beige (38.7%), black (35.3%), gray (26.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 95.6)

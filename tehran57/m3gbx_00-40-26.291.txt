@@ -1,0 +1,13 @@
+Scene 576
+Frame timestamp: 2426.292s (00:40:26.291) — roughly 47% through the video
+Scene span: 2425.67s → 2426.92s (duration ~1.25s)
+
+What's in the frame: there is a man with a moustache on his face talking to another man
+Additional detail: a detailed photo of a close up of a man with a mustache and moustache
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 54.4/255)
+  - Color palette: muted colors — dominant colors: black (67.2%), gray (17.0%), brown (15.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 21.2)

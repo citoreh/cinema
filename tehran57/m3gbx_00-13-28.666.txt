@@ -1,0 +1,13 @@
+Scene 158
+Frame timestamp: 808.667s (00:13:28.666) — roughly 16% through the video
+Scene span: 808.25s → 809.08s (duration ~0.83s)
+
+What's in the frame: there are two people standing next to each other in front of a neon sign
+Additional detail: a detailed photo of two people standing in front of a neon sign
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.9/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (49.4%), black (28.8%), brown (21.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 73.3)

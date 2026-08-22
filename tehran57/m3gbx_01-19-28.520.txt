@@ -1,0 +1,13 @@
+Scene 991
+Frame timestamp: 4768.521s (01:19:28.520) — roughly 93% through the video
+Scene span: 4767.04s → 4770.00s (duration ~2.96s)
+
+What's in the frame: there is a group of people that are standing in a room
+Additional detail: a detailed photo of a group of people waiting in line at an airport
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.7/255)
+  - Color palette: muted colors — dominant colors: black (43.9%), gray (29.1%), brown (26.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 83.2)

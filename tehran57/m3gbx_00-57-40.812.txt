@@ -1,0 +1,13 @@
+Scene 765
+Frame timestamp: 3460.812s (00:57:40.812) — roughly 67% through the video
+Scene span: 3460.00s → 3461.62s (duration ~1.62s)
+
+What's in the frame: there is a man that is laying down with his head on his hands
+Additional detail: a detailed photo of a man with a beard laying on a bed
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (42.7%), black (35.3%), brown (22.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 9.1)

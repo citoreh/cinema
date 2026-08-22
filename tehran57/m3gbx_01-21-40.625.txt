@@ -1,0 +1,13 @@
+Scene 1006
+Frame timestamp: 4900.625s (01:21:40.625) — roughly 95% through the video
+Scene span: 4893.17s → 4908.08s (duration ~14.92s)
+
+What's in the frame: there is a man that is walking up the stairs of an airplane
+Additional detail: a detailed photo of a man walking up the stairs of an airplane
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: bright / well-lit (avg brightness 147.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: white (37.4%), gray (33.8%), black (28.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 82.7)

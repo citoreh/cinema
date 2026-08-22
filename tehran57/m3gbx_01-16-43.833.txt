@@ -1,0 +1,13 @@
+Scene 972
+Frame timestamp: 4603.833s (01:16:43.833) — roughly 90% through the video
+Scene span: 4600.04s → 4607.62s (duration ~7.58s)
+
+What's in the frame: there is a red and white striped traffic sign on the side of the road
+Additional detail: a detailed photo of a red and white striped street sign
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.3/255)
+  - Color palette: muted colors — dominant colors: brown (51.6%), black (29.2%), gray (19.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 218.2)

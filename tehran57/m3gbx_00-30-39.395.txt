@@ -1,0 +1,13 @@
+Scene 431
+Frame timestamp: 1839.396s (00:30:39.395) — roughly 36% through the video
+Scene span: 1835.04s → 1843.75s (duration ~8.71s)
+
+What's in the frame: there is a man and woman looking at something on a cell phone
+Additional detail: a detailed photo of a man in a turban looking at a cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 86.8/255)
+  - Color palette: muted colors — dominant colors: black (45.5%), gray (34.1%), brown (20.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 108.6)

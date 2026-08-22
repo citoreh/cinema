@@ -1,0 +1,13 @@
+Scene 485
+Frame timestamp: 2066.021s (00:34:26.020) — roughly 40% through the video
+Scene span: 2065.46s → 2066.58s (duration ~1.12s)
+
+What's in the frame: there is a man in a suit and tie standing in front of a gold curtain
+Additional detail: a detailed photo of a man with a moustache wearing a suit and tie
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 94.0/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (48.9%), olive (31.0%), beige (20.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 88.5)

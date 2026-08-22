@@ -1,0 +1,13 @@
+Scene 515
+Frame timestamp: 2191.833s (00:36:31.833) — roughly 43% through the video
+Scene span: 2187.17s → 2196.50s (duration ~9.33s)
+
+What's in the frame: there is a man that is standing in front of a glass door
+Additional detail: a detailed photo of a man standing in front of a yellow door
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 85.6/255)
+  - Color palette: muted colors — dominant colors: black (57.8%), olive (27.3%), beige (14.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 119.5)

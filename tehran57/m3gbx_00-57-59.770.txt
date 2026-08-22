@@ -1,0 +1,13 @@
+Scene 773
+Frame timestamp: 3479.771s (00:57:59.770) — roughly 68% through the video
+Scene span: 3478.92s → 3480.62s (duration ~1.71s)
+
+What's in the frame: there is a man that is laying down with a camera in his hand
+Additional detail: a detailed photo of a bearded man with a camera in his hand
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (41.9%), black (38.1%), brown (20.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.8)

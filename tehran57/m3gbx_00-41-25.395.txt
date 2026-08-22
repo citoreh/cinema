@@ -1,0 +1,13 @@
+Scene 605
+Frame timestamp: 2485.396s (00:41:25.395) — roughly 48% through the video
+Scene span: 2482.71s → 2488.08s (duration ~5.38s)
+
+What's in the frame: this is an image of a man with a mustache and a tie
+Additional detail: a detailed photo of a man with a moustache on his face in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.2/255)
+  - Color palette: muted colors — dominant colors: black (60.4%), gray (20.4%), brown (19.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 14.3)

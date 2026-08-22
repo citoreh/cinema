@@ -1,0 +1,13 @@
+Scene 288
+Frame timestamp: 1207.792s (00:20:07.791) — roughly 24% through the video
+Scene span: 1206.04s → 1209.54s (duration ~3.50s)
+
+What's in the frame: there is a group of men that are singing together in front of a gold curtain
+Additional detail: a detailed photo of a group of men singing and playing instruments
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.5/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (44.3%), olive (29.2%), brown (26.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 185.1)

@@ -1,0 +1,13 @@
+Scene 621
+Frame timestamp: 2693.458s (00:44:53.458) — roughly 52% through the video
+Scene span: 2689.33s → 2697.58s (duration ~8.25s)
+
+What's in the frame: this is a black and white photo of a woman standing in front of a mirror
+Additional detail: a detailed photo of a woman standing in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 51.8/255)
+  - Color palette: muted colors — dominant colors: black (54.1%), gray (32.4%), brown (13.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 83.1)

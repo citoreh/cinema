@@ -1,0 +1,13 @@
+Scene 666
+Frame timestamp: 2935.208s (00:48:55.208) — roughly 57% through the video
+Scene span: 2923.17s → 2947.25s (duration ~24.08s)
+
+What's in the frame: there is a man in a blue suit standing next to a woman in a red jacket
+Additional detail: a detailed photo of a man in a blue suit serving food to a woman in a red jacket
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.0/255)
+  - Color palette: muted colors — dominant colors: black (54.6%), brown (27.4%), gray (18.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 54.7)

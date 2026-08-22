@@ -1,0 +1,13 @@
+Scene 290
+Frame timestamp: 1212.854s (00:20:12.854) — roughly 24% through the video
+Scene span: 1211.17s → 1214.54s (duration ~3.38s)
+
+What's in the frame: there is a group of people that are dancing together on the dance floor
+Additional detail: a detailed photo of a group of people dancing at a party
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.7/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (54.4%), brown (34.7%), gold (10.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 75.1)

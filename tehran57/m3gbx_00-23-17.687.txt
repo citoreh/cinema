@@ -1,0 +1,13 @@
+Scene 344
+Frame timestamp: 1397.688s (00:23:17.687) — roughly 27% through the video
+Scene span: 1397.00s → 1398.38s (duration ~1.38s)
+
+What's in the frame: there is a man standing in front of a painting talking to a woman
+Additional detail: a detailed photo of a man standing in front of a painting
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.8/255)
+  - Color palette: muted colors — dominant colors: black (49.1%), brown (39.9%), beige (11.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 37.4)

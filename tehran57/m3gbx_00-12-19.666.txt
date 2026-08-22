@@ -1,0 +1,13 @@
+Scene 101
+Frame timestamp: 739.667s (00:12:19.666) — roughly 14% through the video
+Scene span: 738.17s → 741.17s (duration ~3.00s)
+
+What's in the frame: there are two men that are sitting at a table with a newspaper
+Additional detail: a detailed photo of two men sitting at a table in a restaurant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.6/255)
+  - Color palette: muted colors — dominant colors: black (45.0%), brown (35.7%), beige (19.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 122.9)

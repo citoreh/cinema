@@ -1,0 +1,13 @@
+Scene 977
+Frame timestamp: 4629.083s (01:17:09.083) — roughly 90% through the video
+Scene span: 4626.25s → 4631.92s (duration ~5.67s)
+
+What's in the frame: there are two boys that are standing on a set of stairs
+Additional detail: a detailed photo of two children climbing up a flight of stairs
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 61.8/255)
+  - Color palette: muted colors — dominant colors: black (34.8%), gray (33.7%), brown (31.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 58.8)

@@ -1,0 +1,13 @@
+Scene 83
+Frame timestamp: 641.771s (00:10:41.770) — roughly 13% through the video
+Scene span: 640.92s → 642.62s (duration ~1.71s)
+
+What's in the frame: there is a man sitting at a table with a bottle of wine in his hand
+Additional detail: a detailed photo of a man in a suit and tie sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.9/255)
+  - Color palette: muted colors — dominant colors: brown (48.1%), black (35.0%), gray (16.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 123.8)

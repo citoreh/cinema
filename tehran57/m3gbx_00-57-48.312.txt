@@ -1,0 +1,13 @@
+Scene 768
+Frame timestamp: 3468.312s (00:57:48.312) — roughly 68% through the video
+Scene span: 3467.04s → 3469.58s (duration ~2.54s)
+
+What's in the frame: there are two men that are standing next to each other in the dark
+Additional detail: a detailed photo of two men in suits posing for a picture
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (63.9%), black (25.3%), brown (10.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 7.3)

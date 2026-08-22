@@ -1,0 +1,13 @@
+Scene 715
+Frame timestamp: 3209.167s (00:53:29.166) — roughly 63% through the video
+Scene span: 3208.42s → 3209.92s (duration ~1.50s)
+
+What's in the frame: there is a young boy wearing gloves and a hoodie sitting at a table
+Additional detail: a detailed photo of a young boy in a hooded jacket and gloves
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 99.6/255)
+  - Color palette: muted colors — dominant colors: gray (46.2%), black (36.9%), brown (17.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.5)

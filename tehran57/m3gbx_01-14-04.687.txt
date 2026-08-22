@@ -1,0 +1,13 @@
+Scene 966
+Frame timestamp: 4444.688s (01:14:04.687) — roughly 87% through the video
+Scene span: 4395.62s → 4493.75s (duration ~98.12s)
+
+What's in the frame: there are two men standing next to each other in a room
+Additional detail: a detailed photo of two men standing in front of a glass door
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 61.5/255)
+  - Color palette: muted colors — dominant colors: brown (40.0%), gray (30.2%), black (29.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 47.5)

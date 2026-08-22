@@ -1,0 +1,13 @@
+Scene 110
+Frame timestamp: 758.708s (00:12:38.708) — roughly 15% through the video
+Scene span: 758.08s → 759.33s (duration ~1.25s)
+
+What's in the frame: there is a woman standing in front of a neon sign that says american club
+Additional detail: a detailed photo of a woman standing in front of a neon sign
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.0/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (56.6%), black (39.3%), gray (4.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 90.3)

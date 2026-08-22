@@ -1,0 +1,13 @@
+Scene 201
+Frame timestamp: 851.208s (00:14:11.208) — roughly 17% through the video
+Scene span: 850.83s → 851.58s (duration ~0.75s)
+
+What's in the frame: there is a man and a woman talking in front of a brick wall
+Additional detail: a detailed photo of a man and woman talking in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.0/255)
+  - Color palette: muted colors — dominant colors: black (46.1%), brown (40.9%), brown (13.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.7)

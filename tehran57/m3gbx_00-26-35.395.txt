@@ -1,0 +1,13 @@
+Scene 384
+Frame timestamp: 1595.396s (00:26:35.395) — roughly 31% through the video
+Scene span: 1592.67s → 1598.12s (duration ~5.46s)
+
+What's in the frame: there is a man standing in front of a brick wall talking to another man
+Additional detail: a detailed photo of a man standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.9/255)
+  - Color palette: muted colors — dominant colors: black (47.3%), gray (40.2%), beige (12.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 64.6)

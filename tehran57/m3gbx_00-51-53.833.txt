@@ -1,0 +1,13 @@
+Scene 684
+Frame timestamp: 3113.833s (00:51:53.833) — roughly 61% through the video
+Scene span: 3111.75s → 3115.92s (duration ~4.17s)
+
+What's in the frame: there is a man wearing a hat and a suit talking to another man
+Additional detail: a detailed photo of a man in a suit and hat with a surprised look on his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.6/255)
+  - Color palette: muted colors — dominant colors: black (44.2%), brown (38.8%), gray (17.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.7)

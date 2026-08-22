@@ -1,0 +1,13 @@
+Scene 273
+Frame timestamp: 1177.125s (00:19:37.125) — roughly 23% through the video
+Scene span: 1175.92s → 1178.33s (duration ~2.42s)
+
+What's in the frame: there is a man in a suit sitting at a table with a plate of food
+Additional detail: a detailed photo of a man in a suit sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.7/255)
+  - Color palette: muted colors — dominant colors: black (51.3%), brown (31.4%), gray (17.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 38.5)

@@ -1,0 +1,13 @@
+Scene 752
+Frame timestamp: 3414.833s (00:56:54.833) — roughly 67% through the video
+Scene span: 3413.83s → 3415.83s (duration ~2.00s)
+
+What's in the frame: there are two men standing next to each other in a dark room
+Additional detail: a detailed photo of two men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 29.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (62.7%), black (25.2%), brown (12.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 7.3)

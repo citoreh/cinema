@@ -1,0 +1,13 @@
+Scene 331
+Frame timestamp: 1350.479s (00:22:30.479) — roughly 26% through the video
+Scene span: 1350.00s → 1350.96s (duration ~0.96s)
+
+What's in the frame: there is a woman that is standing in front of a man
+Additional detail: a detailed photo of a woman looking at a man in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.0/255)
+  - Color palette: muted colors — dominant colors: black (51.8%), brown (43.0%), beige (5.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 151.5)

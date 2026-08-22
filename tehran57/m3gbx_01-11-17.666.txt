@@ -1,0 +1,13 @@
+Scene 948
+Frame timestamp: 4277.667s (01:11:17.666) — roughly 83% through the video
+Scene span: 4271.71s → 4283.62s (duration ~11.92s)
+
+What's in the frame: there are two women standing in front of a counter talking on the phone
+Additional detail: a detailed photo of a woman in a pink dress talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.4/255)
+  - Color palette: muted colors — dominant colors: brown (41.3%), black (31.8%), gray (26.8%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 93.5)

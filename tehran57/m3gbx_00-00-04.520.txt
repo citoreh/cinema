@@ -1,0 +1,13 @@
+Scene 1
+Frame timestamp: 4.521s (00:00:04.520) — roughly 0% through the video
+Scene span: 0.00s → 9.04s (duration ~9.04s)
+
+What's in the frame: there is a black and white photo of a clock with seven on it
+Additional detail: a detailed photo of a clock with the number seven on it
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: bright / well-lit (avg brightness 135.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (38.6%), beige (34.2%), black (27.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 181.9)

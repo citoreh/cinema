@@ -1,0 +1,13 @@
+Scene 14
+Frame timestamp: 70.562s (00:01:10.562) — roughly 1% through the video
+Scene span: 68.88s → 72.25s (duration ~3.38s)
+
+What's in the frame: this is an image of a man in a suit and tie talking on a cell phone
+Additional detail: a detailed photo of a man in a suit and tie talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 103.7/255)
+  - Color palette: muted colors — dominant colors: black (39.7%), beige (35.7%), brown (24.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 96.7)

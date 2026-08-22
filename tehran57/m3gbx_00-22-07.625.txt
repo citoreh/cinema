@@ -1,0 +1,13 @@
+Scene 320
+Frame timestamp: 1327.625s (00:22:07.625) — roughly 26% through the video
+Scene span: 1326.12s → 1329.12s (duration ~3.00s)
+
+What's in the frame: there is a man that is reading a newspaper in front of a painting
+Additional detail: a detailed photo of a man reading a newspaper in front of a painting
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.0/255)
+  - Color palette: muted colors — dominant colors: black (49.5%), brown (40.6%), white (9.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 47.1)

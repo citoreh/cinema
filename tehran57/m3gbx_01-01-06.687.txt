@@ -1,0 +1,13 @@
+Scene 808
+Frame timestamp: 3666.688s (01:01:06.687) — roughly 71% through the video
+Scene span: 3662.21s → 3671.17s (duration ~8.96s)
+
+What's in the frame: there are many men standing in a room talking to each other
+Additional detail: a detailed photo of a group of men standing in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.1/255)
+  - Color palette: muted colors — dominant colors: black (48.9%), brown (42.2%), beige (8.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 100.3)

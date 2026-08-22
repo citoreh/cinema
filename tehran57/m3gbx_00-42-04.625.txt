@@ -1,0 +1,13 @@
+Scene 612
+Frame timestamp: 2524.625s (00:42:04.625) — roughly 49% through the video
+Scene span: 2524.12s → 2525.12s (duration ~1.00s)
+
+What's in the frame: this is a close up of a person ' s hand on a red car
+Additional detail: a detailed photo of a person ' s hand cleaning a red car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: bright / well-lit (avg brightness 151.0/255)
+  - Color palette: muted colors — dominant colors: gray (50.9%), black (29.6%), beige (19.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.1)

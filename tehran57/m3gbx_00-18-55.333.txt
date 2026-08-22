@@ -1,0 +1,13 @@
+Scene 258
+Frame timestamp: 1135.333s (00:18:55.333) — roughly 22% through the video
+Scene span: 1133.71s → 1136.96s (duration ~3.25s)
+
+What's in the frame: there is a woman with a red scarf on her head looking at the camera
+Additional detail: a detailed photo of a woman with red hair and a hood over her head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 66.4/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (49.4%), black (40.2%), olive (10.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 10.0)

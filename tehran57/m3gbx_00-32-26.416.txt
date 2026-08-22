@@ -1,0 +1,13 @@
+Scene 459
+Frame timestamp: 1946.417s (00:32:26.416) — roughly 38% through the video
+Scene span: 1945.75s → 1947.08s (duration ~1.33s)
+
+What's in the frame: several people are sitting at a table with wine glasses in front of them
+Additional detail: a detailed photo of a group of people sitting around a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.0/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (47.5%), black (34.5%), gray (18.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 75.0)

@@ -1,0 +1,13 @@
+Scene 933
+Frame timestamp: 4118.771s (01:08:38.770) — roughly 80% through the video
+Scene span: 4114.50s → 4123.04s (duration ~8.54s)
+
+What's in the frame: there is a person standing on the steps of a building
+Additional detail: a detailed photo of a person standing on the steps of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 85.8/255)
+  - Color palette: muted colors — dominant colors: gray (48.9%), black (26.5%), brown (24.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.3)

@@ -1,0 +1,13 @@
+Scene 283
+Frame timestamp: 1198.250s (00:19:58.250) — roughly 23% through the video
+Scene span: 1197.92s → 1198.58s (duration ~0.67s)
+
+What's in the frame: there is a man that is playing a guitar in front of a group of people
+Additional detail: a detailed photo of a man in a suit and tie playing a guitar
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.6/255)
+  - Color palette: muted colors — dominant colors: black (57.3%), brown (26.4%), gray (16.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 45.5)

@@ -1,0 +1,13 @@
+Scene 1003
+Frame timestamp: 4836.083s (01:20:36.083) — roughly 94% through the video
+Scene span: 4833.21s → 4838.96s (duration ~5.75s)
+
+What's in the frame: there is a man standing in front of a mirror talking to a group of people
+Additional detail: a detailed photo of a group of men standing in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.1/255)
+  - Color palette: muted colors — dominant colors: black (39.2%), brown (33.5%), beige (27.3%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 98.1)

@@ -1,0 +1,13 @@
+Scene 25
+Frame timestamp: 99.625s (00:01:39.625) — roughly 2% through the video
+Scene span: 98.29s → 100.96s (duration ~2.67s)
+
+What's in the frame: there is a man that is pouring some milk into a bottle
+Additional detail: a detailed photo of a man pouring milk into a bottle
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 100.4/255)
+  - Color palette: muted colors — dominant colors: black (39.8%), green (32.2%), gray (28.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 216.7)

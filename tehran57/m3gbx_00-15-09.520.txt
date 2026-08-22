@@ -1,0 +1,13 @@
+Scene 234
+Frame timestamp: 909.521s (00:15:09.520) — roughly 18% through the video
+Scene span: 908.17s → 910.88s (duration ~2.71s)
+
+What's in the frame: there are two men sitting at a table with glasses of wine and a cigar
+Additional detail: a detailed photo of two men sitting at a table with wine glasses
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 56.8/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (54.4%), brown (30.8%), gray (14.8%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 199.9)

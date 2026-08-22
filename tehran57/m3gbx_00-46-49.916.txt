@@ -1,0 +1,13 @@
+Scene 653
+Frame timestamp: 2809.917s (00:46:49.916) — roughly 55% through the video
+Scene span: 2809.21s → 2810.62s (duration ~1.42s)
+
+What's in the frame: there is a woman that is standing in front of a car with a hood over her head
+Additional detail: a detailed photo of a woman in a brown coat with a hood over her head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 46.0/255)
+  - Color palette: muted colors — dominant colors: black (65.5%), brown (22.9%), gray (11.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.9)

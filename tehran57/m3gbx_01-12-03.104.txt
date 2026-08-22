@@ -1,0 +1,13 @@
+Scene 957
+Frame timestamp: 4323.104s (01:12:03.104) — roughly 84% through the video
+Scene span: 4320.92s → 4325.29s (duration ~4.38s)
+
+What's in the frame: there is a man standing at a table with a bottle of wine in his hand
+Additional detail: a detailed photo of a man standing in front of a wooden table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 48.7/255)
+  - Color palette: muted colors — dominant colors: black (48.9%), brown (35.3%), gray (15.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.5)

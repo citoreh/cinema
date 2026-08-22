@@ -1,0 +1,13 @@
+Scene 998
+Frame timestamp: 4803.312s (01:20:03.312) — roughly 94% through the video
+Scene span: 4801.96s → 4804.67s (duration ~2.71s)
+
+What's in the frame: there is a man taking a selfie with a cell phone in front of a group of people
+Additional detail: a detailed photo of a man taking a selfie in front of a group of people
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.0/255)
+  - Color palette: muted colors — dominant colors: black (51.9%), brown (26.4%), gray (21.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 40.1)

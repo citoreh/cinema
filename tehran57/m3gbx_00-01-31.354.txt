@@ -1,0 +1,13 @@
+Scene 22
+Frame timestamp: 91.354s (00:01:31.354) — roughly 2% through the video
+Scene span: 90.00s → 92.71s (duration ~2.71s)
+
+What's in the frame: this is an image of a man in a suit and tie with a surprised look on his face
+Additional detail: a detailed photo of a man in a suit and tie with a surprised look on his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 91.6/255)
+  - Color palette: muted colors — dominant colors: black (45.7%), beige (33.0%), brown (21.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 53.1)

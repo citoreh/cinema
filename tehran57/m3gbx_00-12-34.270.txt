@@ -1,0 +1,13 @@
+Scene 108
+Frame timestamp: 754.271s (00:12:34.270) — roughly 15% through the video
+Scene span: 752.08s → 756.46s (duration ~4.38s)
+
+What's in the frame: there is a man that is holding a newspaper in his hand
+Additional detail: a detailed photo of a man in a suit and tie holding a newspaper
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.9/255)
+  - Color palette: muted colors — dominant colors: black (63.0%), gray (27.7%), beige (9.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 62.5)

@@ -1,0 +1,13 @@
+Scene 559
+Frame timestamp: 2393.646s (00:39:53.645) — roughly 47% through the video
+Scene span: 2393.21s → 2394.08s (duration ~0.88s)
+
+What's in the frame: there is a man that is sitting in the back seat of a car talking on a cell phone
+Additional detail: a detailed photo of a man sitting in a car with his eyes closed
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.2/255)
+  - Color palette: muted colors — dominant colors: black (56.4%), brown (27.6%), beige (15.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.1)

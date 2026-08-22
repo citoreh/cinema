@@ -1,0 +1,13 @@
+Scene 397
+Frame timestamp: 1699.312s (00:28:19.312) — roughly 33% through the video
+Scene span: 1698.08s → 1700.54s (duration ~2.46s)
+
+What's in the frame: there is a man that is talking to another man in front of a building
+Additional detail: a detailed photo of a man talking to another man in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 99.9/255)
+  - Color palette: muted colors — dominant colors: black (39.6%), gray (33.9%), beige (26.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 35.0)

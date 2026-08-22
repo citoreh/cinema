@@ -1,0 +1,13 @@
+Scene 450
+Frame timestamp: 1913.062s (00:31:53.062) — roughly 37% through the video
+Scene span: 1912.67s → 1913.46s (duration ~0.79s)
+
+What's in the frame: there is a close up of a car with a license plate on it
+Additional detail: a detailed photo of a car with a license plate on it ' s bumper
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.3/255)
+  - Color palette: muted colors — dominant colors: black (55.5%), brown (26.2%), beige (18.3%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 78.3)

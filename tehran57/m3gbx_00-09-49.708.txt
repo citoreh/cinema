@@ -1,0 +1,13 @@
+Scene 57
+Frame timestamp: 589.708s (00:09:49.708) — roughly 11% through the video
+Scene span: 588.67s → 590.75s (duration ~2.08s)
+
+What's in the frame: there is a man that is sitting at a table with a glass of wine
+Additional detail: a detailed photo of a man sitting at a table in a restaurant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 56.1/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (44.7%), black (36.7%), gray (18.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 137.0)

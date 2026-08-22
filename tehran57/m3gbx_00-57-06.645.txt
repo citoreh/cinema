@@ -1,0 +1,13 @@
+Scene 754
+Frame timestamp: 3426.646s (00:57:06.645) — roughly 67% through the video
+Scene span: 3425.83s → 3427.46s (duration ~1.62s)
+
+What's in the frame: there are two men standing next to each other in front of a wall
+Additional detail: a detailed photo of two men in suits posing for a picture
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (63.6%), black (25.3%), brown (11.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.5)

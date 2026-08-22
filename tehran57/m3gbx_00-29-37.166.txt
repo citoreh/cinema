@@ -1,0 +1,13 @@
+Scene 422
+Frame timestamp: 1777.167s (00:29:37.166) — roughly 35% through the video
+Scene span: 1776.29s → 1778.04s (duration ~1.75s)
+
+What's in the frame: there are two men standing next to each other talking on their cell phones
+Additional detail: a detailed photo of two men standing next to each other in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.8/255)
+  - Color palette: muted colors — dominant colors: black (36.5%), gray (35.2%), brown (28.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 51.3)

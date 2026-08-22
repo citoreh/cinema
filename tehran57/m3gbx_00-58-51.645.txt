@@ -1,0 +1,13 @@
+Scene 794
+Frame timestamp: 3531.646s (00:58:51.645) — roughly 69% through the video
+Scene span: 3531.17s → 3532.12s (duration ~0.96s)
+
+What's in the frame: there is a man that is holding a pair of scissors in his hand
+Additional detail: a detailed photo of a bearded man holding a pair of scissors
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 30.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (45.4%), black (35.2%), brown (19.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 7.8)

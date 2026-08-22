@@ -1,0 +1,13 @@
+Scene 280
+Frame timestamp: 1194.250s (00:19:54.250) — roughly 23% through the video
+Scene span: 1193.00s → 1195.50s (duration ~2.50s)
+
+What's in the frame: there is a man standing in front of a neon sign holding a nintendo wii controller
+Additional detail: a detailed photo of a man standing in front of a neon sign
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.2/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (47.1%), brown (44.5%), gray (8.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.7)

@@ -1,0 +1,13 @@
+Scene 934
+Frame timestamp: 4127.646s (01:08:47.645) — roughly 80% through the video
+Scene span: 4123.04s → 4132.25s (duration ~9.21s)
+
+What's in the frame: there are two men standing next to each other in a kitchen
+Additional detail: a detailed photo of a man with a fake moustache on his face and another man with a fake moustache on his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 76.6/255)
+  - Color palette: muted colors — dominant colors: brown (46.0%), black (33.0%), gray (21.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 39.3)

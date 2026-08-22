@@ -1,0 +1,13 @@
+Scene 984
+Frame timestamp: 4710.083s (01:18:30.083) — roughly 92% through the video
+Scene span: 4706.50s → 4713.67s (duration ~7.17s)
+
+What's in the frame: there is a man and a woman that are standing in front of a counter
+Additional detail: a detailed photo of a woman wearing a green mask and a man in a green shirt
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.4/255)
+  - Color palette: muted colors — dominant colors: black (48.1%), gray (29.8%), brown (22.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.0)

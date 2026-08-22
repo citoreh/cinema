@@ -1,0 +1,13 @@
+Scene 329
+Frame timestamp: 1347.208s (00:22:27.208) — roughly 26% through the video
+Scene span: 1346.00s → 1348.42s (duration ~2.42s)
+
+What's in the frame: there is a woman that is talking to a man in a room
+Additional detail: a detailed photo of a woman talking to a man in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.6/255)
+  - Color palette: muted colors — dominant colors: black (55.7%), brown (41.0%), white (3.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 109.7)

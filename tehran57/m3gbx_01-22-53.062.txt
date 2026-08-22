@@ -1,0 +1,13 @@
+Scene 1011
+Frame timestamp: 4973.062s (01:22:53.062) — roughly 97% through the video
+Scene span: 4971.29s → 4974.83s (duration ~3.54s)
+
+What's in the frame: there are three men in suits standing next to each other on a stage
+Additional detail: a detailed photo of a group of men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.0/255)
+  - Color palette: muted colors — dominant colors: black (46.8%), brown (38.0%), gray (15.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 495.8)

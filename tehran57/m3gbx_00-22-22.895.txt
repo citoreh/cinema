@@ -1,0 +1,13 @@
+Scene 327
+Frame timestamp: 1342.896s (00:22:22.895) — roughly 26% through the video
+Scene span: 1341.92s → 1343.88s (duration ~1.96s)
+
+What's in the frame: there is a woman standing in front of a mirror making a funny face
+Additional detail: a detailed photo of a woman making a funny face in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.8/255)
+  - Color palette: muted colors — dominant colors: black (57.2%), brown (39.7%), beige (3.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 80.3)

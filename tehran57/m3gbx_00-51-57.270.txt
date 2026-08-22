@@ -1,0 +1,13 @@
+Scene 685
+Frame timestamp: 3117.271s (00:51:57.270) — roughly 61% through the video
+Scene span: 3115.92s → 3118.62s (duration ~2.71s)
+
+What's in the frame: there are two men standing next to each other in a room
+Additional detail: a detailed photo of a man with a mustache and moustache standing next to another man in a suit
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 38.9/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (54.4%), black (24.3%), brown (21.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 26.4)

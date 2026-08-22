@@ -1,0 +1,13 @@
+Scene 987
+Frame timestamp: 4724.958s (01:18:44.958) — roughly 92% through the video
+Scene span: 4723.58s → 4726.33s (duration ~2.75s)
+
+What's in the frame: there is a group of people that are standing together in a room
+Additional detail: a detailed photo of a group of people standing in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.4/255)
+  - Color palette: muted colors — dominant colors: brown (51.1%), black (36.2%), gray (12.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 22.7)

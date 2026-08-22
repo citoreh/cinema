@@ -1,0 +1,13 @@
+Scene 903
+Frame timestamp: 3949.500s (01:05:49.500) — roughly 77% through the video
+Scene span: 3948.96s → 3950.04s (duration ~1.08s)
+
+What's in the frame: there are two men standing next to each other near a pool
+Additional detail: a detailed photo of two men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 88.9/255)
+  - Color palette: muted colors — dominant colors: brown (44.3%), black (29.4%), gray (26.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 268.7)

@@ -1,0 +1,13 @@
+Scene 413
+Frame timestamp: 1743.083s (00:29:03.083) — roughly 34% through the video
+Scene span: 1741.71s → 1744.46s (duration ~2.75s)
+
+What's in the frame: there is a man with a mustache talking to another man in front of a building
+Additional detail: a detailed photo of a man talking to another man in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 91.3/255)
+  - Color palette: muted colors — dominant colors: black (42.6%), gray (36.1%), beige (21.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 40.6)

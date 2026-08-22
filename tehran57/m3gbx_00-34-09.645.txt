@@ -1,0 +1,13 @@
+Scene 478
+Frame timestamp: 2049.646s (00:34:09.645) — roughly 40% through the video
+Scene span: 2048.21s → 2051.08s (duration ~2.88s)
+
+What's in the frame: there is a man that is standing in front of a gold curtain
+Additional detail: a detailed photo of a man standing in front of a gold curtain
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (37.6%), olive (36.7%), black (25.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 61.0)

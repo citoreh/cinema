@@ -1,0 +1,13 @@
+Scene 671
+Frame timestamp: 2983.104s (00:49:43.104) — roughly 58% through the video
+Scene span: 2978.54s → 2987.67s (duration ~9.12s)
+
+What's in the frame: there is a man that is standing in the doorway of a building
+Additional detail: a detailed photo of a man in a hat walking through a hallway
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.0/255)
+  - Color palette: muted colors — dominant colors: brown (46.8%), black (38.7%), gray (14.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 28.5)

@@ -1,0 +1,13 @@
+Scene 604
+Frame timestamp: 2482.250s (00:41:22.250) — roughly 48% through the video
+Scene span: 2481.79s → 2482.71s (duration ~0.92s)
+
+What's in the frame: there is a close up of a man with an afro looking at another man
+Additional detail: a detailed photo of a close up of a man with an afro
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 76.1/255)
+  - Color palette: muted colors — dominant colors: black (65.6%), gray (19.2%), white (15.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.5)

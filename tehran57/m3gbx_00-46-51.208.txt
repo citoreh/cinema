@@ -1,0 +1,13 @@
+Scene 654
+Frame timestamp: 2811.208s (00:46:51.208) — roughly 55% through the video
+Scene span: 2810.62s → 2811.79s (duration ~1.17s)
+
+What's in the frame: this is an image of a man in a suit with a hat on his head
+Additional detail: a detailed photo of a man in a suit and tie standing in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 102.7/255)
+  - Color palette: muted colors — dominant colors: black (37.7%), beige (37.3%), gray (25.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 103.5)

@@ -1,0 +1,13 @@
+Scene 247
+Frame timestamp: 1085.958s (00:18:05.958) — roughly 21% through the video
+Scene span: 1081.88s → 1090.04s (duration ~8.17s)
+
+What's in the frame: there are two men sitting at a table with glasses of wine
+Additional detail: a detailed photo of two men sitting at a table in a restaurant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.3/255)
+  - Color palette: muted colors — dominant colors: black (55.1%), brown (35.3%), beige (9.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.0)

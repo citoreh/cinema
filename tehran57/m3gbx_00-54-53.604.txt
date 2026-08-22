@@ -1,0 +1,13 @@
+Scene 745
+Frame timestamp: 3293.604s (00:54:53.604) — roughly 64% through the video
+Scene span: 3292.75s → 3294.46s (duration ~1.71s)
+
+What's in the frame: this is an image of a woman wearing a headscarf in the street
+Additional detail: a detailed photo of a woman wearing a headscarf in front of a fence
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.7/255)
+  - Color palette: muted colors — dominant colors: black (44.4%), brown (43.1%), gray (12.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 60.3)

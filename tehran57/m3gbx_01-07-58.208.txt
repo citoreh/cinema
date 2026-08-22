@@ -1,0 +1,13 @@
+Scene 930
+Frame timestamp: 4078.208s (01:07:58.208) — roughly 79% through the video
+Scene span: 4057.79s → 4098.62s (duration ~40.83s)
+
+What's in the frame: two men and a woman standing in front of a store window
+Additional detail: a detailed photo of a group of men standing in front of a store
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.2/255)
+  - Color palette: muted colors — dominant colors: brown (42.2%), black (32.8%), brown (25.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 114.0)

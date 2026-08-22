@@ -1,0 +1,13 @@
+Scene 429
+Frame timestamp: 1829.104s (00:30:29.104) — roughly 36% through the video
+Scene span: 1826.12s → 1832.08s (duration ~5.96s)
+
+What's in the frame: there is a man and woman talking to each other in front of a brick building
+Additional detail: a detailed photo of a man and woman talking in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 89.5/255)
+  - Color palette: muted colors — dominant colors: black (41.8%), gray (32.5%), brown (25.8%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 90.2)

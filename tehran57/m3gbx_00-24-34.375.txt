@@ -1,0 +1,13 @@
+Scene 364
+Frame timestamp: 1474.375s (00:24:34.375) — roughly 29% through the video
+Scene span: 1473.50s → 1475.25s (duration ~1.75s)
+
+What's in the frame: there is a young boy standing in front of a door holding a toothbrush
+Additional detail: a detailed photo of a boy holding a toothbrush in front of a door
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 93.0/255)
+  - Color palette: muted colors — dominant colors: black (50.0%), beige (28.0%), brown (22.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 86.4)

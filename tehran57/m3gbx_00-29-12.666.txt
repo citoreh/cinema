@@ -1,0 +1,13 @@
+Scene 415
+Frame timestamp: 1752.667s (00:29:12.666) — roughly 34% through the video
+Scene span: 1750.38s → 1754.96s (duration ~4.58s)
+
+What's in the frame: there is a man that is standing in front of a building
+Additional detail: a detailed photo of a man in a suit and tie standing in front of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 94.1/255)
+  - Color palette: muted colors — dominant colors: black (41.8%), gray (40.3%), beige (17.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 201.6)

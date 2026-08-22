@@ -1,0 +1,13 @@
+Scene 958
+Frame timestamp: 4326.125s (01:12:06.125) — roughly 84% through the video
+Scene span: 4325.29s → 4326.96s (duration ~1.67s)
+
+What's in the frame: there is a person that is holding a piece of paper in their hand
+Additional detail: a detailed photo of a person holding a piece of paper in their hand
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 85.5/255)
+  - Color palette: muted colors — dominant colors: brown (52.9%), black (29.8%), gray (17.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 52.1)

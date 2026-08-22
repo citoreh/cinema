@@ -1,0 +1,13 @@
+Scene 457
+Frame timestamp: 1942.417s (00:32:22.416) — roughly 38% through the video
+Scene span: 1940.04s → 1944.79s (duration ~4.75s)
+
+What's in the frame: there are two men sitting at a table talking to each other
+Additional detail: a detailed photo of a man sitting at a table talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 82.3/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (46.3%), black (34.0%), gold (19.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 57.6)

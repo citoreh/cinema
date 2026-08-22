@@ -1,0 +1,13 @@
+Scene 524
+Frame timestamp: 2279.625s (00:37:59.625) — roughly 44% through the video
+Scene span: 2276.46s → 2282.79s (duration ~6.33s)
+
+What's in the frame: there is a man sitting in the back seat of a car with a hat on his head
+Additional detail: a detailed photo of a man sitting in a car with an afro wig on
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.7/255)
+  - Color palette: muted colors — dominant colors: black (54.1%), brown (26.6%), gray (19.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 35.4)

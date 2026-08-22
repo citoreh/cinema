@@ -1,0 +1,13 @@
+Scene 78
+Frame timestamp: 630.792s (00:10:30.791) — roughly 12% through the video
+Scene span: 630.29s → 631.29s (duration ~1.00s)
+
+What's in the frame: there is a man that is sitting at a table with a cigar in his hand
+Additional detail: a detailed photo of a man in a suit smoking a cigar
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (49.9%), black (33.1%), gray (17.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 218.6)

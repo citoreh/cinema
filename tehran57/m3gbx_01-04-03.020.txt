@@ -1,0 +1,13 @@
+Scene 868
+Frame timestamp: 3843.021s (01:04:03.020) — roughly 75% through the video
+Scene span: 3841.17s → 3844.88s (duration ~3.71s)
+
+What's in the frame: there is a man with a beard standing in front of a refrigerator
+Additional detail: a detailed photo of a man standing in front of a refrigerator
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.7/255)
+  - Color palette: muted colors — dominant colors: brown (40.6%), black (40.6%), beige (18.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.3)

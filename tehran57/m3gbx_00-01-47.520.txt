@@ -1,0 +1,13 @@
+Scene 27
+Frame timestamp: 107.521s (00:01:47.520) — roughly 2% through the video
+Scene span: 102.75s → 112.29s (duration ~9.54s)
+
+What's in the frame: there is a man that is sitting at a table with a piece of paper in front of him
+Additional detail: a detailed photo of a man in a hat looking at a piece of paper
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 112.1/255)
+  - Color palette: muted colors — dominant colors: green (36.2%), black (32.0%), gray (31.8%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 236.8)

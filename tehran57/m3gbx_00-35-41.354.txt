@@ -1,0 +1,13 @@
+Scene 494
+Frame timestamp: 2141.354s (00:35:41.354) — roughly 42% through the video
+Scene span: 2140.58s → 2142.12s (duration ~1.54s)
+
+What's in the frame: there is a man that is sitting in a car with a tie on
+Additional detail: a detailed photo of a man in a suit and tie sitting in a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 85.4/255)
+  - Color palette: muted colors — dominant colors: brown (39.3%), gray (34.0%), black (26.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.9)

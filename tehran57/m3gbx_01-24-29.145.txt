@@ -1,0 +1,13 @@
+Scene 1016
+Frame timestamp: 5069.146s (01:24:29.145) — roughly 99% through the video
+Scene span: 5009.21s → 5129.08s (duration ~119.88s)
+
+What's in the frame: there is a picture of a black background with yellow writing on it
+Additional detail: a detailed photo of a black background with yellow writing on it
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 11.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (72.6%), black (25.0%), olive (2.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 285.5)

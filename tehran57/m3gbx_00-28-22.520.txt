@@ -1,0 +1,13 @@
+Scene 398
+Frame timestamp: 1702.521s (00:28:22.520) — roughly 33% through the video
+Scene span: 1700.54s → 1704.50s (duration ~3.96s)
+
+What's in the frame: this is an image of a man talking to another man in front of a tree
+Additional detail: a detailed photo of a man in a suit talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 91.2/255)
+  - Color palette: muted colors — dominant colors: black (45.1%), beige (32.8%), brown (22.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 60.5)

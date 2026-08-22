@@ -1,0 +1,13 @@
+Scene 394
+Frame timestamp: 1655.771s (00:27:35.770) — roughly 32% through the video
+Scene span: 1651.88s → 1659.67s (duration ~7.79s)
+
+What's in the frame: there are two men that are standing next to a green truck
+Additional detail: a detailed photo of a man handing something to another man in front of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 91.5/255)
+  - Color palette: muted colors — dominant colors: brown (42.8%), black (38.2%), beige (19.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 342.9)

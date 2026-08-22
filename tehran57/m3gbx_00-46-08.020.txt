@@ -1,0 +1,13 @@
+Scene 637
+Frame timestamp: 2768.021s (00:46:08.020) — roughly 54% through the video
+Scene span: 2767.25s → 2768.79s (duration ~1.54s)
+
+What's in the frame: there is a man with a mustache sitting in the back of a car
+Additional detail: a detailed photo of a man with a mustache sitting in the back of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 77.2/255)
+  - Color palette: muted colors — dominant colors: black (47.5%), beige (29.1%), navy (23.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 72.4)

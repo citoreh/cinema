@@ -1,0 +1,13 @@
+Scene 965
+Frame timestamp: 4390.146s (01:13:10.145) — roughly 86% through the video
+Scene span: 4384.67s → 4395.62s (duration ~10.96s)
+
+What's in the frame: there is a black and white photo of two people sitting in front of a television
+Additional detail: a detailed photo of a black and white photo of people in front of a television
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.0/255)
+  - Color palette: muted colors — dominant colors: black (55.3%), gray (38.1%), black (6.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 52.3)

@@ -1,0 +1,13 @@
+Scene 29
+Frame timestamp: 163.708s (00:02:43.708) — roughly 3% through the video
+Scene span: 119.04s → 208.38s (duration ~89.33s)
+
+What's in the frame: there are two men standing next to a brick wall with a banner on it
+Additional detail: a detailed photo of two men standing next to a brick wall
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 92.3/255)
+  - Color palette: muted colors — dominant colors: brown (43.3%), black (34.6%), beige (22.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 220.8)

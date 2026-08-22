@@ -1,0 +1,13 @@
+Scene 17
+Frame timestamp: 78.688s (00:01:18.687) — roughly 2% through the video
+Scene span: 77.50s → 79.88s (duration ~2.38s)
+
+What's in the frame: this is an image of a man in a hat looking out of a window
+Additional detail: a detailed photo of a man in a hat looking out of a window
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 98.8/255)
+  - Color palette: muted colors — dominant colors: green (38.9%), black (36.0%), gray (25.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 249.8)

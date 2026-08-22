@@ -1,0 +1,13 @@
+Scene 594
+Frame timestamp: 2459.833s (00:40:59.833) — roughly 48% through the video
+Scene span: 2457.46s → 2462.21s (duration ~4.75s)
+
+What's in the frame: there is a man with a mustache and a moustache next to a man with a moustache
+Additional detail: a detailed photo of two men, one with a mustache and the other with a moustache
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 77.2/255)
+  - Color palette: muted colors — dominant colors: black (59.8%), gray (26.4%), beige (13.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 31.2)

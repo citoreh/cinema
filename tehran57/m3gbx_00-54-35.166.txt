@@ -1,0 +1,13 @@
+Scene 739
+Frame timestamp: 3275.167s (00:54:35.166) — roughly 64% through the video
+Scene span: 3274.54s → 3275.79s (duration ~1.25s)
+
+What's in the frame: there is a man and a woman walking in front of a fence
+Additional detail: a detailed photo of a man and a woman standing in front of a fence
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 62.2/255)
+  - Color palette: muted colors — dominant colors: black (57.2%), brown (30.1%), beige (12.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 69.0)

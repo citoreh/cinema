@@ -1,0 +1,13 @@
+Scene 439
+Frame timestamp: 1861.771s (00:31:01.770) — roughly 36% through the video
+Scene span: 1860.46s → 1863.08s (duration ~2.62s)
+
+What's in the frame: there are two men standing next to each other in front of a brick wall
+Additional detail: a detailed photo of a man in a suit and hat talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 102.4/255)
+  - Color palette: muted colors — dominant colors: black (45.7%), gray (31.5%), beige (22.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 46.2)

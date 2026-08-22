@@ -1,0 +1,13 @@
+Scene 106
+Frame timestamp: 748.188s (00:12:28.187) — roughly 15% through the video
+Scene span: 747.04s → 749.33s (duration ~2.29s)
+
+What's in the frame: there is a man that is reading a newspaper in a room
+Additional detail: a detailed photo of a man reading a newspaper in a crowded room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 97.9/255)
+  - Color palette: muted colors — dominant colors: black (42.1%), gray (35.8%), beige (22.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 42.1)

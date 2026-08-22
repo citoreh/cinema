@@ -1,0 +1,13 @@
+Scene 545
+Frame timestamp: 2333.250s (00:38:53.250) — roughly 45% through the video
+Scene span: 2331.79s → 2334.71s (duration ~2.92s)
+
+What's in the frame: there is a man that is sitting in the back seat of a car
+Additional detail: a detailed photo of a man sitting in a car with an afro on his head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.9/255)
+  - Color palette: muted colors — dominant colors: black (52.8%), brown (41.9%), beige (5.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.2)

@@ -1,0 +1,13 @@
+Scene 848
+Frame timestamp: 3799.708s (01:03:19.708) — roughly 74% through the video
+Scene span: 3798.25s → 3801.17s (duration ~2.92s)
+
+What's in the frame: there is a man that is standing in a room with papers on the wall
+Additional detail: a detailed photo of a man with a beard standing in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.4/255)
+  - Color palette: muted colors — dominant colors: gray (48.3%), black (42.9%), white (8.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.3)

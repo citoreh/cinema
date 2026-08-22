@@ -1,0 +1,13 @@
+Scene 660
+Frame timestamp: 2824.021s (00:47:04.020) — roughly 55% through the video
+Scene span: 2822.79s → 2825.25s (duration ~2.46s)
+
+What's in the frame: there is a man with an umbrella standing in front of a building
+Additional detail: a detailed photo of a man with an umbrella in the rain
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 98.3/255)
+  - Color palette: muted colors — dominant colors: beige (41.9%), black (41.2%), brown (16.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.0)

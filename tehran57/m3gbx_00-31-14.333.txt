@@ -1,0 +1,13 @@
+Scene 442
+Frame timestamp: 1874.333s (00:31:14.333) — roughly 37% through the video
+Scene span: 1869.33s → 1879.33s (duration ~10.00s)
+
+What's in the frame: there is a man standing next to a parked car on the side of the street
+Additional detail: a detailed photo of a man in a suit standing next to a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 95.3/255)
+  - Color palette: muted colors — dominant colors: gray (43.6%), black (35.5%), beige (20.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 308.6)

@@ -1,0 +1,13 @@
+Scene 115
+Frame timestamp: 764.125s (00:12:44.125) — roughly 15% through the video
+Scene span: 763.33s → 764.92s (duration ~1.58s)
+
+What's in the frame: there is a man and a woman standing in front of a neon sign
+Additional detail: a detailed photo of a man and woman standing in front of a brick wall
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 53.9/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (51.9%), black (26.9%), brown (21.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 75.5)

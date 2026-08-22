@@ -1,0 +1,13 @@
+Scene 461
+Frame timestamp: 1952.667s (00:32:32.666) — roughly 38% through the video
+Scene span: 1951.38s → 1953.96s (duration ~2.58s)
+
+What's in the frame: there is a man and a woman sitting at a table with wine glasses in front of them
+Additional detail: a detailed photo of a group of people sitting around a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 85.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (41.9%), black (39.7%), beige (18.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 92.2)

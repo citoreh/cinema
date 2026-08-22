@@ -1,0 +1,13 @@
+Scene 615
+Frame timestamp: 2558.625s (00:42:38.625) — roughly 50% through the video
+Scene span: 2555.83s → 2561.42s (duration ~5.58s)
+
+What's in the frame: this is an image of a woman with a scarf on her head
+Additional detail: a detailed photo of a woman with a scarf on her head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.6/255)
+  - Color palette: muted colors — dominant colors: brown (52.0%), black (32.2%), gray (15.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.3)

@@ -1,0 +1,13 @@
+Scene 312
+Frame timestamp: 1300.729s (00:21:40.729) — roughly 25% through the video
+Scene span: 1297.38s → 1304.08s (duration ~6.71s)
+
+What's in the frame: there is a woman that is standing in front of some stairs
+Additional detail: a detailed photo of a woman standing in front of a staircase
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 77.9/255)
+  - Color palette: muted colors — dominant colors: black (43.3%), gray (28.9%), brown (27.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 33.2)

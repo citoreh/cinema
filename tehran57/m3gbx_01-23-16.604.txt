@@ -1,0 +1,13 @@
+Scene 1015
+Frame timestamp: 4996.604s (01:23:16.604) — roughly 97% through the video
+Scene span: 4984.00s → 5009.21s (duration ~25.21s)
+
+What's in the frame: there are three men in suits and ties standing next to each other
+Additional detail: a detailed photo of a group of men standing in front of a stage
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.8/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (46.0%), brown (38.9%), gray (15.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 478.7)

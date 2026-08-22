@@ -1,0 +1,13 @@
+Scene 901
+Frame timestamp: 3945.667s (01:05:45.666) — roughly 77% through the video
+Scene span: 3943.33s → 3948.00s (duration ~4.67s)
+
+What's in the frame: there are two men standing next to each other near a water fountain
+Additional detail: a detailed photo of two men standing next to each other in front of a fountain
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 89.3/255)
+  - Color palette: muted colors — dominant colors: brown (37.7%), black (32.0%), gray (30.4%)
+  - Composition: busy / detailed composition with lots of edges and texture
+  - Focus/motion: sharp / in focus (sharpness score 222.6)

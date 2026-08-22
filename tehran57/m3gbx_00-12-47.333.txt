@@ -1,0 +1,13 @@
+Scene 118
+Frame timestamp: 767.333s (00:12:47.333) — roughly 15% through the video
+Scene span: 766.54s → 768.12s (duration ~1.58s)
+
+What's in the frame: there is a man and a woman standing in front of a neon sign
+Additional detail: a detailed photo of a man and woman standing in front of a neon sign
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.7/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (50.4%), black (26.4%), brown (23.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 74.3)

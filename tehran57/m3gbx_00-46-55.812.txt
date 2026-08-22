@@ -1,0 +1,13 @@
+Scene 656
+Frame timestamp: 2815.812s (00:46:55.812) — roughly 55% through the video
+Scene span: 2813.00s → 2818.62s (duration ~5.62s)
+
+What's in the frame: there are two men standing next to a car with the hood open
+Additional detail: a detailed photo of a couple of men standing next to a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.6/255)
+  - Color palette: muted colors — dominant colors: black (49.3%), brown (34.8%), beige (15.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 239.0)

@@ -1,0 +1,13 @@
+Scene 662
+Frame timestamp: 2828.125s (00:47:08.125) — roughly 55% through the video
+Scene span: 2827.04s → 2829.21s (duration ~2.17s)
+
+What's in the frame: there is a woman with a scarf on her head standing in front of a car
+Additional detail: a detailed photo of a woman in a brown coat with a hood over her head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 46.6/255)
+  - Color palette: muted colors — dominant colors: black (65.6%), brown (21.8%), gray (12.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 28.0)

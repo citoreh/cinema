@@ -1,0 +1,13 @@
+Scene 975
+Frame timestamp: 4617.958s (01:16:57.958) — roughly 90% through the video
+Scene span: 4616.88s → 4619.04s (duration ~2.17s)
+
+What's in the frame: this is a picture of a person pulling a piece of luggage on a conveyor belt
+Additional detail: a detailed photo of a person pulling a piece of luggage up an escalator
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 48.2/255)
+  - Color palette: muted colors — dominant colors: black (46.2%), navy (40.4%), gray (13.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.6)

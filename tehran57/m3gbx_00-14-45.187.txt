@@ -1,0 +1,13 @@
+Scene 225
+Frame timestamp: 885.188s (00:14:45.187) — roughly 17% through the video
+Scene span: 884.08s → 886.29s (duration ~2.21s)
+
+What's in the frame: there are two men sitting at a table eating food and drinking wine
+Additional detail: a detailed photo of a man and woman sharing a meal at a restaurant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.8/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (54.3%), brown (32.3%), gray (13.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 146.0)

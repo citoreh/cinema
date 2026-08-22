@@ -1,0 +1,13 @@
+Scene 955
+Frame timestamp: 4317.938s (01:11:57.937) — roughly 84% through the video
+Scene span: 4317.38s → 4318.50s (duration ~1.12s)
+
+What's in the frame: there is a flag that is flying high in the sky
+Additional detail: a detailed photo of an american flag flying high in the sky
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: bright / well-lit (avg brightness 174.1/255)
+  - Color palette: muted colors — dominant colors: beige (69.2%), black (25.3%), gray (5.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 53.6)

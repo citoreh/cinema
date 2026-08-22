@@ -1,0 +1,13 @@
+Scene 275
+Frame timestamp: 1179.917s (00:19:39.916) — roughly 23% through the video
+Scene span: 1179.33s → 1180.50s (duration ~1.17s)
+
+What's in the frame: there is a man in a suit and tie dancing at a party
+Additional detail: a detailed photo of a man in a suit dancing at a party
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 51.3/255)
+  - Color palette: muted colors — dominant colors: black (62.0%), brown (25.3%), gray (12.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 64.5)

@@ -1,0 +1,13 @@
+Scene 293
+Frame timestamp: 1223.083s (00:20:23.083) — roughly 24% through the video
+Scene span: 1221.67s → 1224.50s (duration ~2.83s)
+
+What's in the frame: there is a group of people that are standing together in front of a microphone
+Additional detail: a detailed photo of a group of men in suits and ties
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.2/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (48.7%), brown (32.0%), gold (19.3%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 386.6)

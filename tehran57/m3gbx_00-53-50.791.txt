@@ -1,0 +1,13 @@
+Scene 725
+Frame timestamp: 3230.792s (00:53:50.791) — roughly 63% through the video
+Scene span: 3230.29s → 3231.29s (duration ~1.00s)
+
+What's in the frame: there is a woman that is looking at something on the hood of a car
+Additional detail: a detailed photo of a woman wearing a scarf and gloves
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 88.8/255)
+  - Color palette: muted colors — dominant colors: black (40.3%), gray (40.2%), brown (19.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 28.8)

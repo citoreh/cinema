@@ -1,0 +1,13 @@
+Scene 430
+Frame timestamp: 1833.562s (00:30:33.562) — roughly 36% through the video
+Scene span: 1832.08s → 1835.04s (duration ~2.96s)
+
+What's in the frame: there are two men standing next to each other in front of a brick wall
+Additional detail: a detailed photo of a man in a black hat and a man in a striped shirt
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 93.1/255)
+  - Color palette: muted colors — dominant colors: black (51.2%), gray (27.5%), beige (21.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 79.7)

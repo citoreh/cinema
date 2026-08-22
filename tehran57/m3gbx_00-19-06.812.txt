@@ -1,0 +1,13 @@
+Scene 261
+Frame timestamp: 1146.812s (00:19:06.812) — roughly 22% through the video
+Scene span: 1146.12s → 1147.50s (duration ~1.38s)
+
+What's in the frame: there is a man in a suit and tie with a fake moustache on his face
+Additional detail: a detailed photo of a man in a suit and tie with a fake moustache on his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (52.0%), brown (31.4%), gold (16.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 45.1)

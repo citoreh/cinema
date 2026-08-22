@@ -1,0 +1,13 @@
+Scene 596
+Frame timestamp: 2467.271s (00:41:07.270) — roughly 48% through the video
+Scene span: 2466.71s → 2467.83s (duration ~1.12s)
+
+What's in the frame: there is a man with an afro looking at another man in the mirror
+Additional detail: a detailed photo of a close up of a man with an afro
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.2/255)
+  - Color palette: muted colors — dominant colors: black (63.3%), gray (20.5%), white (16.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.3)

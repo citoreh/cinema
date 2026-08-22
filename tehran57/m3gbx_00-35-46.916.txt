@@ -1,0 +1,13 @@
+Scene 497
+Frame timestamp: 2146.917s (00:35:46.916) — roughly 42% through the video
+Scene span: 2145.83s → 2148.00s (duration ~2.17s)
+
+What's in the frame: there is a radio on the dashboard of a red car
+Additional detail: a detailed photo of a radio in the center of a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 57.6/255)
+  - Color palette: muted colors — dominant colors: black (67.1%), brown (25.7%), gray (7.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 54.6)

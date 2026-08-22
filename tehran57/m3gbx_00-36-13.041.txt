@@ -1,0 +1,13 @@
+Scene 510
+Frame timestamp: 2173.042s (00:36:13.041) — roughly 42% through the video
+Scene span: 2172.62s → 2173.46s (duration ~0.83s)
+
+What's in the frame: there is a man that is sitting in a car talking on a cell phone
+Additional detail: a detailed photo of a man with an afro sitting in a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 82.4/255)
+  - Color palette: muted colors — dominant colors: brown (42.7%), gray (30.0%), black (27.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 32.5)

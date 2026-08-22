@@ -1,0 +1,13 @@
+Scene 700
+Frame timestamp: 3151.021s (00:52:31.020) — roughly 61% through the video
+Scene span: 3150.12s → 3151.92s (duration ~1.79s)
+
+What's in the frame: there is a woman in a nun ' s headdress looking at a clock
+Additional detail: a detailed photo of a woman in a nun ' s habit with a clock in the background
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 52.5/255)
+  - Color palette: muted colors — dominant colors: black (53.7%), brown (32.7%), gray (13.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 12.0)

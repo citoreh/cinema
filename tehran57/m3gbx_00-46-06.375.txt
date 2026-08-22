@@ -1,0 +1,13 @@
+Scene 636
+Frame timestamp: 2766.375s (00:46:06.375) — roughly 54% through the video
+Scene span: 2765.50s → 2767.25s (duration ~1.75s)
+
+What's in the frame: there is a woman that is wearing a hoodie and looking at the camera
+Additional detail: a detailed photo of a woman in a brown coat with a hood over her head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 46.6/255)
+  - Color palette: muted colors — dominant colors: black (65.1%), brown (22.3%), gray (12.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 31.2)

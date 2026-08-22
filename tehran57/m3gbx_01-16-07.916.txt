@@ -1,0 +1,13 @@
+Scene 968
+Frame timestamp: 4567.917s (01:16:07.916) — roughly 89% through the video
+Scene span: 4558.12s → 4577.71s (duration ~19.58s)
+
+What's in the frame: there is a man standing outside of a house with a red umbrella
+Additional detail: a detailed photo of a man standing in front of a house
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 96.8/255)
+  - Color palette: muted colors — dominant colors: brown (35.6%), beige (33.2%), black (31.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 160.5)

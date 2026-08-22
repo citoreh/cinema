@@ -1,0 +1,13 @@
+Scene 695
+Frame timestamp: 3143.417s (00:52:23.416) — roughly 61% through the video
+Scene span: 3142.29s → 3144.54s (duration ~2.25s)
+
+What's in the frame: this is an image of a woman wearing a headscarf looking at the camera
+Additional detail: a detailed photo of a woman wearing a headscarf looking at the camera
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 48.2/255)
+  - Color palette: muted colors — dominant colors: black (54.3%), brown (34.0%), gray (11.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 14.6)

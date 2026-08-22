@@ -1,0 +1,13 @@
+Scene 321
+Frame timestamp: 1330.958s (00:22:10.958) — roughly 26% through the video
+Scene span: 1329.12s → 1332.79s (duration ~3.67s)
+
+What's in the frame: there is a woman that is talking on the phone in a room
+Additional detail: a detailed photo of a woman talking on a cell phone in a living room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.1/255)
+  - Color palette: muted colors — dominant colors: black (55.0%), brown (41.8%), beige (3.3%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 97.6)

@@ -1,0 +1,13 @@
+Scene 786
+Frame timestamp: 3515.479s (00:58:35.479) — roughly 68% through the video
+Scene span: 3514.62s → 3516.33s (duration ~1.71s)
+
+What's in the frame: there are two men standing next to each other in a dark room
+Additional detail: a detailed photo of a man and a woman posing for a picture
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 29.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (64.2%), black (25.3%), brown (10.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.3)

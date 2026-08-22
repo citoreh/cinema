@@ -1,0 +1,13 @@
+Scene 992
+Frame timestamp: 4773.042s (01:19:33.041) — roughly 93% through the video
+Scene span: 4770.00s → 4776.08s (duration ~6.08s)
+
+What's in the frame: there are two men standing next to each other at an airport
+Additional detail: a detailed photo of a group of men standing around each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 66.4/255)
+  - Color palette: muted colors — dominant colors: black (45.3%), gray (31.6%), brown (23.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 66.7)

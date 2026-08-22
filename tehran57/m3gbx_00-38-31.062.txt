@@ -1,0 +1,13 @@
+Scene 539
+Frame timestamp: 2311.062s (00:38:31.062) — roughly 45% through the video
+Scene span: 2310.42s → 2311.71s (duration ~1.29s)
+
+What's in the frame: there is a man that is sitting in a car with his eyes closed
+Additional detail: a detailed photo of a smiling man in a suit and red tie
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.6/255)
+  - Color palette: muted colors — dominant colors: black (56.3%), brown (34.2%), gray (9.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.8)

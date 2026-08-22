@@ -1,0 +1,13 @@
+Scene 467
+Frame timestamp: 1989.833s (00:33:09.833) — roughly 39% through the video
+Scene span: 1986.88s → 1992.79s (duration ~5.92s)
+
+What's in the frame: there is a man and a woman shaking hands in a restaurant
+Additional detail: a detailed photo of a man and woman shaking hands in a restaurant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.8/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (42.5%), brown (40.3%), gray (17.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 43.5)

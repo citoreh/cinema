@@ -1,0 +1,13 @@
+Scene 938
+Frame timestamp: 4152.188s (01:09:12.187) — roughly 81% through the video
+Scene span: 4146.75s → 4157.62s (duration ~10.88s)
+
+What's in the frame: there are two men standing next to each other with a surprised look on their faces
+Additional detail: a detailed photo of two men standing next to each other with a surprised look on their faces
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.6/255)
+  - Color palette: muted colors — dominant colors: brown (45.4%), black (31.6%), gray (23.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 70.3)

@@ -1,0 +1,13 @@
+Scene 253
+Frame timestamp: 1115.396s (00:18:35.395) — roughly 22% through the video
+Scene span: 1110.29s → 1120.50s (duration ~10.21s)
+
+What's in the frame: there is a man and woman sitting at a table talking to each other
+Additional detail: a detailed photo of a man and a woman sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 69.0/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (58.5%), brown (31.3%), beige (10.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.7)

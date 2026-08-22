@@ -1,0 +1,13 @@
+Scene 248
+Frame timestamp: 1091.500s (00:18:11.500) — roughly 21% through the video
+Scene span: 1090.04s → 1092.96s (duration ~2.92s)
+
+What's in the frame: there is a woman sitting at a table with a newspaper in front of her
+Additional detail: a detailed photo of a woman sitting at a table in a restaurant
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.8/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (53.9%), brown (36.6%), beige (9.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 12.7)

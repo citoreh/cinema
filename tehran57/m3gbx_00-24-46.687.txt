@@ -1,0 +1,13 @@
+Scene 369
+Frame timestamp: 1486.688s (00:24:46.687) — roughly 29% through the video
+Scene span: 1485.75s → 1487.62s (duration ~1.88s)
+
+What's in the frame: there is a man standing next to a woman in a living room
+Additional detail: a detailed photo of a man and woman standing in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 72.8/255)
+  - Color palette: muted colors — dominant colors: black (48.5%), brown (29.7%), gray (21.8%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 137.3)

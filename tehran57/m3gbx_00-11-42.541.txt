@@ -1,0 +1,13 @@
+Scene 91
+Frame timestamp: 702.542s (00:11:42.541) — roughly 14% through the video
+Scene span: 701.79s → 703.29s (duration ~1.50s)
+
+What's in the frame: there is a woman in a black jacket and gloves talking to a man in a suit
+Additional detail: a detailed photo of a woman in a black jacket and gloves
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 43.6/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (56.2%), brown (36.4%), gray (7.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 16.9)

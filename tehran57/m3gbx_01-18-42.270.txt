@@ -1,0 +1,13 @@
+Scene 986
+Frame timestamp: 4722.271s (01:18:42.270) — roughly 92% through the video
+Scene span: 4720.96s → 4723.58s (duration ~2.62s)
+
+What's in the frame: there is a man with a fake moustache on his face standing next to another man
+Additional detail: a detailed photo of a man with a fake moustache on his face and another man with a fake moustache on his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.0/255)
+  - Color palette: muted colors — dominant colors: black (46.2%), gray (28.9%), brown (24.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.8)

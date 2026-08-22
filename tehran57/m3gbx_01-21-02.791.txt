@@ -1,0 +1,13 @@
+Scene 1004
+Frame timestamp: 4862.792s (01:21:02.791) — roughly 95% through the video
+Scene span: 4838.96s → 4886.62s (duration ~47.67s)
+
+What's in the frame: there are two men that are playing a video game together
+Additional detail: a detailed photo of a group of men playing a video game
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 71.5/255)
+  - Color palette: muted colors — dominant colors: brown (46.0%), black (39.1%), gray (14.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 68.1)

@@ -1,0 +1,13 @@
+Scene 79
+Frame timestamp: 632.312s (00:10:32.312) — roughly 12% through the video
+Scene span: 631.29s → 633.33s (duration ~2.04s)
+
+What's in the frame: this is a picture of two men sitting at a table with drinks
+Additional detail: a detailed photo of two men sitting at a table with drinks
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.8/255)
+  - Color palette: muted colors — dominant colors: black (55.1%), brown (33.4%), gray (11.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 60.5)

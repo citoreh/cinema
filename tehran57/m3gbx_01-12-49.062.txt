@@ -1,0 +1,13 @@
+Scene 963
+Frame timestamp: 4369.062s (01:12:49.062) — roughly 85% through the video
+Scene span: 4364.54s → 4373.58s (duration ~9.04s)
+
+What's in the frame: there is a man in a suit and tie standing in front of a group of people
+Additional detail: a detailed photo of a man in a suit and tie walking down a hallway
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.9/255)
+  - Color palette: muted colors — dominant colors: black (39.0%), brown (33.4%), gray (27.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 29.1)

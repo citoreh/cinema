@@ -1,0 +1,13 @@
+Scene 1002
+Frame timestamp: 4824.646s (01:20:24.645) — roughly 94% through the video
+Scene span: 4816.08s → 4833.21s (duration ~17.12s)
+
+What's in the frame: there are many people that are standing in a room together
+Additional detail: a detailed photo of a group of men standing around each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.9/255)
+  - Color palette: muted colors — dominant colors: black (49.4%), brown (25.7%), gray (24.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 46.9)

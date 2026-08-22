@@ -1,0 +1,13 @@
+Scene 579
+Frame timestamp: 2430.375s (00:40:30.375) — roughly 47% through the video
+Scene span: 2429.83s → 2430.92s (duration ~1.08s)
+
+What's in the frame: there is a man with a surprised look on his face in front of a mirror
+Additional detail: a detailed photo of a man with a surprised look on his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.5/255)
+  - Color palette: muted colors — dominant colors: black (64.1%), brown (20.0%), beige (15.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 37.2)

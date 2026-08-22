@@ -1,0 +1,13 @@
+Scene 435
+Frame timestamp: 1849.875s (00:30:49.875) — roughly 36% through the video
+Scene span: 1847.58s → 1852.17s (duration ~4.58s)
+
+What's in the frame: there is a man and a woman standing next to each other
+Additional detail: a detailed photo of a man and a woman standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 92.0/255)
+  - Color palette: muted colors — dominant colors: black (40.3%), gray (34.4%), brown (25.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 90.3)

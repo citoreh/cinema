@@ -1,0 +1,13 @@
+Scene 337
+Frame timestamp: 1380.271s (00:23:00.270) — roughly 27% through the video
+Scene span: 1378.08s → 1382.46s (duration ~4.38s)
+
+What's in the frame: ##oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo close up close to see the woman in this is that ' s a woman in the
+Additional detail: a detailed photo of a woman talking to a man in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.1/255)
+  - Color palette: muted colors — dominant colors: black (53.7%), brown (38.9%), beige (7.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 91.5)

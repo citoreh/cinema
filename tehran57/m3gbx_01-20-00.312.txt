@@ -1,0 +1,13 @@
+Scene 997
+Frame timestamp: 4800.312s (01:20:00.312) — roughly 94% through the video
+Scene span: 4798.67s → 4801.96s (duration ~3.29s)
+
+What's in the frame: there are many people standing in line at the airport check - in counter
+Additional detail: a detailed photo of a group of people standing in front of a counter
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.5/255)
+  - Color palette: muted colors — dominant colors: black (58.2%), brown (21.8%), gray (20.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 99.2)

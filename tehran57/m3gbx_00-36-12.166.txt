@@ -1,0 +1,13 @@
+Scene 509
+Frame timestamp: 2172.167s (00:36:12.166) — roughly 42% through the video
+Scene span: 2171.71s → 2172.62s (duration ~0.92s)
+
+What's in the frame: there is a man with a mustache holding a pair of scissors over his head
+Additional detail: a detailed photo of a man holding a pair of scissors over his head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.8/255)
+  - Color palette: muted colors — dominant colors: brown (37.2%), gray (36.1%), black (26.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 24.4)

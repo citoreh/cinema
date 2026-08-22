@@ -1,0 +1,13 @@
+Scene 481
+Frame timestamp: 2058.167s (00:34:18.166) — roughly 40% through the video
+Scene span: 2056.83s → 2059.50s (duration ~2.67s)
+
+What's in the frame: this is an image of a man with a moustache talking to a woman
+Additional detail: a detailed photo of a man in a suit and tie talking to a woman
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 100.3/255)
+  - Color palette: muted colors — dominant colors: black (48.0%), olive (32.3%), beige (19.8%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 99.8)

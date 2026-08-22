@@ -1,0 +1,13 @@
+Scene 244
+Frame timestamp: 954.833s (00:15:54.833) — roughly 19% through the video
+Scene span: 952.92s → 956.75s (duration ~3.83s)
+
+What's in the frame: there is a woman wearing a red scarf and a black jacket
+Additional detail: a detailed photo of a woman with red hair wearing a scarf
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 47.8/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (51.7%), brown (36.7%), brown (11.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 20.9)

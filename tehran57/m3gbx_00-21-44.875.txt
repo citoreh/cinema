@@ -1,0 +1,13 @@
+Scene 313
+Frame timestamp: 1304.875s (00:21:44.875) — roughly 25% through the video
+Scene span: 1304.08s → 1305.67s (duration ~1.58s)
+
+What's in the frame: there is a man that is sitting in a chair with an afro
+Additional detail: a detailed photo of a man with curly hair sitting in a chair
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.6/255)
+  - Color palette: muted colors — dominant colors: black (56.2%), brown (35.9%), white (7.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 54.1)

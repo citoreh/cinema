@@ -1,0 +1,13 @@
+Scene 454
+Frame timestamp: 1925.250s (00:32:05.250) — roughly 38% through the video
+Scene span: 1923.46s → 1927.04s (duration ~3.58s)
+
+What's in the frame: there are two men that are posing for a picture in front of a piano
+Additional detail: a detailed photo of a couple of men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.5/255)
+  - Color palette: muted colors — dominant colors: black (41.3%), brown (29.5%), gray (29.2%)
+  - Composition: busy / detailed composition with lots of edges and texture
+  - Focus/motion: sharp / in focus (sharpness score 589.3)

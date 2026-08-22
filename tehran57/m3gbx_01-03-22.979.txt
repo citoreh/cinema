@@ -1,0 +1,13 @@
+Scene 849
+Frame timestamp: 3802.979s (01:03:22.979) — roughly 74% through the video
+Scene span: 3801.17s → 3804.79s (duration ~3.62s)
+
+What's in the frame: there are two men standing next to each other in a room
+Additional detail: a detailed photo of a man and a woman standing in front of a window
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.1/255)
+  - Color palette: muted colors — dominant colors: brown (51.7%), black (35.5%), beige (12.8%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 142.4)

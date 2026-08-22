@@ -1,0 +1,13 @@
+Scene 444
+Frame timestamp: 1884.771s (00:31:24.770) — roughly 37% through the video
+Scene span: 1880.38s → 1889.17s (duration ~8.79s)
+
+What's in the frame: there is a man that is sitting in the driver ' s seat of a car
+Additional detail: a detailed photo of a man sitting in the passenger seat of a red car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 112.7/255)
+  - Color palette: muted colors — dominant colors: beige (41.0%), black (30.6%), brown (28.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 315.3)

@@ -1,0 +1,13 @@
+Scene 473
+Frame timestamp: 2037.292s (00:33:57.291) — roughly 40% through the video
+Scene span: 2035.04s → 2039.54s (duration ~4.50s)
+
+What's in the frame: there is a man in a suit and tie standing in front of a curtain
+Additional detail: a detailed photo of a man in a suit and tie with a surprised look on his face
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 97.7/255)
+  - Color palette: muted colors — dominant colors: black (49.4%), olive (27.9%), beige (22.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 87.7)

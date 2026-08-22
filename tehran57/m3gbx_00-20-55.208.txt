@@ -1,0 +1,13 @@
+Scene 309
+Frame timestamp: 1255.208s (00:20:55.208) — roughly 24% through the video
+Scene span: 1254.29s → 1256.12s (duration ~1.83s)
+
+What's in the frame: there is a group of people sitting at a table in a restaurant
+Additional detail: a detailed photo of a group of people sitting around a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 90.5/255)
+  - Color palette: vivid, saturated colors — dominant colors: black (45.4%), brown (36.1%), gray (18.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 176.7)

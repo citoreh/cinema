@@ -1,0 +1,13 @@
+Scene 382
+Frame timestamp: 1573.208s (00:26:13.208) — roughly 31% through the video
+Scene span: 1571.62s → 1574.79s (duration ~3.17s)
+
+What's in the frame: there are two men standing next to each other in front of a brick building
+Additional detail: a detailed photo of a man in a suit talking to another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 86.6/255)
+  - Color palette: muted colors — dominant colors: brown (33.6%), gray (33.5%), black (32.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 57.0)

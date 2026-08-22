@@ -1,0 +1,13 @@
+Scene 672
+Frame timestamp: 3030.271s (00:50:30.270) — roughly 59% through the video
+Scene span: 2987.67s → 3072.88s (duration ~85.21s)
+
+What's in the frame: there are three men and a woman standing next to each other
+Additional detail: a detailed photo of three men and a woman standing next to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 31.7/255)
+  - Color palette: muted colors — dominant colors: black (53.2%), black (27.8%), brown (19.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 12.3)

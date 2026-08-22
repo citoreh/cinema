@@ -1,0 +1,13 @@
+Scene 226
+Frame timestamp: 887.771s (00:14:47.770) — roughly 17% through the video
+Scene span: 886.29s → 889.25s (duration ~2.96s)
+
+What's in the frame: there are two men sitting at a table talking to each other
+Additional detail: a detailed photo of a couple of men sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 76.2/255)
+  - Color palette: muted colors — dominant colors: black (44.6%), brown (39.4%), gold (16.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 131.4)

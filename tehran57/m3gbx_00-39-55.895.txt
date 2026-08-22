@@ -1,0 +1,13 @@
+Scene 561
+Frame timestamp: 2395.896s (00:39:55.895) — roughly 47% through the video
+Scene span: 2394.92s → 2396.88s (duration ~1.96s)
+
+What's in the frame: this is an image of a man with an afro wig on talking to another man
+Additional detail: a detailed photo of a man with an afro looking at another man
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.0/255)
+  - Color palette: muted colors — dominant colors: black (65.2%), gray (20.4%), beige (14.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 43.9)

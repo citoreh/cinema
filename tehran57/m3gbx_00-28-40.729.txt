@@ -1,0 +1,13 @@
+Scene 404
+Frame timestamp: 1720.729s (00:28:40.729) — roughly 34% through the video
+Scene span: 1718.42s → 1723.04s (duration ~4.62s)
+
+What's in the frame: this is an image of a man in a suit talking to another man
+Additional detail: a detailed photo of a man talking to another man in front of a tree
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 88.8/255)
+  - Color palette: muted colors — dominant colors: black (46.8%), beige (29.5%), brown (23.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 44.2)

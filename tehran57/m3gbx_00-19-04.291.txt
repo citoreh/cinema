@@ -1,0 +1,13 @@
+Scene 260
+Frame timestamp: 1144.292s (00:19:04.291) — roughly 22% through the video
+Scene span: 1142.46s → 1146.12s (duration ~3.67s)
+
+What's in the frame: there is a woman that is wearing a scarf around her head
+Additional detail: a detailed photo of a woman with a scarf on her head
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 65.2/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (48.0%), black (40.7%), olive (11.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 13.4)

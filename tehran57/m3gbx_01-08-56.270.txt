@@ -1,0 +1,13 @@
+Scene 936
+Frame timestamp: 4136.271s (01:08:56.270) — roughly 81% through the video
+Scene span: 4135.08s → 4137.46s (duration ~2.38s)
+
+What's in the frame: there are two men standing next to each other in a kitchen
+Additional detail: a detailed photo of two men standing next to each other in a kitchen
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 79.3/255)
+  - Color palette: muted colors — dominant colors: brown (45.3%), black (31.8%), gray (22.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 74.5)

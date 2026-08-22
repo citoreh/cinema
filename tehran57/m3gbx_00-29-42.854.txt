@@ -1,0 +1,13 @@
+Scene 425
+Frame timestamp: 1782.854s (00:29:42.854) — roughly 35% through the video
+Scene span: 1782.42s → 1783.29s (duration ~0.88s)
+
+What's in the frame: there is a woman that is standing on a balcony with a umbrella
+Additional detail: a detailed photo of a woman standing on a balcony holding an umbrella
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.5/255)
+  - Color palette: muted colors — dominant colors: black (39.0%), brown (36.4%), gray (24.6%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: soft / possible motion blur (sharpness score 93.4)

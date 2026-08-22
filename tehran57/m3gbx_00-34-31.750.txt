@@ -1,0 +1,13 @@
+Scene 487
+Frame timestamp: 2071.750s (00:34:31.750) — roughly 40% through the video
+Scene span: 2069.83s → 2073.67s (duration ~3.83s)
+
+What's in the frame: there is a man in a suit and tie standing in front of a neon sign
+Additional detail: a detailed photo of a man standing in front of a neon sign
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 71.2/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (55.7%), black (35.6%), gray (8.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 99.5)

@@ -1,0 +1,13 @@
+Scene 455
+Frame timestamp: 1928.021s (00:32:08.020) — roughly 38% through the video
+Scene span: 1927.04s → 1929.00s (duration ~1.96s)
+
+What's in the frame: there is a man and a woman sitting at a table talking on the phone
+Additional detail: a detailed photo of a man and a woman sitting at a table
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 71.3/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (51.0%), black (37.6%), gray (11.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 54.4)

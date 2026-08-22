@@ -1,0 +1,13 @@
+Scene 489
+Frame timestamp: 2074.688s (00:34:34.687) — roughly 40% through the video
+Scene span: 2074.33s → 2075.04s (duration ~0.71s)
+
+What's in the frame: there is a man that is standing in front of a neon sign
+Additional detail: a detailed photo of a man standing in front of a neon sign
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.4/255)
+  - Color palette: muted colors — dominant colors: brown (45.3%), black (40.5%), gray (14.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 23.2)

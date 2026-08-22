@@ -1,0 +1,13 @@
+Scene 918
+Frame timestamp: 3988.354s (01:06:28.354) — roughly 78% through the video
+Scene span: 3987.54s → 3989.17s (duration ~1.62s)
+
+What's in the frame: there is a woman that is standing on a balcony talking on a cell phone
+Additional detail: a detailed photo of a woman standing on a balcony with a bird cage in the background
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 88.6/255)
+  - Color palette: muted colors — dominant colors: brown (35.7%), gray (32.2%), black (32.1%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 224.2)

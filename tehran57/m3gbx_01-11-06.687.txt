@@ -1,0 +1,13 @@
+Scene 947
+Frame timestamp: 4266.688s (01:11:06.687) — roughly 83% through the video
+Scene span: 4261.67s → 4271.71s (duration ~10.04s)
+
+What's in the frame: there are two people that are standing on a checkered floor
+Additional detail: a detailed photo of two people walking on a tiled floor
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 54.8/255)
+  - Color palette: muted colors — dominant colors: black (48.5%), brown (35.6%), gray (15.9%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 110.2)

@@ -1,0 +1,13 @@
+Scene 418
+Frame timestamp: 1765.396s (00:29:25.395) — roughly 34% through the video
+Scene span: 1761.92s → 1768.88s (duration ~6.96s)
+
+What's in the frame: there are two men shaking hands in front of a brick building
+Additional detail: a detailed photo of two men shaking hands in front of a brick building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 82.0/255)
+  - Color palette: muted colors — dominant colors: gray (36.0%), black (35.7%), brown (28.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 48.1)

@@ -1,0 +1,13 @@
+Scene 498
+Frame timestamp: 2148.500s (00:35:48.500) — roughly 42% through the video
+Scene span: 2148.00s → 2149.00s (duration ~1.00s)
+
+What's in the frame: there is a man sitting in the back seat of a car talking on a cell phone
+Additional detail: a detailed photo of a man sitting in a car talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 82.0/255)
+  - Color palette: muted colors — dominant colors: brown (41.8%), gray (32.1%), black (26.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 18.3)

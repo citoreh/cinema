@@ -1,0 +1,13 @@
+Scene 417
+Frame timestamp: 1758.938s (00:29:18.937) — roughly 34% through the video
+Scene span: 1755.96s → 1761.92s (duration ~5.96s)
+
+What's in the frame: there is a woman that is standing on the balcony of a house
+Additional detail: a detailed photo of a woman in a yellow dress standing on a balcony
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 73.9/255)
+  - Color palette: muted colors — dominant colors: black (39.4%), brown (38.0%), gray (22.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 267.6)

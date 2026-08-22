@@ -1,0 +1,13 @@
+Scene 389
+Frame timestamp: 1631.938s (00:27:11.937) — roughly 32% through the video
+Scene span: 1630.17s → 1633.71s (duration ~3.54s)
+
+What's in the frame: there are two men standing next to each other in front of a building
+Additional detail: a detailed photo of two men and a woman talking to each other
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 105.6/255)
+  - Color palette: muted colors — dominant colors: brown (36.8%), black (32.1%), beige (31.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 62.9)

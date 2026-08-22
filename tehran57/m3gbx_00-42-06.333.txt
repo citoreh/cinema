@@ -1,0 +1,13 @@
+Scene 613
+Frame timestamp: 2526.333s (00:42:06.333) — roughly 49% through the video
+Scene span: 2525.12s → 2527.54s (duration ~2.42s)
+
+What's in the frame: this is a picture of a sign on the side of a building that has arabic writing on it
+Additional detail: a detailed photo of a wooden sign with arabic writing on it
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.3/255)
+  - Color palette: muted colors — dominant colors: brown (44.9%), gray (29.0%), black (26.2%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 131.2)

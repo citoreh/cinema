@@ -1,0 +1,13 @@
+Scene 308
+Frame timestamp: 1253.396s (00:20:53.395) — roughly 24% through the video
+Scene span: 1252.50s → 1254.29s (duration ~1.79s)
+
+What's in the frame: there is a man that is taking a picture of himself with a camera
+Additional detail: a detailed photo of a man taking a picture with a camera
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 84.2/255)
+  - Color palette: muted colors — dominant colors: black (53.4%), olive (29.6%), beige (17.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 54.0)

@@ -1,0 +1,13 @@
+Scene 793
+Frame timestamp: 3530.812s (00:58:50.812) — roughly 69% through the video
+Scene span: 3530.46s → 3531.17s (duration ~0.71s)
+
+What's in the frame: there are two men that are sitting next to each other
+Additional detail: a detailed photo of a man in a suit and a man in a hat
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 29.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (63.5%), black (25.3%), brown (11.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.0)

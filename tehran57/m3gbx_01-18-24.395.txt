@@ -1,0 +1,13 @@
+Scene 983
+Frame timestamp: 4704.396s (01:18:24.395) — roughly 92% through the video
+Scene span: 4702.29s → 4706.50s (duration ~4.21s)
+
+What's in the frame: this is a picture of a woman ' s legs in high heeled shoes
+Additional detail: a detailed photo of a woman ' s legs in high heels
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 108.1/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (49.8%), black (29.4%), gray (20.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.2)

@@ -1,0 +1,13 @@
+Scene 424
+Frame timestamp: 1781.021s (00:29:41.020) — roughly 35% through the video
+Scene span: 1779.62s → 1782.42s (duration ~2.79s)
+
+What's in the frame: there are two men standing next to each other in front of a brick building
+Additional detail: a detailed photo of a man in a suit and a boy in a striped shirt
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.6/255)
+  - Color palette: muted colors — dominant colors: gray (36.0%), black (35.1%), brown (28.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 43.4)

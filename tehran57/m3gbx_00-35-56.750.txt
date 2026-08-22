@@ -1,0 +1,13 @@
+Scene 502
+Frame timestamp: 2156.750s (00:35:56.750) — roughly 42% through the video
+Scene span: 2153.88s → 2159.62s (duration ~5.75s)
+
+What's in the frame: there is a man in a suit and tie sitting in a car with a surprised look on his face
+Additional detail: a detailed photo of a man in a suit and tie sitting in a car
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 86.8/255)
+  - Color palette: muted colors — dominant colors: brown (36.6%), gray (35.4%), black (28.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.3)

@@ -1,0 +1,13 @@
+Scene 490
+Frame timestamp: 2093.479s (00:34:53.479) — roughly 41% through the video
+Scene span: 2075.04s → 2111.92s (duration ~36.88s)
+
+What's in the frame: there are three men standing next to each other in front of a neon sign
+Additional detail: a detailed photo of a group of men standing in front of a neon sign
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 67.3/255)
+  - Color palette: vivid, saturated colors — dominant colors: brown (43.1%), black (35.6%), gray (21.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 107.2)

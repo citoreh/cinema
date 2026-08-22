@@ -1,0 +1,13 @@
+Scene 441
+Frame timestamp: 1866.604s (00:31:06.604) — roughly 36% through the video
+Scene span: 1863.88s → 1869.33s (duration ~5.46s)
+
+What's in the frame: there are three people standing outside of a building on the street
+Additional detail: a detailed photo of a group of people standing outside of a building
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 104.1/255)
+  - Color palette: muted colors — dominant colors: black (39.6%), gray (39.3%), beige (21.0%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 255.8)

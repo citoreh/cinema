@@ -1,0 +1,13 @@
+Scene 9
+Frame timestamp: 43.021s (00:00:43.020) — roughly 1% through the video
+Scene span: 38.00s → 48.04s (duration ~10.04s)
+
+What's in the frame: there are two televisions in the window of a store
+Additional detail: a detailed photo of an old television sitting in front of a window
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 101.9/255)
+  - Color palette: muted colors — dominant colors: beige (44.6%), black (38.7%), brown (16.7%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 176.0)

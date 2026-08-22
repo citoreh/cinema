@@ -1,0 +1,13 @@
+Scene 393
+Frame timestamp: 1649.646s (00:27:29.645) — roughly 32% through the video
+Scene span: 1647.42s → 1651.88s (duration ~4.46s)
+
+What's in the frame: this is an image of a blue door with a pattern on it
+Additional detail: a detailed photo of a blue door with a pattern on it
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 93.1/255)
+  - Color palette: muted colors — dominant colors: gray (47.8%), black (36.6%), gray (15.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 30.4)

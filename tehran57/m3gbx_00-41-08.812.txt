@@ -1,0 +1,13 @@
+Scene 597
+Frame timestamp: 2468.812s (00:41:08.812) — roughly 48% through the video
+Scene span: 2467.83s → 2469.79s (duration ~1.96s)
+
+What's in the frame: this is an image of a man with a mustache looking at himself in the mirror
+Additional detail: a detailed photo of a man with a moustache on his face in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 58.4/255)
+  - Color palette: muted colors — dominant colors: black (62.3%), brown (19.8%), gray (17.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 19.3)

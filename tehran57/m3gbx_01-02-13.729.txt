@@ -1,0 +1,13 @@
+Scene 827
+Frame timestamp: 3733.729s (01:02:13.729) — roughly 73% through the video
+Scene span: 3732.62s → 3734.83s (duration ~2.21s)
+
+What's in the frame: this is an image of a man with a beard standing in a room
+Additional detail: a detailed photo of a man with a beard standing in a room
+
+Visual context:
+  - Resolution / orientation: 1920x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.7/255)
+  - Color palette: muted colors — dominant colors: gray (47.8%), black (43.5%), white (8.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 45.2)
