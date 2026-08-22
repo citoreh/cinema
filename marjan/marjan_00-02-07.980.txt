@@ -1,0 +1,13 @@
+Scene 15
+Frame timestamp: 127.980s (00:02:07.980) — roughly 3% through the video
+Scene span: 124.48s → 131.48s (duration ~7.00s)
+
+What's in the frame: there is a man that is looking at his cell phone
+Additional detail: a detailed photo of a man with a beard sitting in front of a potted plant
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 25.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (44.4%), black (30.8%), black (24.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.4)

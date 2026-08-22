@@ -1,0 +1,13 @@
+Scene 22
+Frame timestamp: 154.560s (00:02:34.560) — roughly 3% through the video
+Scene span: 153.40s → 155.72s (duration ~2.32s)
+
+What's in the frame: this is an image of a man standing in front of a building
+Additional detail: a detailed photo of a man and a woman standing in front of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 27.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (44.5%), black (40.2%), navy (15.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 5.4)

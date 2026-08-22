@@ -1,0 +1,13 @@
+Scene 4
+Frame timestamp: 38.060s (00:00:38.060) — roughly 1% through the video
+Scene span: 36.32s → 39.80s (duration ~3.48s)
+
+What's in the frame: there are two people that are putting their hands together in front of a mirror
+Additional detail: a detailed photo of a man and a woman ' s hands in front of a mirror
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: bright / well-lit (avg brightness 136.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: beige (56.0%), black (30.0%), gray (14.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 72.2)

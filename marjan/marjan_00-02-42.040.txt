@@ -1,0 +1,13 @@
+Scene 23
+Frame timestamp: 162.040s (00:02:42.040) — roughly 3% through the video
+Scene span: 155.72s → 168.36s (duration ~12.64s)
+
+What's in the frame: there are two men standing next to each other in the dark
+Additional detail: a detailed photo of a man with a beard talking to another man
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 22.0/255)
+  - Color palette: muted colors — dominant colors: black (56.4%), black (43.4%), gray (0.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 3.2)

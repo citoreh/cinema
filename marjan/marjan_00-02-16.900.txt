@@ -1,0 +1,13 @@
+Scene 17
+Frame timestamp: 136.900s (00:02:16.900) — roughly 3% through the video
+Scene span: 134.80s → 139.00s (duration ~4.20s)
+
+What's in the frame: there is a man talking on a cell phone next to a potted plant
+Additional detail: a detailed photo of a man talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 25.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (40.2%), black (36.2%), black (23.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.1)

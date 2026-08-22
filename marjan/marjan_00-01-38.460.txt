@@ -1,0 +1,13 @@
+Scene 9
+Frame timestamp: 98.460s (00:01:38.460) — roughly 2% through the video
+Scene span: 96.60s → 100.32s (duration ~3.72s)
+
+What's in the frame: this is an image of a man in a suit and tie standing in front of a door
+Additional detail: a detailed photo of a man in a suit standing in a doorway
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.2/255)
+  - Color palette: muted colors — dominant colors: black (62.3%), black (22.5%), brown (15.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 11.9)

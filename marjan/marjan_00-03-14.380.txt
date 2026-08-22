@@ -1,0 +1,13 @@
+Scene 28
+Frame timestamp: 194.380s (00:03:14.380) — roughly 4% through the video
+Scene span: 183.68s → 205.08s (duration ~21.40s)
+
+What's in the frame: there is a man that is standing in front of a mirror
+Additional detail: a detailed photo of two men standing in front of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 26.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (44.8%), black (44.8%), navy (10.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.9)

@@ -1,0 +1,13 @@
+Scene 3
+Frame timestamp: 29.120s (00:00:29.120) — roughly 1% through the video
+Scene span: 21.92s → 36.32s (duration ~14.40s)
+
+What's in the frame: there is a man and a woman that are looking at their cell phones
+Additional detail: a detailed photo of a man and a woman looking at jewelry
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 108.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: beige (36.0%), gray (33.1%), black (30.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 80.5)

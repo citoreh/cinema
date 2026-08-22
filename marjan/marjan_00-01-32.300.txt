@@ -1,0 +1,13 @@
+Scene 8
+Frame timestamp: 92.300s (00:01:32.300) — roughly 2% through the video
+Scene span: 88.00s → 96.60s (duration ~8.60s)
+
+What's in the frame: there is a man that is standing in a store talking on a cell phone
+Additional detail: a detailed photo of a man talking on a cell phone in a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 41.9/255)
+  - Color palette: muted colors — dominant colors: black (45.7%), navy (32.8%), brown (21.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 42.6)

@@ -1,0 +1,13 @@
+Scene 27
+Frame timestamp: 179.380s (00:02:59.380) — roughly 4% through the video
+Scene span: 175.08s → 183.68s (duration ~8.60s)
+
+What's in the frame: there are two men standing next to each other in the dark
+Additional detail: a detailed photo of a man pointing at another man in the dark
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 25.1/255)
+  - Color palette: muted colors — dominant colors: black (51.4%), black (48.3%), gray (0.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.8)

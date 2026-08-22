@@ -1,0 +1,13 @@
+Scene 11
+Frame timestamp: 110.140s (00:01:50.140) — roughly 2% through the video
+Scene span: 108.40s → 111.88s (duration ~3.48s)
+
+What's in the frame: this is an image of a man standing in front of a building
+Additional detail: a detailed photo of a man standing in front of a building at night
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 27.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (44.3%), black (42.7%), navy (12.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.4)

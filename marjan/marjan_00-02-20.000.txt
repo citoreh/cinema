@@ -1,0 +1,13 @@
+Scene 18
+Frame timestamp: 140.000s (00:02:20.000) — roughly 3% through the video
+Scene span: 139.00s → 141.00s (duration ~2.00s)
+
+What's in the frame: this is an image of a man standing in front of a building
+Additional detail: a detailed photo of a man standing in front of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 27.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (42.9%), black (42.8%), navy (14.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.2)

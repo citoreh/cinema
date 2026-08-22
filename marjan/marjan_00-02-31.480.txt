@@ -1,0 +1,13 @@
+Scene 21
+Frame timestamp: 151.480s (00:02:31.480) — roughly 3% through the video
+Scene span: 149.56s → 153.40s (duration ~3.84s)
+
+What's in the frame: there is a man that is sitting down with a cell phone in his hand
+Additional detail: a detailed photo of a man smoking a cigarette in a dark room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 25.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (43.6%), black (32.0%), black (24.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.2)

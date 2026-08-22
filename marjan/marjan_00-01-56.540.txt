@@ -1,0 +1,13 @@
+Scene 13
+Frame timestamp: 116.540s (00:01:56.540) — roughly 2% through the video
+Scene span: 114.16s → 118.92s (duration ~4.76s)
+
+What's in the frame: there is a man that is kneeling down with a cell phone in his hand
+Additional detail: a detailed photo of a man kneeling down with his head in his hands
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 25.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (46.0%), black (35.8%), navy (18.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.3)

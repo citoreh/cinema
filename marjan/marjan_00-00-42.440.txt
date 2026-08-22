@@ -1,0 +1,13 @@
+Scene 5
+Frame timestamp: 42.440s (00:00:42.440) — roughly 1% through the video
+Scene span: 39.80s → 45.08s (duration ~5.28s)
+
+What's in the frame: there is a man riding a motorcycle down the street in front of a row of parked cars
+Additional detail: a detailed photo of a man riding a motorcycle down a city street
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 114.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (37.8%), beige (31.8%), black (30.4%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 167.2)

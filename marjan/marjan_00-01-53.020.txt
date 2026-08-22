@@ -1,0 +1,13 @@
+Scene 12
+Frame timestamp: 113.020s (00:01:53.020) — roughly 2% through the video
+Scene span: 111.88s → 114.16s (duration ~2.28s)
+
+What's in the frame: there is a man in a suit and tie talking to a man in a suit
+Additional detail: a detailed photo of a man in a suit talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 27.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (75.4%), black (21.2%), gray (3.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 13.7)

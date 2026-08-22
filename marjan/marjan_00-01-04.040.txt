@@ -1,0 +1,13 @@
+Scene 6
+Frame timestamp: 64.040s (00:01:04.040) — roughly 1% through the video
+Scene span: 45.08s → 83.00s (duration ~37.92s)
+
+What's in the frame: there is a man on a motorcycle and a woman walking down the street
+Additional detail: a detailed photo of a man riding a motorcycle down a narrow street
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 96.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (48.0%), black (29.7%), gray (22.3%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 73.8)

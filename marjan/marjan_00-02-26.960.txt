@@ -1,0 +1,13 @@
+Scene 20
+Frame timestamp: 146.960s (00:02:26.960) — roughly 3% through the video
+Scene span: 144.36s → 149.56s (duration ~5.20s)
+
+What's in the frame: there is a man that is talking on a cell phone in the street
+Additional detail: a detailed photo of a man talking on a cell phone in front of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 27.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (45.1%), black (41.7%), navy (13.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 6.1)

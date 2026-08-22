@@ -1,0 +1,13 @@
+Scene 30
+Frame timestamp: 214.640s (00:03:34.640) — roughly 4% through the video
+Scene span: 211.64s → 217.64s (duration ~6.00s)
+
+What's in the frame: there are two men standing next to each other in a dark room
+Additional detail: a detailed photo of two men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 25.5/255)
+  - Color palette: muted colors — dominant colors: black (41.2%), black (35.8%), black (23.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 3.6)

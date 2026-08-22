@@ -1,0 +1,13 @@
+Scene 16
+Frame timestamp: 133.140s (00:02:13.140) — roughly 3% through the video
+Scene span: 131.48s → 134.80s (duration ~3.32s)
+
+What's in the frame: there is a man that is looking down at his cell phone
+Additional detail: a detailed photo of a man looking down at his cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 27.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (44.3%), black (38.7%), brown (17.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 3.2)

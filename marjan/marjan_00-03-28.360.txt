@@ -1,0 +1,13 @@
+Scene 29
+Frame timestamp: 208.360s (00:03:28.360) — roughly 4% through the video
+Scene span: 205.08s → 211.64s (duration ~6.56s)
+
+What's in the frame: there is a man talking to another man outside at night
+Additional detail: a detailed photo of a man talking to another man in front of a house
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 25.3/255)
+  - Color palette: muted colors — dominant colors: black (54.5%), black (45.3%), gray (0.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.0)

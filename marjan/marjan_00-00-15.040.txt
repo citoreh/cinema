@@ -1,0 +1,13 @@
+Scene 2
+Frame timestamp: 15.040s (00:00:15.040) — roughly 0% through the video
+Scene span: 8.16s → 21.92s (duration ~13.76s)
+
+What's in the frame: there is a man standing next to a woman in a wedding dress
+Additional detail: a detailed photo of a man standing next to a woman in a wedding dress
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.9/255)
+  - Color palette: muted colors — dominant colors: black (45.4%), brown (29.6%), beige (25.0%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 62.5)

@@ -1,0 +1,13 @@
+Scene 7
+Frame timestamp: 85.500s (00:01:25.500) — roughly 2% through the video
+Scene span: 83.00s → 88.00s (duration ~5.00s)
+
+What's in the frame: chinese calligraphy logo in the dark with a black background
+Additional detail: a detailed photo of a black and white image of a horse in the dark
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 14.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (97.8%), brown (1.2%), gray (0.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: sharp / in focus (sharpness score 105.4)

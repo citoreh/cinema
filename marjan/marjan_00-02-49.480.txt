@@ -1,0 +1,13 @@
+Scene 24
+Frame timestamp: 169.480s (00:02:49.480) — roughly 4% through the video
+Scene span: 168.36s → 170.60s (duration ~2.24s)
+
+What's in the frame: there are two men standing next to each other in the dark
+Additional detail: a detailed photo of two men standing in front of a building
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 27.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (42.2%), black (42.0%), navy (15.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 4.4)
