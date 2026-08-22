@@ -1,0 +1,13 @@
+Scene 107
+Frame timestamp: 1004.620s (00:16:44.620) — roughly 21% through the video
+Scene span: 1000.92s → 1008.32s (duration ~7.40s)
+
+What's in the frame: there is a man with a beard and a hoodie looking away from the camera
+Additional detail: a detailed photo of a man with a beard in a hoodie
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.8/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (35.0%), gray (33.1%), black (31.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.8)

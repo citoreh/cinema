@@ -1,0 +1,13 @@
+Scene 88
+Frame timestamp: 817.980s (00:13:37.980) — roughly 17% through the video
+Scene span: 785.40s → 850.56s (duration ~65.16s)
+
+What's in the frame: there is a man and a woman standing on a roof looking at each other
+Additional detail: a detailed photo of a man and a woman standing in front of a cityscape
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 74.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (37.7%), gray (34.5%), brown (27.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 38.5)

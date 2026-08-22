@@ -1,0 +1,13 @@
+Scene 99
+Frame timestamp: 973.780s (00:16:13.780) — roughly 20% through the video
+Scene span: 972.48s → 975.08s (duration ~2.60s)
+
+What's in the frame: there is a man in a hoodie looking down at his cell phone
+Additional detail: a detailed photo of a man in a hoodie looking at his cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (35.5%), black (32.4%), gray (32.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 30.5)

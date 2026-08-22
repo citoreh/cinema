@@ -1,0 +1,13 @@
+Scene 121
+Frame timestamp: 1046.280s (00:17:26.280) — roughly 22% through the video
+Scene span: 1045.16s → 1047.40s (duration ~2.24s)
+
+What's in the frame: this is an image of a man in a grocery store
+Additional detail: a detailed photo of a man in a grocery store staring at the camera
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 63.3/255)
+  - Color palette: muted colors — dominant colors: brown (36.8%), black (34.8%), gray (28.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 25.3)

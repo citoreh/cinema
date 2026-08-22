@@ -1,0 +1,13 @@
+Scene 120
+Frame timestamp: 1042.860s (00:17:22.859) — roughly 22% through the video
+Scene span: 1040.56s → 1045.16s (duration ~4.60s)
+
+What's in the frame: there is a man that is standing in the doorway of a store
+Additional detail: a detailed photo of a man standing in the doorway of a store
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 77.7/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (34.5%), brown (33.0%), black (32.5%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 108.5)

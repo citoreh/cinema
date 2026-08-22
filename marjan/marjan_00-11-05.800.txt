@@ -1,0 +1,13 @@
+Scene 84
+Frame timestamp: 665.800s (00:11:05.800) — roughly 14% through the video
+Scene span: 633.24s → 698.36s (duration ~65.12s)
+
+What's in the frame: there are two men standing next to each other in front of a jail cell
+Additional detail: a detailed photo of two men standing in front of a jail cell
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 55.2/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (55.3%), brown (27.3%), gray (17.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 59.9)

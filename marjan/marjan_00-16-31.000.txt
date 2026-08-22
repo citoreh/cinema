@@ -1,0 +1,13 @@
+Scene 105
+Frame timestamp: 991.000s (00:16:31.000) — roughly 21% through the video
+Scene span: 989.12s → 992.88s (duration ~3.76s)
+
+What's in the frame: there is a man with a beard and a hoodie sitting in front of a bush
+Additional detail: a detailed photo of a man with a beard in a hoodie
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 68.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (35.5%), gray (32.7%), black (31.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.7)

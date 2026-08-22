@@ -1,0 +1,13 @@
+Scene 90
+Frame timestamp: 890.020s (00:14:50.020) — roughly 18% through the video
+Scene span: 873.24s → 906.80s (duration ~33.56s)
+
+What's in the frame: there is a man and a woman standing outside of a building
+Additional detail: a detailed photo of a man standing next to a woman on a sidewalk
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 70.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (38.2%), black (34.3%), brown (27.5%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 34.6)

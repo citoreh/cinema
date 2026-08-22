@@ -1,0 +1,13 @@
+Scene 83
+Frame timestamp: 626.720s (00:10:26.720) — roughly 13% through the video
+Scene span: 620.20s → 633.24s (duration ~13.04s)
+
+What's in the frame: there is a group of people standing around a car in a parking lot
+Additional detail: a detailed photo of a group of men standing around a car
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 60.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (46.9%), brown (30.7%), gray (22.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 55.4)

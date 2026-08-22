@@ -1,0 +1,13 @@
+Scene 100
+Frame timestamp: 976.360s (00:16:16.360) — roughly 20% through the video
+Scene span: 975.08s → 977.64s (duration ~2.56s)
+
+What's in the frame: there is a woman that is wearing a hoodie and looking at the camera
+Additional detail: a detailed photo of a woman wearing a black scarf and a hoodie
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 81.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (44.7%), black (37.2%), brown (18.2%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 38.7)

@@ -1,0 +1,13 @@
+Scene 93
+Frame timestamp: 937.620s (00:15:37.620) — roughly 19% through the video
+Scene span: 931.68s → 943.56s (duration ~11.88s)
+
+What's in the frame: there is a woman taking a picture of a man with a cell phone
+Additional detail: a detailed photo of a group of people walking down a hallway
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 37.2/255)
+  - Color palette: muted colors — dominant colors: black (57.4%), brown (27.9%), brown (14.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 8.7)

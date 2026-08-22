@@ -1,0 +1,13 @@
+Scene 94
+Frame timestamp: 953.160s (00:15:53.160) — roughly 20% through the video
+Scene span: 943.56s → 962.76s (duration ~19.20s)
+
+What's in the frame: there is a woman in a black hoodie talking on a cell phone
+Additional detail: a detailed photo of a woman in a black hoodie talking on a cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 83.4/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (45.4%), black (35.9%), brown (18.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.4)

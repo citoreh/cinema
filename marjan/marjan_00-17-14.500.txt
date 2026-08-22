@@ -1,0 +1,13 @@
+Scene 118
+Frame timestamp: 1034.500s (00:17:14.500) — roughly 21% through the video
+Scene span: 1033.24s → 1035.76s (duration ~2.52s)
+
+What's in the frame: there is a woman wearing a black scarf and a black hoodie
+Additional detail: a detailed photo of a woman in a black head scarf
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (40.7%), black (39.3%), brown (19.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 30.3)

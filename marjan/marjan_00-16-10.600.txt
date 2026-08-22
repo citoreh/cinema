@@ -1,0 +1,13 @@
+Scene 98
+Frame timestamp: 970.600s (00:16:10.600) — roughly 20% through the video
+Scene span: 968.72s → 972.48s (duration ~3.76s)
+
+What's in the frame: there is a woman that is looking down at her cell phone
+Additional detail: a detailed photo of a woman wearing a headscarf looking at her cell phone
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.9/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (44.1%), black (35.8%), brown (20.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 46.0)

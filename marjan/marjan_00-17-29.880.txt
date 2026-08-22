@@ -1,0 +1,13 @@
+Scene 122
+Frame timestamp: 1049.880s (00:17:29.880) — roughly 22% through the video
+Scene span: 1047.40s → 1052.36s (duration ~4.96s)
+
+What's in the frame: there is a man that is talking to someone in the kitchen
+Additional detail: a detailed photo of a man in a kitchen making a funny face
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 64.1/255)
+  - Color palette: muted colors — dominant colors: brown (38.3%), black (32.0%), gray (29.7%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 27.5)

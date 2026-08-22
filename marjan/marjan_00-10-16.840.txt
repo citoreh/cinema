@@ -1,0 +1,13 @@
+Scene 81
+Frame timestamp: 616.840s (00:10:16.840) — roughly 13% through the video
+Scene span: 615.88s → 617.80s (duration ~1.92s)
+
+What's in the frame: there are two men standing next to each other near a brick wall
+Additional detail: a detailed photo of a group of men standing next to each other
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (42.2%), brown (29.9%), black (27.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 37.0)

@@ -1,0 +1,13 @@
+Scene 91
+Frame timestamp: 911.460s (00:15:11.460) — roughly 19% through the video
+Scene span: 906.80s → 916.12s (duration ~9.32s)
+
+What's in the frame: there is a man that is sitting on a motorcycle in the street
+Additional detail: a detailed photo of a man riding a motorcycle on a city street
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 87.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (41.3%), gray (36.3%), beige (22.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 41.8)

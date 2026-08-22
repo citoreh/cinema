@@ -1,0 +1,13 @@
+Scene 89
+Frame timestamp: 861.900s (00:14:21.900) — roughly 18% through the video
+Scene span: 850.56s → 873.24s (duration ~22.68s)
+
+What's in the frame: there are two men that are sitting on a chair in a room
+Additional detail: a detailed photo of two men sitting on a chair in a room
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 46.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (58.0%), brown (26.1%), gray (15.9%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 28.0)

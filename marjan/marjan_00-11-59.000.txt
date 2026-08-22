@@ -1,0 +1,13 @@
+Scene 86
+Frame timestamp: 719.000s (00:11:59.000) — roughly 15% through the video
+Scene span: 710.24s → 727.76s (duration ~17.52s)
+
+What's in the frame: there is a man and woman walking down the street in front of a vending machine
+Additional detail: a detailed photo of a man and a woman walking down a street at night
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 34.6/255)
+  - Color palette: muted colors — dominant colors: black (43.8%), black (42.4%), brown (13.8%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 15.3)

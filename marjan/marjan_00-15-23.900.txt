@@ -1,0 +1,13 @@
+Scene 92
+Frame timestamp: 923.900s (00:15:23.900) — roughly 19% through the video
+Scene span: 916.12s → 931.68s (duration ~15.56s)
+
+What's in the frame: there is a man and a woman that are walking up the stairs
+Additional detail: a detailed photo of a man and a woman walking up a set of stairs
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 36.5/255)
+  - Color palette: muted colors — dominant colors: black (46.8%), black (32.6%), brown (20.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 8.9)

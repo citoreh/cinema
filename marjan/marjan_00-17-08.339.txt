@@ -1,0 +1,13 @@
+Scene 116
+Frame timestamp: 1028.340s (00:17:08.339) — roughly 21% through the video
+Scene span: 1026.60s → 1030.08s (duration ~3.48s)
+
+What's in the frame: this is an image of a woman in a black scarf
+Additional detail: a detailed photo of a woman wearing a black scarf and a headscarf
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.0/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (41.8%), black (37.8%), brown (20.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.8)

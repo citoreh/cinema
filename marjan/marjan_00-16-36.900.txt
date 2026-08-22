@@ -1,0 +1,13 @@
+Scene 106
+Frame timestamp: 996.900s (00:16:36.900) — roughly 21% through the video
+Scene span: 992.88s → 1000.92s (duration ~8.04s)
+
+What's in the frame: this is an image of a woman in a black shawl
+Additional detail: a detailed photo of a woman in a black shawl and scarf
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 78.6/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: black (40.4%), gray (37.0%), brown (22.6%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 33.0)

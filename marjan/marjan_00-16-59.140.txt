@@ -1,0 +1,13 @@
+Scene 112
+Frame timestamp: 1019.140s (00:16:59.140) — roughly 21% through the video
+Scene span: 1017.76s → 1020.52s (duration ~2.76s)
+
+What's in the frame: there is a woman with a black scarf on talking on a cell phone
+Additional detail: a detailed photo of a woman wearing a black scarf and a black hoodie
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 80.3/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: gray (42.4%), black (38.5%), brown (19.1%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 33.6)

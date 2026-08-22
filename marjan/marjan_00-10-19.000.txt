@@ -1,0 +1,13 @@
+Scene 82
+Frame timestamp: 619.000s (00:10:19.000) — roughly 13% through the video
+Scene span: 617.80s → 620.20s (duration ~2.40s)
+
+What's in the frame: several people are sitting on a bench and one of them is pointing at a lizard
+Additional detail: a detailed photo of a group of people sitting on top of a wooden floor
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: dark / low-light (avg brightness 59.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (42.7%), black (31.9%), brown (25.4%)
+  - Composition: minimal / sparse composition, few distinct edges or details
+  - Focus/motion: soft / possible motion blur (sharpness score 36.1)

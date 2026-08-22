@@ -1,0 +1,13 @@
+Scene 119
+Frame timestamp: 1038.160s (00:17:18.160) — roughly 22% through the video
+Scene span: 1035.76s → 1040.56s (duration ~4.80s)
+
+What's in the frame: there is a man and a woman sitting on a green bench
+Additional detail: a detailed photo of a man and a woman sitting on a bench
+
+Visual context:
+  - Resolution / orientation: 2048x1080 (landscape)
+  - Lighting: moderately lit (avg brightness 75.5/255)
+  - Color palette: desaturated, near-monochrome — dominant colors: brown (37.7%), gray (31.7%), black (30.6%)
+  - Composition: moderately detailed composition with some distinct shapes
+  - Focus/motion: sharp / in focus (sharpness score 144.3)
